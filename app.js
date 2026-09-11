@@ -21,9 +21,11 @@ function setMode(mode){
 function setGestureVideo(clip,id){
  let fallback=false;const onFailure=clip.onerror;
  clip.onerror=()=>{if(!fallback){fallback=true;clip.src='examples/words/'+id+'.mp4';clip.load?.();}else onFailure?.call(clip);};
+ clip.preload='metadata';
  clip.src='examples/words/'+id+'.webm';
+ clip.load?.();
 }
-function showExample(){const word=words.find(w=>w.id===$('exampleWord').value);if(!word)return;$('exampleVideo').onerror=()=>{$('exampleCaption').textContent='Видео не загрузилось. Проверьте, что локальный сайт запущен, и обновите страницу.';};setGestureVideo($('exampleVideo'),word.id);$('exampleVideo').playbackRate=$('slowExample').checked ? .5 : 1;$('exampleCaption').textContent=`${word.kk} — ${word.ru}. Образец РЖЯ из Slovo, исходная метка «${word.sourceLabel}».`;}
+function showExample(){const word=words.find(w=>w.id===$('exampleWord').value);if(!word)return;const clip=$('exampleVideo');clip.onerror=()=>{$('exampleCaption').textContent='Видео не загрузилось. Обновите страницу и попробуйте снова.';};clip.muted=true;setGestureVideo(clip,word.id);clip.playbackRate=$('slowExample').checked ? .5 : 1;$('exampleCaption').textContent=`${word.kk} — ${word.ru}. Образец РЖЯ из Slovo, исходная метка «${word.sourceLabel}».`;const pending=clip.play?.();pending?.catch(()=>{});}
 function openExample(word){setMode('sign-text');$('exampleWord').value=word.id;showExample();$('wordExamples').open=true;location.hash='wordExamples';}
 function renderDictionary(){
  document.querySelector('[data-i18n="dict.text"]').textContent=words.length+' слов с видеообразцами РЖЯ и казахским переводом.';
