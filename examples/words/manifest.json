@@ -1,0 +1,352 @@
+[
+  {
+    "sourceFile": "fb3ec88e-c85c-4915-8d54-8f1afdfe3803.mp4",
+    "split": "test",
+    "wordId": "salem",
+    "modified": false,
+    "sourceLabel": "Привет!"
+  },
+  {
+    "sourceFile": "60ec20bb-8e73-4e16-9074-12a7bb61e356.mp4",
+    "split": "test",
+    "wordId": "ia",
+    "modified": false,
+    "sourceLabel": "да"
+  },
+  {
+    "sourceFile": "4acc726a-5d02-41b6-a053-a802b08c56a1.mp4",
+    "split": "test",
+    "wordId": "at",
+    "modified": false,
+    "sourceLabel": "имя"
+  },
+  {
+    "sourceFile": "61baf5ac-cfde-4ef7-ab32-19af3203eafb.mp4",
+    "split": "test",
+    "wordId": "ana",
+    "modified": false,
+    "sourceLabel": "мать"
+  },
+  {
+    "sourceFile": "b92bcdaf-3a4f-43c4-b128-0f392c2e25c8.mp4",
+    "split": "test",
+    "wordId": "ake",
+    "modified": false,
+    "sourceLabel": "отец"
+  },
+  {
+    "sourceFile": "7b9c34e8-a8bd-4f4a-ad2e-05befc12ea1d.mp4",
+    "split": "test",
+    "wordId": "qala",
+    "modified": false,
+    "sourceLabel": "город"
+  },
+  {
+    "sourceFile": "62650c82-12c2-4831-a5c7-36135297ff35.mp4",
+    "split": "test",
+    "wordId": "bugin",
+    "modified": false,
+    "sourceLabel": "сегодня"
+  },
+  {
+    "sourceFile": "76bd5f3f-4393-4ba7-8b02-3682fd318c2b.mp4",
+    "split": "test",
+    "wordId": "erten",
+    "modified": false,
+    "sourceLabel": "завтра"
+  },
+  {
+    "sourceFile": "dd7660fc-bd4f-4cc1-9d98-1585f35b471e.mp4",
+    "split": "test",
+    "wordId": "keshe",
+    "modified": false,
+    "sourceLabel": "вчера"
+  },
+  {
+    "sourceFile": "08cecd00-1e84-4316-a2f4-488ff22b805c.mp4",
+    "split": "test",
+    "wordId": "su",
+    "modified": false,
+    "sourceLabel": "вода"
+  },
+  {
+    "sourceFile": "34642453-0a9c-4a59-9919-1841d44cd32e.mp4",
+    "split": "test",
+    "wordId": "ui",
+    "modified": false,
+    "sourceLabel": "дом"
+  },
+  {
+    "sourceFile": "20e174e3-be76-4aac-80f9-fb00039df958.mp4",
+    "split": "test",
+    "wordId": "kitap",
+    "modified": false,
+    "sourceLabel": "книга"
+  },
+  {
+    "sourceFile": "3b6a7008-06e4-42db-b3d3-ecdbb6f44b74.mp4",
+    "split": "test",
+    "wordId": "mektep",
+    "modified": false,
+    "sourceLabel": "школа"
+  },
+  {
+    "sourceFile": "8292ef4a-f490-4cd6-81c8-408be7abaf20.mp4",
+    "split": "test",
+    "wordId": "it",
+    "modified": false,
+    "sourceLabel": "собака"
+  },
+  {
+    "sourceFile": "389d7c69-5189-413e-a8d4-90b5c3b6b4a5.mp4",
+    "split": "test",
+    "wordId": "mysyq",
+    "modified": false,
+    "sourceLabel": "кошка"
+  },
+  {
+    "sourceFile": "2602656c-b661-48fb-9bad-df2c52572a53.mp4",
+    "split": "test",
+    "wordId": "nan",
+    "modified": false,
+    "sourceLabel": "хлеб"
+  },
+  {
+    "sourceFile": "be769a8e-ea23-41a0-806a-42b604b2ede6.mp4",
+    "split": "test",
+    "wordId": "dos",
+    "modified": false,
+    "sourceLabel": "друг"
+  },
+  {
+    "sourceFile": "204e1138-3826-4038-a0c2-beb0945e6390.mp4",
+    "split": "test",
+    "wordId": "otbasy",
+    "modified": false,
+    "sourceLabel": "семья"
+  },
+  {
+    "sourceFile": "9bc7372e-1141-49a4-995d-521bf848fcdc.mp4",
+    "split": "test",
+    "wordId": "tamaq",
+    "modified": false,
+    "sourceLabel": "еда"
+  },
+  {
+    "sourceFile": "b2c4507f-b652-4f76-a115-0d92c84917ee.mp4",
+    "split": "test",
+    "wordId": "kun",
+    "modified": false,
+    "sourceLabel": "солнце"
+  },
+  {
+    "sourceFile": "040b1667-cf16-4bc4-89e6-42ff59a67c4b.mp4",
+    "split": "test",
+    "wordId": "bala",
+    "modified": false,
+    "sourceLabel": "ребёнок"
+  },
+  {
+    "sourceFile": "170db63a-a52d-499c-9c67-180a0d67869d.mp4",
+    "split": "test",
+    "wordId": "jaqsy",
+    "modified": false,
+    "sourceLabel": "хорошо"
+  },
+  {
+    "sourceFile": "1c96d28e-5b82-40df-993e-14b86b8166a0.mp4",
+    "split": "test",
+    "wordId": "jaman",
+    "modified": false,
+    "sourceLabel": "Плохо"
+  },
+  {
+    "sourceFile": "7686ab1f-28e9-4f18-9b86-df30a83181a3.mp4",
+    "split": "test",
+    "wordId": "tun",
+    "modified": false,
+    "sourceLabel": "ночь"
+  },
+  {
+    "sourceFile": "368876f7-5939-4406-8c2b-0323f84e4a52.mp4",
+    "split": "test",
+    "wordId": "tan",
+    "modified": false,
+    "sourceLabel": "утро"
+  },
+  {
+    "sourceFile": "4bac706a-1002-4818-85cd-f5a91446f8c5.mp4",
+    "split": "test",
+    "wordId": "kesh",
+    "modified": false,
+    "sourceLabel": "вечер"
+  },
+  {
+    "sourceFile": "59001476-a6d2-42fd-8916-a2ca04d3315e.mp4",
+    "split": "test",
+    "wordId": "aqsha",
+    "modified": false,
+    "sourceLabel": "деньги"
+  },
+  {
+    "sourceFile": "04856a31-8326-49cb-8e0c-0843c64a1d92.mp4",
+    "split": "test",
+    "wordId": "uaqyt",
+    "modified": false,
+    "sourceLabel": "время"
+  },
+  {
+    "sourceFile": "410ff9fe-c333-4241-85b8-36c22e350323.mp4",
+    "split": "test",
+    "wordId": "balyq",
+    "modified": false,
+    "sourceLabel": "рыба"
+  },
+  {
+    "sourceFile": "1796d76f-2263-4296-8358-83919902eb2e.mp4",
+    "split": "test",
+    "wordId": "qus",
+    "modified": false,
+    "sourceLabel": "птица"
+  },
+  {
+    "sourceFile": "ad61dfad-35f4-4ec5-a61e-30cd3a17dbe1.mp4",
+    "split": "test",
+    "wordId": "qyzyl",
+    "modified": false,
+    "sourceLabel": "красный"
+  },
+  {
+    "sourceFile": "ad9f524b-2952-4830-8450-7fb912d38fe7.mp4",
+    "split": "test",
+    "wordId": "kok",
+    "modified": false,
+    "sourceLabel": "синий"
+  },
+  {
+    "sourceFile": "113b6eec-add5-4701-bd1e-1755ee355087.mp4",
+    "split": "test",
+    "wordId": "jasyl",
+    "modified": false,
+    "sourceLabel": "зелёный"
+  },
+  {
+    "sourceFile": "b24f68c1-31a2-48a9-869f-24bbc3a30279.mp4",
+    "split": "test",
+    "wordId": "aq",
+    "modified": false,
+    "sourceLabel": "белый"
+  },
+  {
+    "sourceFile": "222111c5-6060-4130-ae93-a1a63af04d12.mp4",
+    "split": "test",
+    "wordId": "qara",
+    "modified": false,
+    "sourceLabel": "черный"
+  },
+  {
+    "sourceFile": "e4ffb10d-4315-4a70-b4cf-f450315c4ca7.mp4",
+    "split": "test",
+    "wordId": "sary",
+    "modified": false,
+    "sourceLabel": "жёлтый"
+  },
+  {
+    "sourceFile": "e0fb7830-8373-4dcd-b97e-d69f6c6dd675.mp4",
+    "split": "test",
+    "wordId": "ulken",
+    "modified": false,
+    "sourceLabel": "большой"
+  },
+  {
+    "sourceFile": "e53a1428-7873-49a4-8761-6e126dd3f898.mp4",
+    "split": "test",
+    "wordId": "kishkentai",
+    "modified": false,
+    "sourceLabel": "маленький"
+  },
+  {
+    "sourceFile": "a1a1cf10-234a-4bf4-a033-74638ccc546f.mp4",
+    "split": "test",
+    "wordId": "erkek",
+    "modified": false,
+    "sourceLabel": "мужчина"
+  },
+  {
+    "sourceFile": "fb399f02-e26c-4618-9381-54f2efc9238c.mp4",
+    "split": "test",
+    "wordId": "aiel",
+    "modified": false,
+    "sourceLabel": "женщина"
+  },
+  {
+    "sourceFile": "b69e73d6-7ad7-482e-bd96-ab1e86bd6020.mp4",
+    "split": "test",
+    "wordId": "apta",
+    "modified": false,
+    "sourceLabel": "неделя"
+  },
+  {
+    "sourceFile": "cff6bfe5-c082-4e2c-ba98-0264801b43c4.mp4",
+    "split": "test",
+    "wordId": "ai",
+    "modified": false,
+    "sourceLabel": "месяц"
+  },
+  {
+    "sourceFile": "bfdd9120-3c2e-4f41-8fb6-1d937251baf5.mp4",
+    "split": "test",
+    "wordId": "jyl",
+    "modified": false,
+    "sourceLabel": "год"
+  },
+  {
+    "sourceFile": "114e4097-0e71-4040-9964-92e13005bc24.mp4",
+    "split": "test",
+    "wordId": "oqu",
+    "modified": false,
+    "sourceLabel": "читать"
+  },
+  {
+    "sourceFile": "d944db5b-f910-46d5-8819-9bdbfe777ef4.mp4",
+    "split": "test",
+    "wordId": "jazu",
+    "modified": false,
+    "sourceLabel": "писать"
+  },
+  {
+    "sourceFile": "399dc194-4744-4d16-8c61-20a94fa09a48.mp4",
+    "split": "test",
+    "wordId": "ishu",
+    "modified": false,
+    "sourceLabel": "пить"
+  },
+  {
+    "sourceFile": "07a34108-f3d4-4cda-94ba-c61c5bc6ceaa.mp4",
+    "split": "test",
+    "wordId": "uiyqtau",
+    "modified": false,
+    "sourceLabel": "спать"
+  },
+  {
+    "sourceFile": "0079ffa2-50a3-4d83-80b0-b29bd4d69b93.mp4",
+    "split": "test",
+    "wordId": "tyndau",
+    "modified": false,
+    "sourceLabel": "слушать"
+  },
+  {
+    "sourceFile": "34f2c411-e299-4113-915f-366531de337b.mp4",
+    "split": "test",
+    "wordId": "qarau",
+    "modified": false,
+    "sourceLabel": "смотреть"
+  },
+  {
+    "sourceFile": "3ab1fea3-889e-4ae3-8791-0dee1113b87f.mp4",
+    "split": "test",
+    "wordId": "bilu",
+    "modified": false,
+    "sourceLabel": "знать"
+  }
+]

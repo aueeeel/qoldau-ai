@@ -1,0 +1,4 @@
+# Install in project only: python -m pip install --target .ml-tools -r requirements-inference.txt
+onnxruntime==1.29.0
+opencv-python-headless==5.0.0.93
+numpy>=2.0,<3

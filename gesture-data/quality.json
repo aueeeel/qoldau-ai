@@ -1,0 +1,7170 @@
+[
+  {
+    "id": "01097605-eacf-4ff3-83f5-b0f847aa50cb",
+    "wordId": "keshe",
+    "frames": 19,
+    "validFrames": 18,
+    "poseFrames": 19
+  },
+  {
+    "id": "01825dfe-d96f-44a9-81c6-07ba8af1fcb3",
+    "wordId": "erten",
+    "frames": 22,
+    "validFrames": 22,
+    "poseFrames": 22
+  },
+  {
+    "id": "0183f4ad-44ba-4c75-9caa-e90d373e3057",
+    "wordId": "at",
+    "frames": 28,
+    "validFrames": 27,
+    "poseFrames": 28
+  },
+  {
+    "id": "0079ffa2-50a3-4d83-80b0-b29bd4d69b93",
+    "wordId": "tyndau",
+    "frames": 16,
+    "validFrames": 16,
+    "poseFrames": 16
+  },
+  {
+    "id": "01dcd154-17fa-4952-8ebd-5aa2def27461",
+    "wordId": "tun",
+    "frames": 19,
+    "validFrames": 10,
+    "poseFrames": 19
+  },
+  {
+    "id": "02105473-a1d2-4bfe-af7e-f7b38314973a",
+    "wordId": "salem",
+    "frames": 16,
+    "validFrames": 16,
+    "poseFrames": 16
+  },
+  {
+    "id": "027212ff-7539-4706-a18a-c0758ddf991f",
+    "wordId": "tan",
+    "frames": 22,
+    "validFrames": 21,
+    "poseFrames": 22
+  },
+  {
+    "id": "01b8e9ea-b32e-4e10-9f06-98568c561b12",
+    "wordId": "ai",
+    "frames": 18,
+    "validFrames": 18,
+    "poseFrames": 18
+  },
+  {
+    "id": "030f3cf7-a04e-43f6-b01f-fbc177e2030b",
+    "wordId": "kun",
+    "frames": 34,
+    "validFrames": 32,
+    "poseFrames": 34
+  },
+  {
+    "id": "03328f4e-cac7-4e79-acba-af9fbbb31427",
+    "wordId": "kun",
+    "frames": 21,
+    "validFrames": 18,
+    "poseFrames": 21
+  },
+  {
+    "id": "040b1667-cf16-4bc4-89e6-42ff59a67c4b",
+    "wordId": "bala",
+    "frames": 36,
+    "validFrames": 36,
+    "poseFrames": 36
+  },
+  {
+    "id": "04856a31-8326-49cb-8e0c-0843c64a1d92",
+    "wordId": "uaqyt",
+    "frames": 26,
+    "validFrames": 26,
+    "poseFrames": 26
+  },
+  {
+    "id": "04e6ec28-d64e-40ab-a567-c02931f64051",
+    "wordId": "qus",
+    "frames": 37,
+    "validFrames": 33,
+    "poseFrames": 37
+  },
+  {
+    "id": "04f0e17c-8f7e-4d7d-b061-94c5789bbbde",
+    "wordId": "bala",
+    "frames": 27,
+    "validFrames": 25,
+    "poseFrames": 27
+  },
+  {
+    "id": "055a4aa1-0eb4-4780-a8c9-d9d4e241b01a",
+    "wordId": "salem",
+    "frames": 17,
+    "validFrames": 15,
+    "poseFrames": 17
+  },
+  {
+    "id": "05a0ac4d-4b7f-4bd8-8bdb-4c8f3c2aee15",
+    "wordId": "ake",
+    "frames": 36,
+    "validFrames": 28,
+    "poseFrames": 36
+  },
+  {
+    "id": "05c6dd07-e231-4879-9832-e78d43e2bd93",
+    "wordId": "kitap",
+    "frames": 25,
+    "validFrames": 0,
+    "poseFrames": 25
+  },
+  {
+    "id": "05c7ea2d-de18-44c2-820a-8ebe5d237742",
+    "wordId": "su",
+    "frames": 19,
+    "validFrames": 17,
+    "poseFrames": 19
+  },
+  {
+    "id": "062ec134-ebc6-4dea-b738-96595eb6820a",
+    "wordId": "balyq",
+    "frames": 18,
+    "validFrames": 13,
+    "poseFrames": 18
+  },
+  {
+    "id": "065f1c71-0341-43f9-a375-ea0f24ed7505",
+    "wordId": "kun",
+    "frames": 22,
+    "validFrames": 17,
+    "poseFrames": 22
+  },
+  {
+    "id": "06b29090-60e7-4f3b-aeed-9d110625da8b",
+    "wordId": "kesh",
+    "frames": 24,
+    "validFrames": 24,
+    "poseFrames": 24
+  },
+  {
+    "id": "003a4691-3e33-4c20-95a2-db3accc3cad3",
+    "wordId": "uiyqtau",
+    "frames": 32,
+    "validFrames": 30,
+    "poseFrames": 32
+  },
+  {
+    "id": "00a5745a-db36-49ff-94a2-881673bb3ede",
+    "wordId": "jyl",
+    "frames": 28,
+    "validFrames": 28,
+    "poseFrames": 28
+  },
+  {
+    "id": "07a34108-f3d4-4cda-94ba-c61c5bc6ceaa",
+    "wordId": "uiyqtau",
+    "frames": 15,
+    "validFrames": 15,
+    "poseFrames": 15
+  },
+  {
+    "id": "08cecd00-1e84-4316-a2f4-488ff22b805c",
+    "wordId": "su",
+    "frames": 24,
+    "validFrames": 24,
+    "poseFrames": 24
+  },
+  {
+    "id": "0912ef29-4742-4b29-869a-b69792e72a6c",
+    "wordId": "erten",
+    "frames": 20,
+    "validFrames": 16,
+    "poseFrames": 20
+  },
+  {
+    "id": "02ab97a7-2b7f-45a7-859b-11c399ac68df",
+    "wordId": "jasyl",
+    "frames": 29,
+    "validFrames": 29,
+    "poseFrames": 29
+  },
+  {
+    "id": "09cd0659-5272-4a3f-812b-8158c808724a",
+    "wordId": "ana",
+    "frames": 24,
+    "validFrames": 22,
+    "poseFrames": 24
+  },
+  {
+    "id": "09e0e09b-03d9-4993-a2b1-271a83b31511",
+    "wordId": "dos",
+    "frames": 30,
+    "validFrames": 28,
+    "poseFrames": 30
+  },
+  {
+    "id": "0a4da017-349b-4457-9f2a-930978ff5950",
+    "wordId": "salem",
+    "frames": 30,
+    "validFrames": 30,
+    "poseFrames": 30
+  },
+  {
+    "id": "07c1d58a-3492-418e-bff3-ffcdd4be22fd",
+    "wordId": "jasyl",
+    "frames": 30,
+    "validFrames": 30,
+    "poseFrames": 30
+  },
+  {
+    "id": "0b100034-a7d3-4c11-aea2-16135808079c",
+    "wordId": "bala",
+    "frames": 32,
+    "validFrames": 32,
+    "poseFrames": 32
+  },
+  {
+    "id": "0b20996d-d531-48df-b3f5-9677f475db28",
+    "wordId": "ana",
+    "frames": 18,
+    "validFrames": 16,
+    "poseFrames": 18
+  },
+  {
+    "id": "09ab5440-bcf7-42d9-8b4e-416cba7caba8",
+    "wordId": "qyzyl",
+    "frames": 23,
+    "validFrames": 23,
+    "poseFrames": 23
+  },
+  {
+    "id": "0b873ce9-9791-4c0d-920d-0bd8d42ab63c",
+    "wordId": "bugin",
+    "frames": 22,
+    "validFrames": 21,
+    "poseFrames": 22
+  },
+  {
+    "id": "0c3a65e2-e575-4c04-9105-39ba9a92824f",
+    "wordId": "at",
+    "frames": 23,
+    "validFrames": 23,
+    "poseFrames": 23
+  },
+  {
+    "id": "0c3c64ea-08c3-4227-9ee5-306a458eb16e",
+    "wordId": "uaqyt",
+    "frames": 21,
+    "validFrames": 20,
+    "poseFrames": 21
+  },
+  {
+    "id": "086fd76e-f079-41ad-a825-1ed081cb98c7",
+    "wordId": "kishkentai",
+    "frames": 30,
+    "validFrames": 29,
+    "poseFrames": 30
+  },
+  {
+    "id": "0a6732e5-f19a-4806-bb83-7746d0ae7b3c",
+    "wordId": "erkek",
+    "frames": 15,
+    "validFrames": 13,
+    "poseFrames": 15
+  },
+  {
+    "id": "0d11f340-682c-447e-b78c-38c58ac48ea5",
+    "wordId": "sary",
+    "frames": 21,
+    "validFrames": 21,
+    "poseFrames": 21
+  },
+  {
+    "id": "0b472470-0d52-4880-9613-af512ae4a8d1",
+    "wordId": "sary",
+    "frames": 31,
+    "validFrames": 31,
+    "poseFrames": 31
+  },
+  {
+    "id": "0ea00be5-523e-4a53-a1b3-a33714eda431",
+    "wordId": "balyq",
+    "frames": 21,
+    "validFrames": 21,
+    "poseFrames": 21
+  },
+  {
+    "id": "0eed301f-bdab-4572-97a0-6a93f25658eb",
+    "wordId": "jaqsy",
+    "frames": 21,
+    "validFrames": 15,
+    "poseFrames": 21
+  },
+  {
+    "id": "0cb93333-5bb8-4ff5-b3cd-05cd3fe5d449",
+    "wordId": "jasyl",
+    "frames": 31,
+    "validFrames": 26,
+    "poseFrames": 31
+  },
+  {
+    "id": "0ffb6d63-1473-48bd-a0d8-b48e4770fd54",
+    "wordId": "ia",
+    "frames": 13,
+    "validFrames": 12,
+    "poseFrames": 13
+  },
+  {
+    "id": "107788bf-c3e0-465e-8241-fb00448615db",
+    "wordId": "tun",
+    "frames": 22,
+    "validFrames": 14,
+    "poseFrames": 22
+  },
+  {
+    "id": "0dc13104-acb7-4509-8f44-2be4e3f4e485",
+    "wordId": "oqu",
+    "frames": 27,
+    "validFrames": 25,
+    "poseFrames": 27
+  },
+  {
+    "id": "0e6baf91-6cbc-42fa-abc9-e9c69ca1f417",
+    "wordId": "jasyl",
+    "frames": 24,
+    "validFrames": 24,
+    "poseFrames": 24
+  },
+  {
+    "id": "10bbca6f-fd6c-45aa-8050-096248acc5c5",
+    "wordId": "ai",
+    "frames": 16,
+    "validFrames": 16,
+    "poseFrames": 16
+  },
+  {
+    "id": "114b7380-ef8c-47f6-833c-452592db4f5d",
+    "wordId": "salem",
+    "frames": 21,
+    "validFrames": 20,
+    "poseFrames": 21
+  },
+  {
+    "id": "113337cb-54ac-4274-8e36-e78d1cada681",
+    "wordId": "jazu",
+    "frames": 18,
+    "validFrames": 14,
+    "poseFrames": 18
+  },
+  {
+    "id": "0f13d596-22ec-45d5-816a-ad8eb9ff94e7",
+    "wordId": "apta",
+    "frames": 26,
+    "validFrames": 19,
+    "poseFrames": 26
+  },
+  {
+    "id": "11da6b76-e8c8-4301-9b94-643e4a9a5a1e",
+    "wordId": "bugin",
+    "frames": 15,
+    "validFrames": 12,
+    "poseFrames": 15
+  },
+  {
+    "id": "114e4097-0e71-4040-9964-92e13005bc24",
+    "wordId": "oqu",
+    "frames": 24,
+    "validFrames": 24,
+    "poseFrames": 24
+  },
+  {
+    "id": "12106b1b-b86f-4a26-9d9b-e23fa3164565",
+    "wordId": "__unknown__",
+    "frames": 35,
+    "validFrames": 33,
+    "poseFrames": 35
+  },
+  {
+    "id": "1249c53c-eb10-42d2-96e9-14e507f0bc86",
+    "wordId": "ia",
+    "frames": 13,
+    "validFrames": 11,
+    "poseFrames": 13
+  },
+  {
+    "id": "124d90be-15d7-43d0-afd1-b9d6d84c18cb",
+    "wordId": "ui",
+    "frames": 16,
+    "validFrames": 12,
+    "poseFrames": 16
+  },
+  {
+    "id": "12d27734-3894-417b-b9b1-950e4ae15ca9",
+    "wordId": "balyq",
+    "frames": 21,
+    "validFrames": 19,
+    "poseFrames": 21
+  },
+  {
+    "id": "115459f2-06d6-4cbb-bd27-80131c449ef2",
+    "wordId": "bilu",
+    "frames": 25,
+    "validFrames": 25,
+    "poseFrames": 25
+  },
+  {
+    "id": "120397bf-c9b4-4dfd-9666-1595985236a9",
+    "wordId": "qara",
+    "frames": 27,
+    "validFrames": 21,
+    "poseFrames": 27
+  },
+  {
+    "id": "113b6eec-add5-4701-bd1e-1755ee355087",
+    "wordId": "jasyl",
+    "frames": 40,
+    "validFrames": 40,
+    "poseFrames": 40
+  },
+  {
+    "id": "143d068c-0585-47e4-910d-f90dceee18bf",
+    "wordId": "tun",
+    "frames": 20,
+    "validFrames": 19,
+    "poseFrames": 20
+  },
+  {
+    "id": "14a6e752-ee99-4303-82b6-4946ac479805",
+    "wordId": "__unknown__",
+    "frames": 20,
+    "validFrames": 18,
+    "poseFrames": 20
+  },
+  {
+    "id": "14b4cac2-6ca2-496d-b1f9-c483247850bf",
+    "wordId": "kun",
+    "frames": 25,
+    "validFrames": 23,
+    "poseFrames": 25
+  },
+  {
+    "id": "14eb985c-71d6-411b-bb9c-06801f33e21b",
+    "wordId": "otbasy",
+    "frames": 21,
+    "validFrames": 20,
+    "poseFrames": 21
+  },
+  {
+    "id": "13243f9a-9789-4719-b231-3b9f41246687",
+    "wordId": "aiel",
+    "frames": 21,
+    "validFrames": 19,
+    "poseFrames": 21
+  },
+  {
+    "id": "15953462-2c18-4d90-a3b6-e359c7862e99",
+    "wordId": "ake",
+    "frames": 29,
+    "validFrames": 11,
+    "poseFrames": 29
+  },
+  {
+    "id": "1600a92d-60e9-4007-ae0c-c2f7a6cf21a4",
+    "wordId": "uaqyt",
+    "frames": 14,
+    "validFrames": 14,
+    "poseFrames": 14
+  },
+  {
+    "id": "161d9b22-6c32-491b-a962-752315d72e2e",
+    "wordId": "ana",
+    "frames": 16,
+    "validFrames": 16,
+    "poseFrames": 16
+  },
+  {
+    "id": "16868d64-9f32-4a3f-be55-c138696182bf",
+    "wordId": "__unknown__",
+    "frames": 21,
+    "validFrames": 19,
+    "poseFrames": 21
+  },
+  {
+    "id": "170db63a-a52d-499c-9c67-180a0d67869d",
+    "wordId": "jaqsy",
+    "frames": 20,
+    "validFrames": 20,
+    "poseFrames": 20
+  },
+  {
+    "id": "13c6a8a5-e1ec-40f8-ac82-48c6ab4df3ca",
+    "wordId": "jasyl",
+    "frames": 17,
+    "validFrames": 15,
+    "poseFrames": 17
+  },
+  {
+    "id": "1713d873-d5e0-420b-8e28-ec21e151ef71",
+    "wordId": "kitap",
+    "frames": 25,
+    "validFrames": 22,
+    "poseFrames": 25
+  },
+  {
+    "id": "1713f82f-4bf0-4cbb-b3ca-6b60ce0078d9",
+    "wordId": "qus",
+    "frames": 30,
+    "validFrames": 29,
+    "poseFrames": 30
+  },
+  {
+    "id": "173670f3-6e82-49cf-b73d-2f3455153497",
+    "wordId": "kun",
+    "frames": 23,
+    "validFrames": 23,
+    "poseFrames": 23
+  },
+  {
+    "id": "13325536-d206-481e-8297-fbee890161b8",
+    "wordId": "ulken",
+    "frames": 32,
+    "validFrames": 30,
+    "poseFrames": 32
+  },
+  {
+    "id": "1796d76f-2263-4296-8358-83919902eb2e",
+    "wordId": "qus",
+    "frames": 37,
+    "validFrames": 37,
+    "poseFrames": 37
+  },
+  {
+    "id": "186bc9b6-0a7e-4496-bafb-edb8975e6e42",
+    "wordId": "keshe",
+    "frames": 25,
+    "validFrames": 23,
+    "poseFrames": 25
+  },
+  {
+    "id": "15743e97-9cb0-4969-840c-f024dfdc878a",
+    "wordId": "oqu",
+    "frames": 31,
+    "validFrames": 30,
+    "poseFrames": 31
+  },
+  {
+    "id": "1878a730-2509-4480-b978-2b96de9d8c19",
+    "wordId": "balyq",
+    "frames": 27,
+    "validFrames": 23,
+    "poseFrames": 27
+  },
+  {
+    "id": "18c3b9f6-5c69-4e53-8401-92170a2c2f2c",
+    "wordId": "it",
+    "frames": 24,
+    "validFrames": 22,
+    "poseFrames": 24
+  },
+  {
+    "id": "1923ee93-4e93-48c6-af88-32c6cdb1eda1",
+    "wordId": "bugin",
+    "frames": 25,
+    "validFrames": 19,
+    "poseFrames": 25
+  },
+  {
+    "id": "1a6aa11c-0b15-42d8-9935-6aa29e4b589b",
+    "wordId": "dos",
+    "frames": 22,
+    "validFrames": 21,
+    "poseFrames": 22
+  },
+  {
+    "id": "170eb886-f3d7-46c3-9c6c-d7068c2ce899",
+    "wordId": "apta",
+    "frames": 17,
+    "validFrames": 12,
+    "poseFrames": 17
+  },
+  {
+    "id": "1ad9354d-aec0-4e91-b0ee-f36df1ef989c",
+    "wordId": "aqsha",
+    "frames": 14,
+    "validFrames": 14,
+    "poseFrames": 14
+  },
+  {
+    "id": "177e0cd2-8b45-4638-af21-26e5ae4dec59",
+    "wordId": "qara",
+    "frames": 19,
+    "validFrames": 16,
+    "poseFrames": 19
+  },
+  {
+    "id": "1ad9b8e8-ae7e-4120-9f7c-32b266ec351c",
+    "wordId": "tyndau",
+    "frames": 16,
+    "validFrames": 13,
+    "poseFrames": 16
+  },
+  {
+    "id": "186d4a32-add6-40b3-83ff-33e7c6150d56",
+    "wordId": "uiyqtau",
+    "frames": 33,
+    "validFrames": 31,
+    "poseFrames": 33
+  },
+  {
+    "id": "1aa98a20-ad68-4be5-aa23-d7cda542a30a",
+    "wordId": "kishkentai",
+    "frames": 24,
+    "validFrames": 23,
+    "poseFrames": 24
+  },
+  {
+    "id": "1bb3ed7d-ea03-48ca-ab03-dd6c00ce4b5e",
+    "wordId": "at",
+    "frames": 28,
+    "validFrames": 28,
+    "poseFrames": 28
+  },
+  {
+    "id": "1bbbf50e-a3d9-4d06-806e-9d76ab84b40a",
+    "wordId": "jaman",
+    "frames": 18,
+    "validFrames": 18,
+    "poseFrames": 18
+  },
+  {
+    "id": "1c7f15d2-11a4-4003-9c9c-f00fcbd4f00b",
+    "wordId": "mysyq",
+    "frames": 28,
+    "validFrames": 27,
+    "poseFrames": 28
+  },
+  {
+    "id": "1c96d28e-5b82-40df-993e-14b86b8166a0",
+    "wordId": "jaman",
+    "frames": 14,
+    "validFrames": 14,
+    "poseFrames": 14
+  },
+  {
+    "id": "1cca6908-4307-4742-8ac9-8c9234127168",
+    "wordId": "kun",
+    "frames": 27,
+    "validFrames": 24,
+    "poseFrames": 27
+  },
+  {
+    "id": "1cd440fe-aa68-4db8-8bb3-dc0804a95459",
+    "wordId": "otbasy",
+    "frames": 21,
+    "validFrames": 21,
+    "poseFrames": 21
+  },
+  {
+    "id": "1afecae1-5ddd-457b-9917-cd09d408a403",
+    "wordId": "qyzyl",
+    "frames": 21,
+    "validFrames": 18,
+    "poseFrames": 21
+  },
+  {
+    "id": "1ba4c0b9-a11e-4f8e-a409-51ae366f2277",
+    "wordId": "qyzyl",
+    "frames": 20,
+    "validFrames": 20,
+    "poseFrames": 20
+  },
+  {
+    "id": "1d360de4-55e3-4946-aee0-e6ee83183bbc",
+    "wordId": "uaqyt",
+    "frames": 19,
+    "validFrames": 18,
+    "poseFrames": 19
+  },
+  {
+    "id": "1d8843cb-3116-466e-9d89-cb17448c2895",
+    "wordId": "mysyq",
+    "frames": 18,
+    "validFrames": 18,
+    "poseFrames": 18
+  },
+  {
+    "id": "1ba04619-08c8-4573-9847-64add5ba5a7d",
+    "wordId": "ulken",
+    "frames": 28,
+    "validFrames": 25,
+    "poseFrames": 28
+  },
+  {
+    "id": "1dec21e4-fca0-46ba-a7f6-14f8268ce4fa",
+    "wordId": "kesh",
+    "frames": 18,
+    "validFrames": 18,
+    "poseFrames": 18
+  },
+  {
+    "id": "1cead10a-96b0-4a14-900a-2f37f0c2884b",
+    "wordId": "apta",
+    "frames": 23,
+    "validFrames": 19,
+    "poseFrames": 23
+  },
+  {
+    "id": "1d150881-beb2-4db1-a175-7f02d7e39a03",
+    "wordId": "uiyqtau",
+    "frames": 25,
+    "validFrames": 21,
+    "poseFrames": 25
+  },
+  {
+    "id": "1f507fcc-adf3-4524-9afd-41f2126153f9",
+    "wordId": "bala",
+    "frames": 19,
+    "validFrames": 19,
+    "poseFrames": 19
+  },
+  {
+    "id": "1e422a1f-65e7-4125-865d-d15f244d6b2b",
+    "wordId": "apta",
+    "frames": 25,
+    "validFrames": 25,
+    "poseFrames": 25
+  },
+  {
+    "id": "1e491f0b-ea48-4bc3-8a72-be2673faadcf",
+    "wordId": "jazu",
+    "frames": 21,
+    "validFrames": 19,
+    "poseFrames": 21
+  },
+  {
+    "id": "2049c848-2bcb-4d1e-9a90-34d54e9550a4",
+    "wordId": "it",
+    "frames": 26,
+    "validFrames": 25,
+    "poseFrames": 26
+  },
+  {
+    "id": "204e1138-3826-4038-a0c2-beb0945e6390",
+    "wordId": "otbasy",
+    "frames": 21,
+    "validFrames": 21,
+    "poseFrames": 21
+  },
+  {
+    "id": "20522211-c4c7-4af2-964b-4b124fefdaeb",
+    "wordId": "it",
+    "frames": 32,
+    "validFrames": 32,
+    "poseFrames": 32
+  },
+  {
+    "id": "206e8673-689f-4d1b-9d10-41ff1fe2064a",
+    "wordId": "aqsha",
+    "frames": 18,
+    "validFrames": 16,
+    "poseFrames": 18
+  },
+  {
+    "id": "20e174e3-be76-4aac-80f9-fb00039df958",
+    "wordId": "kitap",
+    "frames": 15,
+    "validFrames": 15,
+    "poseFrames": 15
+  },
+  {
+    "id": "1f684865-1ce9-42d5-92e0-29c6ab60e936",
+    "wordId": "erkek",
+    "frames": 19,
+    "validFrames": 19,
+    "poseFrames": 19
+  },
+  {
+    "id": "218a911c-b394-4743-a573-eab9e0950a3a",
+    "wordId": "keshe",
+    "frames": 23,
+    "validFrames": 18,
+    "poseFrames": 23
+  },
+  {
+    "id": "21ac502d-f8c4-43f2-8b0b-0cf6463ae69e",
+    "wordId": "kesh",
+    "frames": 25,
+    "validFrames": 24,
+    "poseFrames": 25
+  },
+  {
+    "id": "1dd45507-34c5-4ac8-954a-49c82f692f52",
+    "wordId": "ulken",
+    "frames": 36,
+    "validFrames": 34,
+    "poseFrames": 36
+  },
+  {
+    "id": "21d5c319-0e78-48ce-a9ff-53d4b9321b0e",
+    "wordId": "balyq",
+    "frames": 19,
+    "validFrames": 19,
+    "poseFrames": 19
+  },
+  {
+    "id": "201a7dd5-1989-433c-b414-549b209451af",
+    "wordId": "erkek",
+    "frames": 15,
+    "validFrames": 14,
+    "poseFrames": 15
+  },
+  {
+    "id": "222111c5-6060-4130-ae93-a1a63af04d12",
+    "wordId": "qara",
+    "frames": 12,
+    "validFrames": 12,
+    "poseFrames": 12
+  },
+  {
+    "id": "20e6c086-7537-45ed-a57b-c90720a3a8e7",
+    "wordId": "jasyl",
+    "frames": 25,
+    "validFrames": 25,
+    "poseFrames": 25
+  },
+  {
+    "id": "22717935-329f-47fc-9830-617e21ba7ec2",
+    "wordId": "nan",
+    "frames": 23,
+    "validFrames": 23,
+    "poseFrames": 23
+  },
+  {
+    "id": "21c00c2a-6081-4b3a-9efa-8ee691f779d1",
+    "wordId": "ai",
+    "frames": 24,
+    "validFrames": 24,
+    "poseFrames": 24
+  },
+  {
+    "id": "2249e20b-f436-4dba-9507-440242888e4e",
+    "wordId": "erkek",
+    "frames": 17,
+    "validFrames": 16,
+    "poseFrames": 17
+  },
+  {
+    "id": "2246256a-eb54-4d61-a36d-a13b2df3c347",
+    "wordId": "kishkentai",
+    "frames": 20,
+    "validFrames": 18,
+    "poseFrames": 20
+  },
+  {
+    "id": "23a948d2-c62b-4ab3-8a05-c05a567d0576",
+    "wordId": "bugin",
+    "frames": 22,
+    "validFrames": 22,
+    "poseFrames": 22
+  },
+  {
+    "id": "24491c1c-fc65-4fa9-9f20-047fcd4f44e0",
+    "wordId": "qala",
+    "frames": 25,
+    "validFrames": 23,
+    "poseFrames": 25
+  },
+  {
+    "id": "2464fb79-4e58-4b25-b897-c06050358bdf",
+    "wordId": "jaman",
+    "frames": 15,
+    "validFrames": 12,
+    "poseFrames": 15
+  },
+  {
+    "id": "2498d089-9e2f-418f-b523-2bef290e5879",
+    "wordId": "qus",
+    "frames": 31,
+    "validFrames": 31,
+    "poseFrames": 31
+  },
+  {
+    "id": "228810a4-8852-434b-b14a-8e1d20d0bb5d",
+    "wordId": "aq",
+    "frames": 23,
+    "validFrames": 23,
+    "poseFrames": 23
+  },
+  {
+    "id": "24d39197-1aaa-4a83-bcaf-9704fe34955e",
+    "wordId": "keshe",
+    "frames": 19,
+    "validFrames": 17,
+    "poseFrames": 19
+  },
+  {
+    "id": "236045d7-35e4-43a1-8581-1ed81efd6bb2",
+    "wordId": "apta",
+    "frames": 21,
+    "validFrames": 20,
+    "poseFrames": 21
+  },
+  {
+    "id": "251e3c58-90f9-4ef1-8292-250b76a88aaa",
+    "wordId": "__unknown__",
+    "frames": 27,
+    "validFrames": 23,
+    "poseFrames": 27
+  },
+  {
+    "id": "2569c5c2-0300-409a-9c3c-e69a3014b3ce",
+    "wordId": "tamaq",
+    "frames": 20,
+    "validFrames": 20,
+    "poseFrames": 20
+  },
+  {
+    "id": "256a6f31-3413-44c3-bae7-df4b3d99451a",
+    "wordId": "bugin",
+    "frames": 27,
+    "validFrames": 27,
+    "poseFrames": 27
+  },
+  {
+    "id": "2579aaf2-c457-4285-a7c2-07718ebace36",
+    "wordId": "uaqyt",
+    "frames": 22,
+    "validFrames": 22,
+    "poseFrames": 22
+  },
+  {
+    "id": "257f07ec-8f66-422a-9b89-d8445289598d",
+    "wordId": "qus",
+    "frames": 33,
+    "validFrames": 26,
+    "poseFrames": 33
+  },
+  {
+    "id": "25e14f6e-445b-490d-bb23-a130bd5db298",
+    "wordId": "__unknown__",
+    "frames": 19,
+    "validFrames": 8,
+    "poseFrames": 19
+  },
+  {
+    "id": "2602656c-b661-48fb-9bad-df2c52572a53",
+    "wordId": "nan",
+    "frames": 33,
+    "validFrames": 33,
+    "poseFrames": 33
+  },
+  {
+    "id": "238aa7fb-ac17-4247-b387-616ad3cf9b64",
+    "wordId": "tyndau",
+    "frames": 19,
+    "validFrames": 14,
+    "poseFrames": 19
+  },
+  {
+    "id": "26d64f62-3f1e-47b0-8663-d91a2452195e",
+    "wordId": "ake",
+    "frames": 26,
+    "validFrames": 26,
+    "poseFrames": 26
+  },
+  {
+    "id": "24c1fa82-9568-4450-9caa-47227164d8a6",
+    "wordId": "aq",
+    "frames": 26,
+    "validFrames": 22,
+    "poseFrames": 26
+  },
+  {
+    "id": "250f896a-b06b-4096-bc8f-d5d628f0cda3",
+    "wordId": "kok",
+    "frames": 24,
+    "validFrames": 24,
+    "poseFrames": 24
+  },
+  {
+    "id": "27560a7e-93ce-4bb1-9c52-02c37e5617ce",
+    "wordId": "jaman",
+    "frames": 21,
+    "validFrames": 21,
+    "poseFrames": 21
+  },
+  {
+    "id": "27641c42-34b3-4adf-8c38-460549d96ccb",
+    "wordId": "dos",
+    "frames": 19,
+    "validFrames": 19,
+    "poseFrames": 19
+  },
+  {
+    "id": "2781f0c2-0caa-40c0-817c-6cb30194e05b",
+    "wordId": "kitap",
+    "frames": 26,
+    "validFrames": 24,
+    "poseFrames": 26
+  },
+  {
+    "id": "261bdc18-3ddb-489b-abc4-2e0ecf30b838",
+    "wordId": "apta",
+    "frames": 28,
+    "validFrames": 28,
+    "poseFrames": 28
+  },
+  {
+    "id": "27fc4051-c664-4c11-9300-2a5f39e7b859",
+    "wordId": "keshe",
+    "frames": 21,
+    "validFrames": 18,
+    "poseFrames": 21
+  },
+  {
+    "id": "2824dcc9-d0ae-44b4-a416-767a15448907",
+    "wordId": "tamaq",
+    "frames": 21,
+    "validFrames": 15,
+    "poseFrames": 21
+  },
+  {
+    "id": "28262098-2e0b-454b-963e-ce61ba311bc2",
+    "wordId": "erten",
+    "frames": 23,
+    "validFrames": 23,
+    "poseFrames": 23
+  },
+  {
+    "id": "26d8a908-bc79-492c-bbd1-e43360f21071",
+    "wordId": "jasyl",
+    "frames": 21,
+    "validFrames": 16,
+    "poseFrames": 21
+  },
+  {
+    "id": "271281ba-cf89-4187-a66d-f8a412d2610b",
+    "wordId": "bilu",
+    "frames": 26,
+    "validFrames": 26,
+    "poseFrames": 26
+  },
+  {
+    "id": "29039c26-454a-4d82-8cb2-334c4882d614",
+    "wordId": "kitap",
+    "frames": 26,
+    "validFrames": 23,
+    "poseFrames": 26
+  },
+  {
+    "id": "29410803-ca90-4dd6-9212-f4eb81ac5603",
+    "wordId": "mysyq",
+    "frames": 28,
+    "validFrames": 24,
+    "poseFrames": 28
+  },
+  {
+    "id": "29748c2d-a2ea-472a-b3d1-127e110b6827",
+    "wordId": "salem",
+    "frames": 32,
+    "validFrames": 32,
+    "poseFrames": 32
+  },
+  {
+    "id": "28806a82-37c5-491d-a0fc-5a599b47495f",
+    "wordId": "oqu",
+    "frames": 12,
+    "validFrames": 3,
+    "poseFrames": 12
+  },
+  {
+    "id": "2a50d331-c31f-4b21-a460-bb1821b62c81",
+    "wordId": "kitap",
+    "frames": 24,
+    "validFrames": 22,
+    "poseFrames": 24
+  },
+  {
+    "id": "27ef2f54-23c7-49f8-a491-40de7dbab9c9",
+    "wordId": "tyndau",
+    "frames": 25,
+    "validFrames": 24,
+    "poseFrames": 25
+  },
+  {
+    "id": "2aaf5ee0-093c-4c63-a859-263ef08bb40f",
+    "wordId": "at",
+    "frames": 23,
+    "validFrames": 23,
+    "poseFrames": 23
+  },
+  {
+    "id": "2b1b2857-02ca-4e0e-86dc-a525e075eb98",
+    "wordId": "ia",
+    "frames": 15,
+    "validFrames": 15,
+    "poseFrames": 15
+  },
+  {
+    "id": "2846eec6-85fa-4c05-a014-6aebd3e8ef4e",
+    "wordId": "kishkentai",
+    "frames": 16,
+    "validFrames": 15,
+    "poseFrames": 16
+  },
+  {
+    "id": "2b57464e-692d-44b9-acd2-b5aa92363057",
+    "wordId": "keshe",
+    "frames": 20,
+    "validFrames": 20,
+    "poseFrames": 20
+  },
+  {
+    "id": "2bc56752-df0a-47ae-b705-ba494ef273ec",
+    "wordId": "jaqsy",
+    "frames": 12,
+    "validFrames": 9,
+    "poseFrames": 12
+  },
+  {
+    "id": "2bc7d1f2-85ba-4bf0-bd04-79ba3aa0c2f2",
+    "wordId": "jaqsy",
+    "frames": 27,
+    "validFrames": 27,
+    "poseFrames": 27
+  },
+  {
+    "id": "2c13508a-6dcd-41f3-bda8-d5459e1ea31e",
+    "wordId": "kitap",
+    "frames": 19,
+    "validFrames": 19,
+    "poseFrames": 19
+  },
+  {
+    "id": "2c66e2a4-2b28-4dcf-b9b1-1beeda0a082f",
+    "wordId": "__unknown__",
+    "frames": 25,
+    "validFrames": 21,
+    "poseFrames": 25
+  },
+  {
+    "id": "2b287f30-bb17-4e0c-b1fa-07f938685e78",
+    "wordId": "bilu",
+    "frames": 12,
+    "validFrames": 12,
+    "poseFrames": 12
+  },
+  {
+    "id": "2d21abd5-85bb-4bc5-86c7-898b45db237c",
+    "wordId": "ake",
+    "frames": 24,
+    "validFrames": 24,
+    "poseFrames": 24
+  },
+  {
+    "id": "2d53b894-9fb7-4b8a-bcc2-cd3c6fbe78a1",
+    "wordId": "nan",
+    "frames": 25,
+    "validFrames": 24,
+    "poseFrames": 25
+  },
+  {
+    "id": "2d682706-9dc8-4d3d-b926-72e205e8a43e",
+    "wordId": "qus",
+    "frames": 37,
+    "validFrames": 33,
+    "poseFrames": 37
+  },
+  {
+    "id": "2a84b045-7c49-40c9-9ba9-e6b3076efedb",
+    "wordId": "erkek",
+    "frames": 20,
+    "validFrames": 20,
+    "poseFrames": 20
+  },
+  {
+    "id": "2df2e0c3-5c54-4a1f-9ec7-e7c3ceb6a938",
+    "wordId": "kun",
+    "frames": 25,
+    "validFrames": 15,
+    "poseFrames": 25
+  },
+  {
+    "id": "2e18277c-8c35-4c0f-a295-18a7dd5b1dab",
+    "wordId": "kun",
+    "frames": 22,
+    "validFrames": 19,
+    "poseFrames": 22
+  },
+  {
+    "id": "29e28e3c-3942-499b-9a7d-00af2f3a7db6",
+    "wordId": "uiyqtau",
+    "frames": 23,
+    "validFrames": 23,
+    "poseFrames": 23
+  },
+  {
+    "id": "2d0f77ff-000d-47dc-ad43-09c958b16185",
+    "wordId": "ulken",
+    "frames": 25,
+    "validFrames": 25,
+    "poseFrames": 25
+  },
+  {
+    "id": "2db65fb2-64e3-4759-82f1-0046f63e88ca",
+    "wordId": "ishu",
+    "frames": 18,
+    "validFrames": 18,
+    "poseFrames": 18
+  },
+  {
+    "id": "2e9f7989-7e91-4a85-88db-1c69118b12d6",
+    "wordId": "tun",
+    "frames": 23,
+    "validFrames": 14,
+    "poseFrames": 23
+  },
+  {
+    "id": "2e350535-08e7-491c-bbec-c18b3bfc5823",
+    "wordId": "qyzyl",
+    "frames": 17,
+    "validFrames": 17,
+    "poseFrames": 17
+  },
+  {
+    "id": "2fb4cbda-556c-464d-ba60-8fb986d0a34e",
+    "wordId": "bala",
+    "frames": 37,
+    "validFrames": 35,
+    "poseFrames": 37
+  },
+  {
+    "id": "2e21a8cf-8600-46a1-ae0c-0d470fb698b7",
+    "wordId": "erkek",
+    "frames": 22,
+    "validFrames": 22,
+    "poseFrames": 22
+  },
+  {
+    "id": "2ff2a6e0-2241-4414-aa9c-e9f5d462bbc3",
+    "wordId": "ia",
+    "frames": 22,
+    "validFrames": 12,
+    "poseFrames": 22
+  },
+  {
+    "id": "2e574b93-b4ab-45c7-8b10-7bc3149e80c7",
+    "wordId": "apta",
+    "frames": 22,
+    "validFrames": 19,
+    "poseFrames": 22
+  },
+  {
+    "id": "2faabf49-1d47-4661-b00e-49b8221dcdd3",
+    "wordId": "uiyqtau",
+    "frames": 18,
+    "validFrames": 12,
+    "poseFrames": 18
+  },
+  {
+    "id": "309f24bf-15f3-402c-bdea-6e80d63fe063",
+    "wordId": "dos",
+    "frames": 20,
+    "validFrames": 18,
+    "poseFrames": 20
+  },
+  {
+    "id": "2fc740cc-85b9-473a-811c-0f8044b1a46e",
+    "wordId": "kishkentai",
+    "frames": 25,
+    "validFrames": 24,
+    "poseFrames": 25
+  },
+  {
+    "id": "30d1f0e2-1169-4fa6-b635-13edcc980c4a",
+    "wordId": "balyq",
+    "frames": 17,
+    "validFrames": 15,
+    "poseFrames": 17
+  },
+  {
+    "id": "3140ba38-38b3-43d5-ab6c-ddcce1d19df9",
+    "wordId": "ake",
+    "frames": 25,
+    "validFrames": 25,
+    "poseFrames": 25
+  },
+  {
+    "id": "301e9743-de4a-4ca7-a17c-d6f2f610d9f0",
+    "wordId": "bilu",
+    "frames": 30,
+    "validFrames": 30,
+    "poseFrames": 30
+  },
+  {
+    "id": "31bfcd47-9c6e-45e4-91d6-9c3997dc4965",
+    "wordId": "uaqyt",
+    "frames": 19,
+    "validFrames": 19,
+    "poseFrames": 19
+  },
+  {
+    "id": "321fafa3-93d1-434d-bd98-50afb0ca2299",
+    "wordId": "aqsha",
+    "frames": 21,
+    "validFrames": 20,
+    "poseFrames": 21
+  },
+  {
+    "id": "32a06054-aa41-4cc3-a648-9e1c8e3faf62",
+    "wordId": "ia",
+    "frames": 25,
+    "validFrames": 25,
+    "poseFrames": 25
+  },
+  {
+    "id": "3088c135-67a9-4d20-89d4-fc7bd91613ad",
+    "wordId": "tyndau",
+    "frames": 18,
+    "validFrames": 15,
+    "poseFrames": 18
+  },
+  {
+    "id": "339b78d9-dfbe-4439-a8ca-ef959f915d06",
+    "wordId": "ia",
+    "frames": 16,
+    "validFrames": 15,
+    "poseFrames": 16
+  },
+  {
+    "id": "34642453-0a9c-4a59-9919-1841d44cd32e",
+    "wordId": "ui",
+    "frames": 21,
+    "validFrames": 20,
+    "poseFrames": 21
+  },
+  {
+    "id": "3466bc28-b8b0-4f06-82a6-ba3fab21740c",
+    "wordId": "ui",
+    "frames": 19,
+    "validFrames": 16,
+    "poseFrames": 19
+  },
+  {
+    "id": "34d54421-d709-4b48-b6c7-58e0e3e0710c",
+    "wordId": "ia",
+    "frames": 20,
+    "validFrames": 20,
+    "poseFrames": 20
+  },
+  {
+    "id": "34f194eb-b4d5-495d-902b-39342e8d3f5a",
+    "wordId": "qus",
+    "frames": 27,
+    "validFrames": 17,
+    "poseFrames": 27
+  },
+  {
+    "id": "30a5dc17-bace-47eb-b1c4-45ba33353f4c",
+    "wordId": "tyndau",
+    "frames": 23,
+    "validFrames": 14,
+    "poseFrames": 23
+  },
+  {
+    "id": "3143358f-7ed5-409c-82be-220ea6067bab",
+    "wordId": "qara",
+    "frames": 27,
+    "validFrames": 7,
+    "poseFrames": 27
+  },
+  {
+    "id": "363a2eb4-914a-4cc2-af5d-6250e1e8e697",
+    "wordId": "bala",
+    "frames": 30,
+    "validFrames": 27,
+    "poseFrames": 30
+  },
+  {
+    "id": "366aa7ad-daf8-4697-a85f-461c1962abb5",
+    "wordId": "mysyq",
+    "frames": 28,
+    "validFrames": 28,
+    "poseFrames": 28
+  },
+  {
+    "id": "368876f7-5939-4406-8c2b-0323f84e4a52",
+    "wordId": "tan",
+    "frames": 22,
+    "validFrames": 22,
+    "poseFrames": 22
+  },
+  {
+    "id": "36f0f51f-156b-42fe-a7cb-919bc500cd18",
+    "wordId": "ui",
+    "frames": 21,
+    "validFrames": 20,
+    "poseFrames": 21
+  },
+  {
+    "id": "37225a9a-874d-4966-b3a3-e4845fec4276",
+    "wordId": "mektep",
+    "frames": 16,
+    "validFrames": 16,
+    "poseFrames": 16
+  },
+  {
+    "id": "37781eee-0fe7-46e8-9748-811d90720665",
+    "wordId": "bala",
+    "frames": 26,
+    "validFrames": 25,
+    "poseFrames": 26
+  },
+  {
+    "id": "34f2c411-e299-4113-915f-366531de337b",
+    "wordId": "qarau",
+    "frames": 18,
+    "validFrames": 18,
+    "poseFrames": 18
+  },
+  {
+    "id": "32bd5bae-7ca5-4a85-a7b0-e536c5100b87",
+    "wordId": "kishkentai",
+    "frames": 21,
+    "validFrames": 21,
+    "poseFrames": 21
+  },
+  {
+    "id": "37f59ea4-c879-42e2-b747-a4da256284c9",
+    "wordId": "jaman",
+    "frames": 25,
+    "validFrames": 25,
+    "poseFrames": 25
+  },
+  {
+    "id": "352bae17-2ea2-44c4-834f-923672e39ef1",
+    "wordId": "qyzyl",
+    "frames": 24,
+    "validFrames": 22,
+    "poseFrames": 24
+  },
+  {
+    "id": "37c9ae96-cb38-46f7-b0d7-8d18faa361dc",
+    "wordId": "qarau",
+    "frames": 18,
+    "validFrames": 18,
+    "poseFrames": 18
+  },
+  {
+    "id": "389d7c69-5189-413e-a8d4-90b5c3b6b4a5",
+    "wordId": "mysyq",
+    "frames": 29,
+    "validFrames": 29,
+    "poseFrames": 29
+  },
+  {
+    "id": "37d32300-78a2-4ec6-9a15-a51a410b09bf",
+    "wordId": "qyzyl",
+    "frames": 23,
+    "validFrames": 17,
+    "poseFrames": 23
+  },
+  {
+    "id": "387eaf59-1630-4a7e-acf7-6c2f288f594f",
+    "wordId": "ishu",
+    "frames": 14,
+    "validFrames": 12,
+    "poseFrames": 14
+  },
+  {
+    "id": "394be738-56a1-4a45-a8f5-a24609503ced",
+    "wordId": "ia",
+    "frames": 27,
+    "validFrames": 26,
+    "poseFrames": 27
+  },
+  {
+    "id": "3859d4bc-67bb-44d5-a94e-bf61a479a7d8",
+    "wordId": "sary",
+    "frames": 27,
+    "validFrames": 25,
+    "poseFrames": 27
+  },
+  {
+    "id": "38befec9-957a-431a-895c-5927caa737a1",
+    "wordId": "tyndau",
+    "frames": 20,
+    "validFrames": 20,
+    "poseFrames": 20
+  },
+  {
+    "id": "3a5abcea-c10b-4d38-9028-f162f442d497",
+    "wordId": "qala",
+    "frames": 27,
+    "validFrames": 26,
+    "poseFrames": 27
+  },
+  {
+    "id": "3a671720-c748-4d2e-b866-4e3ba6023cda",
+    "wordId": "jaman",
+    "frames": 24,
+    "validFrames": 20,
+    "poseFrames": 24
+  },
+  {
+    "id": "3a929715-418b-4e20-9f6e-97eb7246f63b",
+    "wordId": "__unknown__",
+    "frames": 26,
+    "validFrames": 24,
+    "poseFrames": 26
+  },
+  {
+    "id": "3aa92ae0-1333-4cd4-a034-251f5a07d626",
+    "wordId": "jaman",
+    "frames": 24,
+    "validFrames": 22,
+    "poseFrames": 24
+  },
+  {
+    "id": "399dc194-4744-4d16-8c61-20a94fa09a48",
+    "wordId": "ishu",
+    "frames": 25,
+    "validFrames": 25,
+    "poseFrames": 25
+  },
+  {
+    "id": "392d8022-d9a8-4f8b-9606-6b8c0cf0d574",
+    "wordId": "sary",
+    "frames": 32,
+    "validFrames": 31,
+    "poseFrames": 32
+  },
+  {
+    "id": "3b6a7008-06e4-42db-b3d3-ecdbb6f44b74",
+    "wordId": "mektep",
+    "frames": 18,
+    "validFrames": 18,
+    "poseFrames": 18
+  },
+  {
+    "id": "3a0110cd-fc7e-4dab-88f6-9973d724cdf8",
+    "wordId": "qarau",
+    "frames": 29,
+    "validFrames": 28,
+    "poseFrames": 29
+  },
+  {
+    "id": "3ab1fea3-889e-4ae3-8791-0dee1113b87f",
+    "wordId": "bilu",
+    "frames": 21,
+    "validFrames": 21,
+    "poseFrames": 21
+  },
+  {
+    "id": "3cfe809b-f016-4ccd-ad2f-cf35c1584e3f",
+    "wordId": "balyq",
+    "frames": 25,
+    "validFrames": 22,
+    "poseFrames": 25
+  },
+  {
+    "id": "3d27d50b-eaf1-4767-aa4d-6f6a5e5afb52",
+    "wordId": "nan",
+    "frames": 16,
+    "validFrames": 15,
+    "poseFrames": 16
+  },
+  {
+    "id": "3b855bb5-730c-4186-ac6b-7e6ab26df204",
+    "wordId": "jazu",
+    "frames": 11,
+    "validFrames": 10,
+    "poseFrames": 11
+  },
+  {
+    "id": "3db867de-470d-4ec6-9efc-11633faff873",
+    "wordId": "salem",
+    "frames": 12,
+    "validFrames": 11,
+    "poseFrames": 12
+  },
+  {
+    "id": "3b5115e0-311a-4ce9-96a1-30b12d3574b8",
+    "wordId": "erkek",
+    "frames": 18,
+    "validFrames": 18,
+    "poseFrames": 18
+  },
+  {
+    "id": "3df18619-b623-4985-804e-df93aa299d7d",
+    "wordId": "erten",
+    "frames": 15,
+    "validFrames": 13,
+    "poseFrames": 15
+  },
+  {
+    "id": "3df671ae-5eff-4c2d-98c1-6abfe7028563",
+    "wordId": "mysyq",
+    "frames": 21,
+    "validFrames": 21,
+    "poseFrames": 21
+  },
+  {
+    "id": "3d7e498c-feed-4cfb-bcb9-624ef427fda8",
+    "wordId": "jazu",
+    "frames": 15,
+    "validFrames": 13,
+    "poseFrames": 15
+  },
+  {
+    "id": "3e44cb4a-7b62-498e-980f-dffaf48b210c",
+    "wordId": "qala",
+    "frames": 18,
+    "validFrames": 18,
+    "poseFrames": 18
+  },
+  {
+    "id": "3cfdf771-4bca-4748-aace-ef789c281309",
+    "wordId": "qara",
+    "frames": 24,
+    "validFrames": 24,
+    "poseFrames": 24
+  },
+  {
+    "id": "3e7d041d-94c5-4d6f-9eb6-5a08a63859e0",
+    "wordId": "__unknown__",
+    "frames": 28,
+    "validFrames": 28,
+    "poseFrames": 28
+  },
+  {
+    "id": "3ebac542-85a0-4269-b1ed-47eed0ea7a52",
+    "wordId": "uaqyt",
+    "frames": 16,
+    "validFrames": 13,
+    "poseFrames": 16
+  },
+  {
+    "id": "3eccaa2d-ba0b-49bb-b39e-3db358ddd6e4",
+    "wordId": "nan",
+    "frames": 19,
+    "validFrames": 19,
+    "poseFrames": 19
+  },
+  {
+    "id": "3ecd29fa-af56-46f1-a8ba-3067249dbb9e",
+    "wordId": "erten",
+    "frames": 15,
+    "validFrames": 15,
+    "poseFrames": 15
+  },
+  {
+    "id": "3f20ef66-9b4d-45c7-9074-2c54a65a2e03",
+    "wordId": "uaqyt",
+    "frames": 17,
+    "validFrames": 16,
+    "poseFrames": 17
+  },
+  {
+    "id": "3f792511-6cb1-4fcd-9c08-66d636f5d85f",
+    "wordId": "jaman",
+    "frames": 25,
+    "validFrames": 24,
+    "poseFrames": 25
+  },
+  {
+    "id": "3fcef9f8-2ed0-4a15-9104-6832f052e55f",
+    "wordId": "kesh",
+    "frames": 30,
+    "validFrames": 7,
+    "poseFrames": 30
+  },
+  {
+    "id": "3de860c0-000f-46f2-b7be-ca915016da3d",
+    "wordId": "ai",
+    "frames": 24,
+    "validFrames": 23,
+    "poseFrames": 24
+  },
+  {
+    "id": "402d07f7-4b43-4c8b-b11d-d72103047ae0",
+    "wordId": "keshe",
+    "frames": 26,
+    "validFrames": 26,
+    "poseFrames": 26
+  },
+  {
+    "id": "4035e582-faf3-463c-a4c2-96f23a3e0f74",
+    "wordId": "erten",
+    "frames": 27,
+    "validFrames": 27,
+    "poseFrames": 27
+  },
+  {
+    "id": "404190d7-df76-4b6f-9c89-7e42a2fa784e",
+    "wordId": "su",
+    "frames": 19,
+    "validFrames": 18,
+    "poseFrames": 19
+  },
+  {
+    "id": "3e2f6bd6-bed8-4ef7-8b15-f0fbe5bb8b75",
+    "wordId": "qara",
+    "frames": 25,
+    "validFrames": 20,
+    "poseFrames": 25
+  },
+  {
+    "id": "40af2c54-a282-47de-b505-b93c647f13d2",
+    "wordId": "dos",
+    "frames": 26,
+    "validFrames": 26,
+    "poseFrames": 26
+  },
+  {
+    "id": "410ff9fe-c333-4241-85b8-36c22e350323",
+    "wordId": "balyq",
+    "frames": 22,
+    "validFrames": 22,
+    "poseFrames": 22
+  },
+  {
+    "id": "3e622131-18eb-4ff3-a78d-270995372210",
+    "wordId": "ulken",
+    "frames": 18,
+    "validFrames": 17,
+    "poseFrames": 18
+  },
+  {
+    "id": "40014550-d727-4e4c-b4fb-d0bf69145caf",
+    "wordId": "ai",
+    "frames": 26,
+    "validFrames": 26,
+    "poseFrames": 26
+  },
+  {
+    "id": "41877695-8a95-473f-8216-0521652f01f5",
+    "wordId": "su",
+    "frames": 19,
+    "validFrames": 15,
+    "poseFrames": 19
+  },
+  {
+    "id": "418d8683-89d4-4548-88d1-c3d9179369f7",
+    "wordId": "erten",
+    "frames": 16,
+    "validFrames": 13,
+    "poseFrames": 16
+  },
+  {
+    "id": "4196c715-0ed9-4e7a-a0e5-525278d4b414",
+    "wordId": "jaqsy",
+    "frames": 15,
+    "validFrames": 14,
+    "poseFrames": 15
+  },
+  {
+    "id": "409cc789-4588-4194-981c-9df272b2924e",
+    "wordId": "tyndau",
+    "frames": 20,
+    "validFrames": 20,
+    "poseFrames": 20
+  },
+  {
+    "id": "41f92f8c-e0d2-4e7b-8a4a-38fc3c25cc8e",
+    "wordId": "ake",
+    "frames": 21,
+    "validFrames": 20,
+    "poseFrames": 21
+  },
+  {
+    "id": "42891db4-76c4-49ec-98e2-fb5735162d05",
+    "wordId": "ake",
+    "frames": 23,
+    "validFrames": 19,
+    "poseFrames": 23
+  },
+  {
+    "id": "412bb1ab-a4e2-4dc5-a875-0651827198dc",
+    "wordId": "qyzyl",
+    "frames": 22,
+    "validFrames": 22,
+    "poseFrames": 22
+  },
+  {
+    "id": "43568c87-f9b3-4d2b-a3c9-17cb566a0064",
+    "wordId": "bala",
+    "frames": 40,
+    "validFrames": 39,
+    "poseFrames": 40
+  },
+  {
+    "id": "43720683-c4e2-4f43-83f7-0aefffa411b6",
+    "wordId": "tun",
+    "frames": 25,
+    "validFrames": 24,
+    "poseFrames": 25
+  },
+  {
+    "id": "43791c91-9bb8-42ed-a5cb-b421506d8550",
+    "wordId": "jaqsy",
+    "frames": 17,
+    "validFrames": 0,
+    "poseFrames": 17
+  },
+  {
+    "id": "411355e9-8f3f-405f-9fa3-c39afc302bc0",
+    "wordId": "ulken",
+    "frames": 24,
+    "validFrames": 22,
+    "poseFrames": 24
+  },
+  {
+    "id": "4406d942-1aa6-4bee-9a09-bb5ac76b1ae5",
+    "wordId": "keshe",
+    "frames": 24,
+    "validFrames": 23,
+    "poseFrames": 24
+  },
+  {
+    "id": "4417b2f6-a73a-4d44-9135-3858b32ecc45",
+    "wordId": "__unknown__",
+    "frames": 22,
+    "validFrames": 22,
+    "poseFrames": 22
+  },
+  {
+    "id": "44898870-33b5-4555-945b-093ffa44a4a5",
+    "wordId": "kitap",
+    "frames": 20,
+    "validFrames": 20,
+    "poseFrames": 20
+  },
+  {
+    "id": "41e9ff3b-59ea-451f-bb60-fe539e131a75",
+    "wordId": "jasyl",
+    "frames": 24,
+    "validFrames": 24,
+    "poseFrames": 24
+  },
+  {
+    "id": "42d249c6-d662-4b27-b439-ef3415db42be",
+    "wordId": "kishkentai",
+    "frames": 25,
+    "validFrames": 21,
+    "poseFrames": 25
+  },
+  {
+    "id": "4618918f-ceae-443d-9d7a-11d47a578c64",
+    "wordId": "erten",
+    "frames": 28,
+    "validFrames": 27,
+    "poseFrames": 28
+  },
+  {
+    "id": "4636677a-135e-4ba4-a3a9-613644dceda5",
+    "wordId": "balyq",
+    "frames": 32,
+    "validFrames": 20,
+    "poseFrames": 32
+  },
+  {
+    "id": "46552a8e-b5e0-49f1-b409-1dd4bfaffe1c",
+    "wordId": "balyq",
+    "frames": 24,
+    "validFrames": 21,
+    "poseFrames": 24
+  },
+  {
+    "id": "4494b12c-f1c5-4451-979f-1a9072893b5f",
+    "wordId": "qarau",
+    "frames": 19,
+    "validFrames": 15,
+    "poseFrames": 19
+  },
+  {
+    "id": "4798b1ac-d55a-49ec-b3b9-507e116a1b32",
+    "wordId": "erten",
+    "frames": 22,
+    "validFrames": 21,
+    "poseFrames": 22
+  },
+  {
+    "id": "4831f15f-60ca-4aea-b2b1-300cf5ca465e",
+    "wordId": "__unknown__",
+    "frames": 18,
+    "validFrames": 16,
+    "poseFrames": 18
+  },
+  {
+    "id": "485d45fe-6301-4ad4-ba45-c86d34b293c5",
+    "wordId": "kun",
+    "frames": 20,
+    "validFrames": 14,
+    "poseFrames": 20
+  },
+  {
+    "id": "48fa7c7c-8ca6-4654-941c-f9305bf29294",
+    "wordId": "mysyq",
+    "frames": 28,
+    "validFrames": 28,
+    "poseFrames": 28
+  },
+  {
+    "id": "495b7c9e-d060-4629-a5d4-5bdeec0c7ed3",
+    "wordId": "salem",
+    "frames": 31,
+    "validFrames": 30,
+    "poseFrames": 31
+  },
+  {
+    "id": "459c4cb3-5af6-4dfc-bada-261d8b1473c8",
+    "wordId": "ai",
+    "frames": 28,
+    "validFrames": 28,
+    "poseFrames": 28
+  },
+  {
+    "id": "4a25e1c1-ede8-4689-b101-488f608a741c",
+    "wordId": "bala",
+    "frames": 22,
+    "validFrames": 22,
+    "poseFrames": 22
+  },
+  {
+    "id": "4a88b13e-e7f5-4af6-a751-05cfcceedc92",
+    "wordId": "su",
+    "frames": 25,
+    "validFrames": 23,
+    "poseFrames": 25
+  },
+  {
+    "id": "4acc726a-5d02-41b6-a053-a802b08c56a1",
+    "wordId": "at",
+    "frames": 30,
+    "validFrames": 30,
+    "poseFrames": 30
+  },
+  {
+    "id": "4b53bb87-c998-47ed-a580-efe0ae4334ea",
+    "wordId": "salem",
+    "frames": 29,
+    "validFrames": 29,
+    "poseFrames": 29
+  },
+  {
+    "id": "4b54d48f-a3fc-47e6-886a-b632d4df79db",
+    "wordId": "kitap",
+    "frames": 28,
+    "validFrames": 27,
+    "poseFrames": 28
+  },
+  {
+    "id": "4b98663e-0762-4cbc-af6d-6b0d8cc2914f",
+    "wordId": "keshe",
+    "frames": 15,
+    "validFrames": 13,
+    "poseFrames": 15
+  },
+  {
+    "id": "4bac706a-1002-4818-85cd-f5a91446f8c5",
+    "wordId": "kesh",
+    "frames": 22,
+    "validFrames": 22,
+    "poseFrames": 22
+  },
+  {
+    "id": "4bd788cb-bebe-4846-8f5e-ccf8d4ff0283",
+    "wordId": "tan",
+    "frames": 21,
+    "validFrames": 14,
+    "poseFrames": 21
+  },
+  {
+    "id": "4c3bfbff-c6ae-45d9-b70d-d1ef28841bd3",
+    "wordId": "ia",
+    "frames": 18,
+    "validFrames": 14,
+    "poseFrames": 18
+  },
+  {
+    "id": "43a25499-62ea-4daa-ad5f-51bd4a6be9a6",
+    "wordId": "apta",
+    "frames": 32,
+    "validFrames": 25,
+    "poseFrames": 32
+  },
+  {
+    "id": "466500f6-287b-40a3-8f18-fbc35c5741b1",
+    "wordId": "jyl",
+    "frames": 12,
+    "validFrames": 8,
+    "poseFrames": 12
+  },
+  {
+    "id": "4c514cda-2a5d-44c8-b515-34aa327c211a",
+    "wordId": "tyndau",
+    "frames": 10,
+    "validFrames": 8,
+    "poseFrames": 10
+  },
+  {
+    "id": "49f22459-20e2-406f-8bcc-a8931b045e22",
+    "wordId": "jyl",
+    "frames": 21,
+    "validFrames": 18,
+    "poseFrames": 21
+  },
+  {
+    "id": "4f114fdb-b53d-49ef-8317-eaec142f0462",
+    "wordId": "ui",
+    "frames": 24,
+    "validFrames": 18,
+    "poseFrames": 24
+  },
+  {
+    "id": "4f5b372d-ebdb-4a82-8977-88e6cdf12623",
+    "wordId": "ui",
+    "frames": 22,
+    "validFrames": 16,
+    "poseFrames": 22
+  },
+  {
+    "id": "4d489495-fb9f-4141-98bc-5801cb8426e5",
+    "wordId": "aiel",
+    "frames": 22,
+    "validFrames": 22,
+    "poseFrames": 22
+  },
+  {
+    "id": "4fb38350-eb94-4257-a094-013dcce6ac27",
+    "wordId": "tun",
+    "frames": 23,
+    "validFrames": 16,
+    "poseFrames": 23
+  },
+  {
+    "id": "506516b3-4ef8-43f3-9e66-9fa0b635ff08",
+    "wordId": "nan",
+    "frames": 35,
+    "validFrames": 35,
+    "poseFrames": 35
+  },
+  {
+    "id": "506f5596-ace8-426e-b97c-f5d5953abd65",
+    "wordId": "qus",
+    "frames": 40,
+    "validFrames": 32,
+    "poseFrames": 40
+  },
+  {
+    "id": "50addb3e-37e5-4f70-9b43-356c853bcfa1",
+    "wordId": "__unknown__",
+    "frames": 22,
+    "validFrames": 22,
+    "poseFrames": 22
+  },
+  {
+    "id": "50f8d4f2-2eeb-4a64-9185-a87a7c2043d4",
+    "wordId": "ana",
+    "frames": 18,
+    "validFrames": 18,
+    "poseFrames": 18
+  },
+  {
+    "id": "4d6ff76c-251e-4a8d-8ef1-897c3e3564b9",
+    "wordId": "kishkentai",
+    "frames": 27,
+    "validFrames": 24,
+    "poseFrames": 27
+  },
+  {
+    "id": "51e94394-c8cf-4e1f-846a-6c786485a28c",
+    "wordId": "qala",
+    "frames": 24,
+    "validFrames": 23,
+    "poseFrames": 24
+  },
+  {
+    "id": "51eb5a2f-e359-4954-a3da-53348c032e6b",
+    "wordId": "mysyq",
+    "frames": 26,
+    "validFrames": 25,
+    "poseFrames": 26
+  },
+  {
+    "id": "51f7585e-3542-4909-8870-5e2f0148f298",
+    "wordId": "ui",
+    "frames": 16,
+    "validFrames": 14,
+    "poseFrames": 16
+  },
+  {
+    "id": "4f76979b-de6d-41b7-9630-f5f5d11ed417",
+    "wordId": "jyl",
+    "frames": 19,
+    "validFrames": 19,
+    "poseFrames": 19
+  },
+  {
+    "id": "52273347-5421-4d96-a18f-119f4f00e78c",
+    "wordId": "qus",
+    "frames": 32,
+    "validFrames": 29,
+    "poseFrames": 32
+  },
+  {
+    "id": "52485f41-8f7d-407b-b24b-69c244c681cc",
+    "wordId": "ana",
+    "frames": 23,
+    "validFrames": 21,
+    "poseFrames": 23
+  },
+  {
+    "id": "524d6b8f-c631-4d81-a4bb-9692fadde6c8",
+    "wordId": "ui",
+    "frames": 23,
+    "validFrames": 1,
+    "poseFrames": 23
+  },
+  {
+    "id": "5290f49b-72ee-48c0-8c86-e8e8c5440215",
+    "wordId": "ana",
+    "frames": 13,
+    "validFrames": 10,
+    "poseFrames": 13
+  },
+  {
+    "id": "529a4f63-9243-4804-b5ed-7d40956acdb4",
+    "wordId": "__unknown__",
+    "frames": 19,
+    "validFrames": 16,
+    "poseFrames": 19
+  },
+  {
+    "id": "5307936b-62ad-48c3-9b59-e14465933b56",
+    "wordId": "keshe",
+    "frames": 19,
+    "validFrames": 19,
+    "poseFrames": 19
+  },
+  {
+    "id": "4e97a5bb-5bf3-4a34-a927-f1fdfb1525c2",
+    "wordId": "bilu",
+    "frames": 32,
+    "validFrames": 31,
+    "poseFrames": 32
+  },
+  {
+    "id": "53868a09-e001-4b3b-a1c2-ada0c302719c",
+    "wordId": "nan",
+    "frames": 27,
+    "validFrames": 25,
+    "poseFrames": 27
+  },
+  {
+    "id": "53901ad8-cf03-4e3d-970d-21194e0c4cd0",
+    "wordId": "qus",
+    "frames": 40,
+    "validFrames": 40,
+    "poseFrames": 40
+  },
+  {
+    "id": "53922899-5474-4763-8ddf-fada822326fe",
+    "wordId": "otbasy",
+    "frames": 22,
+    "validFrames": 20,
+    "poseFrames": 22
+  },
+  {
+    "id": "51979d4e-1ca3-4cb4-ac90-389e7303c5c2",
+    "wordId": "jasyl",
+    "frames": 23,
+    "validFrames": 23,
+    "poseFrames": 23
+  },
+  {
+    "id": "53b0e64e-6019-40d1-a441-2a5e95193bbb",
+    "wordId": "bilu",
+    "frames": 11,
+    "validFrames": 11,
+    "poseFrames": 11
+  },
+  {
+    "id": "53d1afd1-935a-4f3e-b60a-66674d351d56",
+    "wordId": "ia",
+    "frames": 18,
+    "validFrames": 18,
+    "poseFrames": 18
+  },
+  {
+    "id": "5213b6b7-51de-4e03-8f2d-ab5a2e4a40b2",
+    "wordId": "kishkentai",
+    "frames": 27,
+    "validFrames": 26,
+    "poseFrames": 27
+  },
+  {
+    "id": "537ba556-5c56-4c36-bc51-eae40df3d0ae",
+    "wordId": "jyl",
+    "frames": 28,
+    "validFrames": 25,
+    "poseFrames": 28
+  },
+  {
+    "id": "546e1caf-6694-4dbf-8181-831de772b7db",
+    "wordId": "nan",
+    "frames": 20,
+    "validFrames": 0,
+    "poseFrames": 20
+  },
+  {
+    "id": "5478fd43-d8de-42e3-b1a0-2508bd63af3c",
+    "wordId": "mysyq",
+    "frames": 32,
+    "validFrames": 30,
+    "poseFrames": 32
+  },
+  {
+    "id": "53cad3f6-0dcd-480a-9cf0-5e5cc3016dcf",
+    "wordId": "apta",
+    "frames": 24,
+    "validFrames": 21,
+    "poseFrames": 24
+  },
+  {
+    "id": "540bc83b-112e-4f7a-9352-aebbc88ca769",
+    "wordId": "qara",
+    "frames": 22,
+    "validFrames": 22,
+    "poseFrames": 22
+  },
+  {
+    "id": "542b93a5-b251-4899-92ba-e836da1e6ec4",
+    "wordId": "oqu",
+    "frames": 21,
+    "validFrames": 17,
+    "poseFrames": 21
+  },
+  {
+    "id": "54dae313-b858-49d7-aca5-649136614b9f",
+    "wordId": "jasyl",
+    "frames": 22,
+    "validFrames": 22,
+    "poseFrames": 22
+  },
+  {
+    "id": "54dd3d70-c2f6-49a7-9f18-c47d9548adbe",
+    "wordId": "kok",
+    "frames": 26,
+    "validFrames": 26,
+    "poseFrames": 26
+  },
+  {
+    "id": "55d32981-a821-421e-b641-decd4465163d",
+    "wordId": "tamaq",
+    "frames": 32,
+    "validFrames": 30,
+    "poseFrames": 32
+  },
+  {
+    "id": "56245c88-3b9b-4307-8241-b084c7da4a64",
+    "wordId": "aqsha",
+    "frames": 23,
+    "validFrames": 22,
+    "poseFrames": 23
+  },
+  {
+    "id": "569a18a1-7606-450b-960e-bd915466df00",
+    "wordId": "dos",
+    "frames": 20,
+    "validFrames": 20,
+    "poseFrames": 20
+  },
+  {
+    "id": "56ea64c7-0c77-4e6e-8e39-6d6cffb28a0a",
+    "wordId": "tun",
+    "frames": 20,
+    "validFrames": 15,
+    "poseFrames": 20
+  },
+  {
+    "id": "56f6a259-7fdd-43cb-bbde-263929e03977",
+    "wordId": "it",
+    "frames": 27,
+    "validFrames": 26,
+    "poseFrames": 27
+  },
+  {
+    "id": "551fb3b0-7796-44be-9510-d24dd9cf99bd",
+    "wordId": "qara",
+    "frames": 20,
+    "validFrames": 20,
+    "poseFrames": 20
+  },
+  {
+    "id": "577fd62a-6151-4dd5-aa56-a42f5cae6954",
+    "wordId": "qala",
+    "frames": 25,
+    "validFrames": 21,
+    "poseFrames": 25
+  },
+  {
+    "id": "5587442b-1f06-4fac-bbf9-4578b939872e",
+    "wordId": "jazu",
+    "frames": 20,
+    "validFrames": 18,
+    "poseFrames": 20
+  },
+  {
+    "id": "581a824e-0ab7-4e42-b59b-ef395bb41b2d",
+    "wordId": "at",
+    "frames": 29,
+    "validFrames": 20,
+    "poseFrames": 29
+  },
+  {
+    "id": "58862482-a788-4e35-9c74-b65fda962a6f",
+    "wordId": "erten",
+    "frames": 19,
+    "validFrames": 19,
+    "poseFrames": 19
+  },
+  {
+    "id": "588d6054-597e-4cfe-8122-7f6fe7e84caa",
+    "wordId": "dos",
+    "frames": 21,
+    "validFrames": 19,
+    "poseFrames": 21
+  },
+  {
+    "id": "59001476-a6d2-42fd-8916-a2ca04d3315e",
+    "wordId": "aqsha",
+    "frames": 17,
+    "validFrames": 17,
+    "poseFrames": 17
+  },
+  {
+    "id": "55a9c679-0204-4d8f-b5b6-55dbc0fe7573",
+    "wordId": "uiyqtau",
+    "frames": 19,
+    "validFrames": 19,
+    "poseFrames": 19
+  },
+  {
+    "id": "57a690c2-5564-4fac-a704-2d20352806af",
+    "wordId": "jazu",
+    "frames": 23,
+    "validFrames": 23,
+    "poseFrames": 23
+  },
+  {
+    "id": "5974f27b-85b5-4934-8df0-ffbad8e4a625",
+    "wordId": "tyndau",
+    "frames": 24,
+    "validFrames": 23,
+    "poseFrames": 24
+  },
+  {
+    "id": "5a1cc388-b9c2-402d-916a-70c4e7e54168",
+    "wordId": "__unknown__",
+    "frames": 29,
+    "validFrames": 26,
+    "poseFrames": 29
+  },
+  {
+    "id": "590bfb2b-f44f-4242-bbb9-9ce8afe924e1",
+    "wordId": "ai",
+    "frames": 20,
+    "validFrames": 17,
+    "poseFrames": 20
+  },
+  {
+    "id": "5a7199fd-e128-4411-9635-03fde31719af",
+    "wordId": "tan",
+    "frames": 30,
+    "validFrames": 30,
+    "poseFrames": 30
+  },
+  {
+    "id": "5a8d5526-c0e2-4b56-a3aa-889aba4ed33b",
+    "wordId": "jaman",
+    "frames": 15,
+    "validFrames": 15,
+    "poseFrames": 15
+  },
+  {
+    "id": "5b0eca15-90e4-42cb-b0e2-0ca9db74db4e",
+    "wordId": "tan",
+    "frames": 16,
+    "validFrames": 15,
+    "poseFrames": 16
+  },
+  {
+    "id": "5a954f84-aac2-43c9-b0fb-8ee2c3731229",
+    "wordId": "salem",
+    "frames": 20,
+    "validFrames": 20,
+    "poseFrames": 20
+  },
+  {
+    "id": "5ba073a9-306d-43ff-a8f8-8688d248b90f",
+    "wordId": "ui",
+    "frames": 15,
+    "validFrames": 13,
+    "poseFrames": 15
+  },
+  {
+    "id": "5bd663f4-c74c-480d-87fc-13738572377a",
+    "wordId": "erten",
+    "frames": 17,
+    "validFrames": 15,
+    "poseFrames": 17
+  },
+  {
+    "id": "5bd9ab86-fe3b-4cf8-8b7b-5098424ff789",
+    "wordId": "keshe",
+    "frames": 21,
+    "validFrames": 21,
+    "poseFrames": 21
+  },
+  {
+    "id": "5c0edd99-9639-4854-a550-7887e0990eb6",
+    "wordId": "balyq",
+    "frames": 25,
+    "validFrames": 19,
+    "poseFrames": 25
+  },
+  {
+    "id": "5c77dd00-6934-4e23-80f3-540396285fd3",
+    "wordId": "jaqsy",
+    "frames": 17,
+    "validFrames": 17,
+    "poseFrames": 17
+  },
+  {
+    "id": "5714843c-789d-4ead-8cb6-cf1db8d42da0",
+    "wordId": "jyl",
+    "frames": 24,
+    "validFrames": 22,
+    "poseFrames": 24
+  },
+  {
+    "id": "5d252814-e7f4-419f-ab70-07c5b99b9f8d",
+    "wordId": "ana",
+    "frames": 20,
+    "validFrames": 20,
+    "poseFrames": 20
+  },
+  {
+    "id": "5d5d6676-7418-4403-ba97-8ca59d4c0996",
+    "wordId": "jaman",
+    "frames": 25,
+    "validFrames": 25,
+    "poseFrames": 25
+  },
+  {
+    "id": "5d847e11-2256-4b7b-aa40-c2c6ec737414",
+    "wordId": "at",
+    "frames": 29,
+    "validFrames": 29,
+    "poseFrames": 29
+  },
+  {
+    "id": "5d9c0613-a213-4da8-862b-398a9e7ef2b2",
+    "wordId": "at",
+    "frames": 24,
+    "validFrames": 24,
+    "poseFrames": 24
+  },
+  {
+    "id": "5da64d7c-2131-4b7a-ae00-728d8b8dda5d",
+    "wordId": "su",
+    "frames": 22,
+    "validFrames": 20,
+    "poseFrames": 22
+  },
+  {
+    "id": "5e0cb298-4bd6-430f-abe0-fe01b140e65d",
+    "wordId": "nan",
+    "frames": 17,
+    "validFrames": 15,
+    "poseFrames": 17
+  },
+  {
+    "id": "5e43b159-c9ce-4085-9ca7-e2cb223319a9",
+    "wordId": "qus",
+    "frames": 28,
+    "validFrames": 27,
+    "poseFrames": 28
+  },
+  {
+    "id": "5f07b9ae-eaf6-4424-a24f-05c2b8e06398",
+    "wordId": "it",
+    "frames": 17,
+    "validFrames": 17,
+    "poseFrames": 17
+  },
+  {
+    "id": "5f3a51ae-d308-4e4f-8403-389e90c47cb6",
+    "wordId": "__unknown__",
+    "frames": 25,
+    "validFrames": 23,
+    "poseFrames": 25
+  },
+  {
+    "id": "5f74d641-3d32-4f9c-b4b8-44f40693506b",
+    "wordId": "__unknown__",
+    "frames": 28,
+    "validFrames": 25,
+    "poseFrames": 28
+  },
+  {
+    "id": "5fb2ff90-422c-4689-932a-f2f0d7354aed",
+    "wordId": "aqsha",
+    "frames": 19,
+    "validFrames": 19,
+    "poseFrames": 19
+  },
+  {
+    "id": "5ff89a59-e736-412a-bcae-74770fb2d2fb",
+    "wordId": "aqsha",
+    "frames": 16,
+    "validFrames": 13,
+    "poseFrames": 16
+  },
+  {
+    "id": "5c38287c-c193-4998-8f9d-36ed2734aacd",
+    "wordId": "qarau",
+    "frames": 16,
+    "validFrames": 16,
+    "poseFrames": 16
+  },
+  {
+    "id": "60a51a38-fb54-4646-affd-a2eac470d724",
+    "wordId": "salem",
+    "frames": 23,
+    "validFrames": 21,
+    "poseFrames": 23
+  },
+  {
+    "id": "60c85929-fd68-4e03-a8d7-e5f62f813849",
+    "wordId": "salem",
+    "frames": 19,
+    "validFrames": 17,
+    "poseFrames": 19
+  },
+  {
+    "id": "60ec20bb-8e73-4e16-9074-12a7bb61e356",
+    "wordId": "ia",
+    "frames": 28,
+    "validFrames": 28,
+    "poseFrames": 28
+  },
+  {
+    "id": "6001c55d-2d39-420c-829e-340ffc25d949",
+    "wordId": "ishu",
+    "frames": 17,
+    "validFrames": 17,
+    "poseFrames": 17
+  },
+  {
+    "id": "5c794c1c-fd02-43d7-9938-4804fe6b8877",
+    "wordId": "qara",
+    "frames": 19,
+    "validFrames": 18,
+    "poseFrames": 19
+  },
+  {
+    "id": "6159f875-c7ce-4695-a09f-deab4a49c7ce",
+    "wordId": "bala",
+    "frames": 18,
+    "validFrames": 18,
+    "poseFrames": 18
+  },
+  {
+    "id": "615cc768-933a-44b7-8bc2-2e272905c6f0",
+    "wordId": "qala",
+    "frames": 36,
+    "validFrames": 30,
+    "poseFrames": 36
+  },
+  {
+    "id": "6166869e-1076-48e9-9684-22cf21e228a6",
+    "wordId": "bugin",
+    "frames": 22,
+    "validFrames": 18,
+    "poseFrames": 22
+  },
+  {
+    "id": "61baf5ac-cfde-4ef7-ab32-19af3203eafb",
+    "wordId": "ana",
+    "frames": 18,
+    "validFrames": 16,
+    "poseFrames": 18
+  },
+  {
+    "id": "6206481a-acdb-4d35-90a1-1ed85220af3d",
+    "wordId": "at",
+    "frames": 31,
+    "validFrames": 31,
+    "poseFrames": 31
+  },
+  {
+    "id": "599df5af-e629-4fd6-b53e-29f3e44170fd",
+    "wordId": "oqu",
+    "frames": 23,
+    "validFrames": 18,
+    "poseFrames": 23
+  },
+  {
+    "id": "620a9fc5-4b35-4cfc-864a-8385dd8b74c3",
+    "wordId": "bilu",
+    "frames": 16,
+    "validFrames": 16,
+    "poseFrames": 16
+  },
+  {
+    "id": "62650c82-12c2-4831-a5c7-36135297ff35",
+    "wordId": "bugin",
+    "frames": 25,
+    "validFrames": 8,
+    "poseFrames": 25
+  },
+  {
+    "id": "613be302-34db-4cc4-820b-ec0845bce3ed",
+    "wordId": "jasyl",
+    "frames": 20,
+    "validFrames": 17,
+    "poseFrames": 20
+  },
+  {
+    "id": "6106a42d-83ff-45d2-98fe-a6e5101396a2",
+    "wordId": "erkek",
+    "frames": 25,
+    "validFrames": 24,
+    "poseFrames": 25
+  },
+  {
+    "id": "62552433-9d09-4b2b-be37-3935792969f4",
+    "wordId": "jyl",
+    "frames": 17,
+    "validFrames": 17,
+    "poseFrames": 17
+  },
+  {
+    "id": "6301b8d7-b6b2-4bfd-adae-ebb68646cff8",
+    "wordId": "bugin",
+    "frames": 21,
+    "validFrames": 18,
+    "poseFrames": 21
+  },
+  {
+    "id": "633a9f42-8a1e-4f1d-8962-73300e31e2d6",
+    "wordId": "nan",
+    "frames": 25,
+    "validFrames": 24,
+    "poseFrames": 25
+  },
+  {
+    "id": "635d2465-6b62-409a-b798-2540870bbaa3",
+    "wordId": "aqsha",
+    "frames": 21,
+    "validFrames": 16,
+    "poseFrames": 21
+  },
+  {
+    "id": "6380c947-8a0e-4b73-86dd-f7b708342768",
+    "wordId": "keshe",
+    "frames": 20,
+    "validFrames": 20,
+    "poseFrames": 20
+  },
+  {
+    "id": "6387a5f5-ee50-4301-bdb2-9606ab0b7e80",
+    "wordId": "mektep",
+    "frames": 29,
+    "validFrames": 24,
+    "poseFrames": 29
+  },
+  {
+    "id": "63ab5137-bd45-4230-88a9-72d474ead253",
+    "wordId": "tun",
+    "frames": 18,
+    "validFrames": 15,
+    "poseFrames": 18
+  },
+  {
+    "id": "63acc748-8898-40b5-acfe-c2da481a1215",
+    "wordId": "ana",
+    "frames": 19,
+    "validFrames": 14,
+    "poseFrames": 19
+  },
+  {
+    "id": "63cfc54c-c910-4ea0-8615-fe9848ab63a0",
+    "wordId": "su",
+    "frames": 25,
+    "validFrames": 22,
+    "poseFrames": 25
+  },
+  {
+    "id": "62813877-fba9-4ca9-85e0-6c832874b249",
+    "wordId": "kishkentai",
+    "frames": 13,
+    "validFrames": 10,
+    "poseFrames": 13
+  },
+  {
+    "id": "628722ef-4a4c-4715-8728-4d3675c326fe",
+    "wordId": "jyl",
+    "frames": 19,
+    "validFrames": 19,
+    "poseFrames": 19
+  },
+  {
+    "id": "63fd024e-e679-436e-9dda-441e080c6a64",
+    "wordId": "erten",
+    "frames": 25,
+    "validFrames": 25,
+    "poseFrames": 25
+  },
+  {
+    "id": "648be5ce-883c-4cfe-9071-ef0277082507",
+    "wordId": "kitap",
+    "frames": 25,
+    "validFrames": 23,
+    "poseFrames": 25
+  },
+  {
+    "id": "63e52671-d70b-49f0-8c67-a2dfa2c98551",
+    "wordId": "kishkentai",
+    "frames": 17,
+    "validFrames": 17,
+    "poseFrames": 17
+  },
+  {
+    "id": "65414da1-268a-47d0-8f36-cf83cd9de28a",
+    "wordId": "su",
+    "frames": 18,
+    "validFrames": 15,
+    "poseFrames": 18
+  },
+  {
+    "id": "62b50094-8ff6-4561-b86d-edf0c319758e",
+    "wordId": "jasyl",
+    "frames": 30,
+    "validFrames": 30,
+    "poseFrames": 30
+  },
+  {
+    "id": "667573b1-763d-41ed-ba2c-8209234dc05f",
+    "wordId": "jaman",
+    "frames": 18,
+    "validFrames": 17,
+    "poseFrames": 18
+  },
+  {
+    "id": "63f186b6-32ad-4d61-917a-d283e127df2e",
+    "wordId": "apta",
+    "frames": 25,
+    "validFrames": 25,
+    "poseFrames": 25
+  },
+  {
+    "id": "65882de6-c0a8-4983-9578-77b2163a175b",
+    "wordId": "aiel",
+    "frames": 19,
+    "validFrames": 17,
+    "poseFrames": 19
+  },
+  {
+    "id": "651c434f-ece0-4715-8918-65df6553c0fd",
+    "wordId": "qara",
+    "frames": 25,
+    "validFrames": 23,
+    "poseFrames": 25
+  },
+  {
+    "id": "67e55567-a2ed-499a-af2f-1dc44970e131",
+    "wordId": "mektep",
+    "frames": 20,
+    "validFrames": 18,
+    "poseFrames": 20
+  },
+  {
+    "id": "67fe2ae4-3c98-4de7-9163-98e876abbc74",
+    "wordId": "mysyq",
+    "frames": 17,
+    "validFrames": 16,
+    "poseFrames": 17
+  },
+  {
+    "id": "6849967b-1cdb-439e-9d86-ea45698734dc",
+    "wordId": "otbasy",
+    "frames": 20,
+    "validFrames": 17,
+    "poseFrames": 20
+  },
+  {
+    "id": "66eff318-61b2-46f5-8aac-9996e05d0cd7",
+    "wordId": "oqu",
+    "frames": 20,
+    "validFrames": 16,
+    "poseFrames": 20
+  },
+  {
+    "id": "68a11d6e-b893-4100-b798-d7d5cf72be81",
+    "wordId": "bugin",
+    "frames": 18,
+    "validFrames": 17,
+    "poseFrames": 18
+  },
+  {
+    "id": "67996dd8-cdb7-4eb6-8a46-690f61f0269e",
+    "wordId": "ishu",
+    "frames": 16,
+    "validFrames": 15,
+    "poseFrames": 16
+  },
+  {
+    "id": "677bd795-6bf1-4fa9-884d-47aea49fb42c",
+    "wordId": "qara",
+    "frames": 32,
+    "validFrames": 26,
+    "poseFrames": 32
+  },
+  {
+    "id": "6911f183-7abe-4505-a770-b48a1db994b5",
+    "wordId": "tyndau",
+    "frames": 13,
+    "validFrames": 12,
+    "poseFrames": 13
+  },
+  {
+    "id": "6850557e-17fa-46b9-98ab-37538c616dd9",
+    "wordId": "apta",
+    "frames": 24,
+    "validFrames": 24,
+    "poseFrames": 24
+  },
+  {
+    "id": "69586c66-7348-4881-8390-b56dbca08817",
+    "wordId": "bala",
+    "frames": 23,
+    "validFrames": 22,
+    "poseFrames": 23
+  },
+  {
+    "id": "69d6dcdb-f1f6-4efc-b0bf-7f75d6ebdfd4",
+    "wordId": "at",
+    "frames": 24,
+    "validFrames": 21,
+    "poseFrames": 24
+  },
+  {
+    "id": "69376af6-13c9-42ca-9ff3-0880d106a0c3",
+    "wordId": "aq",
+    "frames": 23,
+    "validFrames": 23,
+    "poseFrames": 23
+  },
+  {
+    "id": "6a2cbb6a-bf40-4ec1-87c2-fbf290c7cedf",
+    "wordId": "kitap",
+    "frames": 32,
+    "validFrames": 32,
+    "poseFrames": 32
+  },
+  {
+    "id": "6a2d01fd-1428-48a3-a218-252b79b21426",
+    "wordId": "mektep",
+    "frames": 22,
+    "validFrames": 21,
+    "poseFrames": 22
+  },
+  {
+    "id": "6a4b7e9a-4a7e-47c8-ac9e-f50b73f3c839",
+    "wordId": "bala",
+    "frames": 27,
+    "validFrames": 24,
+    "poseFrames": 27
+  },
+  {
+    "id": "6a5bb05f-f1c9-444d-9888-090b368bea8b",
+    "wordId": "qala",
+    "frames": 25,
+    "validFrames": 23,
+    "poseFrames": 25
+  },
+  {
+    "id": "6c029f2e-ecde-4466-b75d-0cc706358942",
+    "wordId": "uaqyt",
+    "frames": 14,
+    "validFrames": 9,
+    "poseFrames": 14
+  },
+  {
+    "id": "6c27a27e-63d6-416e-bef8-c2f0c6977f6e",
+    "wordId": "at",
+    "frames": 22,
+    "validFrames": 22,
+    "poseFrames": 22
+  },
+  {
+    "id": "6c51f3b3-12bc-4665-9fd2-aad6f1c9d0f3",
+    "wordId": "ui",
+    "frames": 18,
+    "validFrames": 14,
+    "poseFrames": 18
+  },
+  {
+    "id": "6c9d9661-2388-4a70-8859-5e339ea938ea",
+    "wordId": "it",
+    "frames": 20,
+    "validFrames": 18,
+    "poseFrames": 20
+  },
+  {
+    "id": "6cb84eb4-aae3-4a56-b7e6-fdfd4b10b767",
+    "wordId": "mektep",
+    "frames": 23,
+    "validFrames": 21,
+    "poseFrames": 23
+  },
+  {
+    "id": "6934e233-8571-42ae-bec0-85c55709eaae",
+    "wordId": "qara",
+    "frames": 33,
+    "validFrames": 17,
+    "poseFrames": 33
+  },
+  {
+    "id": "6d0c8e90-9501-42e4-9481-246d9bbee91e",
+    "wordId": "tamaq",
+    "frames": 17,
+    "validFrames": 15,
+    "poseFrames": 17
+  },
+  {
+    "id": "6d2015ce-b683-47b0-a711-9a56fef304be",
+    "wordId": "bugin",
+    "frames": 21,
+    "validFrames": 20,
+    "poseFrames": 21
+  },
+  {
+    "id": "6d2dc221-cae1-47a6-9aab-f1d83356a3b3",
+    "wordId": "nan",
+    "frames": 22,
+    "validFrames": 22,
+    "poseFrames": 22
+  },
+  {
+    "id": "6d8dab68-64f9-44dc-b10f-5f8da26e1b79",
+    "wordId": "otbasy",
+    "frames": 36,
+    "validFrames": 35,
+    "poseFrames": 36
+  },
+  {
+    "id": "6e0221ea-83eb-4fe7-a310-ff05fe42c41a",
+    "wordId": "bugin",
+    "frames": 26,
+    "validFrames": 22,
+    "poseFrames": 26
+  },
+  {
+    "id": "694c3097-c589-4991-92a7-9fb1ab4de6a4",
+    "wordId": "kishkentai",
+    "frames": 33,
+    "validFrames": 30,
+    "poseFrames": 33
+  },
+  {
+    "id": "69f3417d-59f0-4b4a-8b16-d2518f89ac21",
+    "wordId": "ulken",
+    "frames": 29,
+    "validFrames": 28,
+    "poseFrames": 29
+  },
+  {
+    "id": "6e6c05d5-1f42-44c4-a462-be10b7aef184",
+    "wordId": "tun",
+    "frames": 24,
+    "validFrames": 21,
+    "poseFrames": 24
+  },
+  {
+    "id": "6eab5af0-be09-4dec-a5e9-1bcd35443675",
+    "wordId": "kesh",
+    "frames": 25,
+    "validFrames": 25,
+    "poseFrames": 25
+  },
+  {
+    "id": "6f1cf4f0-ee44-4b04-8454-386744e91f5c",
+    "wordId": "qala",
+    "frames": 18,
+    "validFrames": 15,
+    "poseFrames": 18
+  },
+  {
+    "id": "6f772fb3-6ed2-437e-913f-f31601ad7985",
+    "wordId": "at",
+    "frames": 27,
+    "validFrames": 27,
+    "poseFrames": 27
+  },
+  {
+    "id": "6f7dff67-d723-4748-b6d8-5b0bcdd7e309",
+    "wordId": "qala",
+    "frames": 29,
+    "validFrames": 29,
+    "poseFrames": 29
+  },
+  {
+    "id": "6cc8b13a-baad-4d44-909a-ff339b7f853c",
+    "wordId": "ishu",
+    "frames": 18,
+    "validFrames": 18,
+    "poseFrames": 18
+  },
+  {
+    "id": "6e05148a-63fa-4c49-9798-50d372e6db17",
+    "wordId": "ishu",
+    "frames": 20,
+    "validFrames": 20,
+    "poseFrames": 20
+  },
+  {
+    "id": "6fd72124-6cf6-437f-82e7-8327896fabe0",
+    "wordId": "ia",
+    "frames": 13,
+    "validFrames": 11,
+    "poseFrames": 13
+  },
+  {
+    "id": "703bfdda-0c9a-47a0-b58f-0fdb8fd3d54f",
+    "wordId": "otbasy",
+    "frames": 29,
+    "validFrames": 27,
+    "poseFrames": 29
+  },
+  {
+    "id": "6fb52e88-4eef-4543-8fa3-8b692a5126f9",
+    "wordId": "aq",
+    "frames": 25,
+    "validFrames": 25,
+    "poseFrames": 25
+  },
+  {
+    "id": "6e24fd10-7198-4f7c-8af5-3d6f2c116cd6",
+    "wordId": "ulken",
+    "frames": 31,
+    "validFrames": 29,
+    "poseFrames": 31
+  },
+  {
+    "id": "70c5ffe5-5ee7-4400-aa30-dbc15c281dbb",
+    "wordId": "salem",
+    "frames": 28,
+    "validFrames": 28,
+    "poseFrames": 28
+  },
+  {
+    "id": "7105e616-0f9b-481d-a31c-ae403928b51a",
+    "wordId": "nan",
+    "frames": 31,
+    "validFrames": 28,
+    "poseFrames": 31
+  },
+  {
+    "id": "7115ed4c-8dd8-4b6e-8fed-e052ddda1b91",
+    "wordId": "uaqyt",
+    "frames": 20,
+    "validFrames": 20,
+    "poseFrames": 20
+  },
+  {
+    "id": "71bd152c-fec9-4252-9862-5c07cbf73f66",
+    "wordId": "otbasy",
+    "frames": 18,
+    "validFrames": 15,
+    "poseFrames": 18
+  },
+  {
+    "id": "707541c1-c618-42b3-8b41-975306821f6b",
+    "wordId": "bilu",
+    "frames": 23,
+    "validFrames": 23,
+    "poseFrames": 23
+  },
+  {
+    "id": "728c296d-1cc6-4475-865b-8a3396221970",
+    "wordId": "at",
+    "frames": 19,
+    "validFrames": 19,
+    "poseFrames": 19
+  },
+  {
+    "id": "731ffc36-ce93-4f9f-96a4-5fcc1e513bc6",
+    "wordId": "it",
+    "frames": 27,
+    "validFrames": 27,
+    "poseFrames": 27
+  },
+  {
+    "id": "6fb9cb42-6106-4962-b1fc-c0d7f3396281",
+    "wordId": "ai",
+    "frames": 29,
+    "validFrames": 29,
+    "poseFrames": 29
+  },
+  {
+    "id": "73619904-c70c-4ebb-83a5-d8d94c9cb489",
+    "wordId": "tan",
+    "frames": 14,
+    "validFrames": 14,
+    "poseFrames": 14
+  },
+  {
+    "id": "740688dc-78b7-4ecf-9746-e60e7bf47027",
+    "wordId": "erten",
+    "frames": 17,
+    "validFrames": 17,
+    "poseFrames": 17
+  },
+  {
+    "id": "74709b04-096e-48a7-9dac-f90b0d92c188",
+    "wordId": "jaman",
+    "frames": 24,
+    "validFrames": 24,
+    "poseFrames": 24
+  },
+  {
+    "id": "74f4df78-863a-49af-9627-baee72b0feec",
+    "wordId": "ake",
+    "frames": 26,
+    "validFrames": 23,
+    "poseFrames": 26
+  },
+  {
+    "id": "70b781e0-699b-46fe-a32b-635c67304438",
+    "wordId": "qarau",
+    "frames": 19,
+    "validFrames": 12,
+    "poseFrames": 19
+  },
+  {
+    "id": "723873ce-74a1-4a80-86a5-1ab45164ff8d",
+    "wordId": "qarau",
+    "frames": 22,
+    "validFrames": 22,
+    "poseFrames": 22
+  },
+  {
+    "id": "7610613e-18e9-46f9-acc0-32c5563168e0",
+    "wordId": "kesh",
+    "frames": 21,
+    "validFrames": 20,
+    "poseFrames": 21
+  },
+  {
+    "id": "75673dc0-26ec-45ae-807e-d6e47007c9fa",
+    "wordId": "tyndau",
+    "frames": 27,
+    "validFrames": 20,
+    "poseFrames": 27
+  },
+  {
+    "id": "765cc763-6bcd-4605-aa96-05cfb03bc71f",
+    "wordId": "su",
+    "frames": 22,
+    "validFrames": 19,
+    "poseFrames": 22
+  },
+  {
+    "id": "7686ab1f-28e9-4f18-9b86-df30a83181a3",
+    "wordId": "tun",
+    "frames": 16,
+    "validFrames": 15,
+    "poseFrames": 16
+  },
+  {
+    "id": "76bd5f3f-4393-4ba7-8b02-3682fd318c2b",
+    "wordId": "erten",
+    "frames": 24,
+    "validFrames": 17,
+    "poseFrames": 24
+  },
+  {
+    "id": "76fc58e0-5691-455b-9eef-547200f9295b",
+    "wordId": "balyq",
+    "frames": 17,
+    "validFrames": 17,
+    "poseFrames": 17
+  },
+  {
+    "id": "770a15e9-a164-403a-9d72-7fccede13724",
+    "wordId": "tan",
+    "frames": 21,
+    "validFrames": 21,
+    "poseFrames": 21
+  },
+  {
+    "id": "7721009e-5c32-4e4d-b4d5-e6fd26095002",
+    "wordId": "kesh",
+    "frames": 29,
+    "validFrames": 4,
+    "poseFrames": 29
+  },
+  {
+    "id": "77637f9d-c047-4726-84da-e4061caaaba9",
+    "wordId": "at",
+    "frames": 25,
+    "validFrames": 25,
+    "poseFrames": 25
+  },
+  {
+    "id": "779af58f-f9ca-4974-83ed-26d7005f486b",
+    "wordId": "jaman",
+    "frames": 31,
+    "validFrames": 31,
+    "poseFrames": 31
+  },
+  {
+    "id": "77caf081-017d-406a-a19f-934372ad8a11",
+    "wordId": "uaqyt",
+    "frames": 28,
+    "validFrames": 28,
+    "poseFrames": 28
+  },
+  {
+    "id": "77ec105a-1472-492c-a566-a5b797a070f0",
+    "wordId": "kitap",
+    "frames": 35,
+    "validFrames": 34,
+    "poseFrames": 35
+  },
+  {
+    "id": "75b5f6e2-5b5f-469d-bb11-57d76fd4107c",
+    "wordId": "jazu",
+    "frames": 24,
+    "validFrames": 24,
+    "poseFrames": 24
+  },
+  {
+    "id": "7831bc90-9a15-424e-901b-dac51ebb4753",
+    "wordId": "tamaq",
+    "frames": 20,
+    "validFrames": 18,
+    "poseFrames": 20
+  },
+  {
+    "id": "734c1dd6-81d4-4b10-8da5-355bea3c9d99",
+    "wordId": "aiel",
+    "frames": 26,
+    "validFrames": 24,
+    "poseFrames": 26
+  },
+  {
+    "id": "7889864a-3908-4ffa-974d-a59de8250b36",
+    "wordId": "ana",
+    "frames": 24,
+    "validFrames": 23,
+    "poseFrames": 24
+  },
+  {
+    "id": "78a4ca40-8a78-437e-8024-13935bd3abdb",
+    "wordId": "ake",
+    "frames": 26,
+    "validFrames": 26,
+    "poseFrames": 26
+  },
+  {
+    "id": "78b0f239-4f6b-428c-a14a-36dbacd8a00b",
+    "wordId": "__unknown__",
+    "frames": 21,
+    "validFrames": 19,
+    "poseFrames": 21
+  },
+  {
+    "id": "763fcf4a-6d94-43b4-b9d6-12120bb6fcea",
+    "wordId": "oqu",
+    "frames": 30,
+    "validFrames": 29,
+    "poseFrames": 30
+  },
+  {
+    "id": "782d8ea2-d5bc-4ffb-8c62-4bee14ff3a05",
+    "wordId": "ai",
+    "frames": 26,
+    "validFrames": 26,
+    "poseFrames": 26
+  },
+  {
+    "id": "78b86b36-d9af-4e07-bb03-8a8ff6a36c57",
+    "wordId": "aiel",
+    "frames": 24,
+    "validFrames": 20,
+    "poseFrames": 24
+  },
+  {
+    "id": "78f75fea-cee1-45a6-a044-9bfb27c7dfd7",
+    "wordId": "qus",
+    "frames": 36,
+    "validFrames": 33,
+    "poseFrames": 36
+  },
+  {
+    "id": "78843db4-39e9-4423-85b9-ef042ba62399",
+    "wordId": "jyl",
+    "frames": 29,
+    "validFrames": 29,
+    "poseFrames": 29
+  },
+  {
+    "id": "78ba2ac8-2a4e-4de9-9c49-242caed83a56",
+    "wordId": "qyzyl",
+    "frames": 16,
+    "validFrames": 14,
+    "poseFrames": 16
+  },
+  {
+    "id": "798bc65c-0413-4c30-9d4f-28b1ca461afe",
+    "wordId": "jasyl",
+    "frames": 21,
+    "validFrames": 20,
+    "poseFrames": 21
+  },
+  {
+    "id": "78e4260f-b59d-4786-b278-f5993f91981a",
+    "wordId": "erkek",
+    "frames": 19,
+    "validFrames": 18,
+    "poseFrames": 19
+  },
+  {
+    "id": "7ac1db8a-4689-4954-ab92-f28d561e797c",
+    "wordId": "tamaq",
+    "frames": 17,
+    "validFrames": 14,
+    "poseFrames": 17
+  },
+  {
+    "id": "7a582b49-7e92-4bcf-be2d-c15c9be46c29",
+    "wordId": "ishu",
+    "frames": 22,
+    "validFrames": 18,
+    "poseFrames": 22
+  },
+  {
+    "id": "7afb7d7c-2ecd-424a-a9ac-1b5e527045cb",
+    "wordId": "__unknown__",
+    "frames": 26,
+    "validFrames": 14,
+    "poseFrames": 26
+  },
+  {
+    "id": "7b2452f9-300a-4c9e-b145-d92415a1b481",
+    "wordId": "mysyq",
+    "frames": 35,
+    "validFrames": 26,
+    "poseFrames": 35
+  },
+  {
+    "id": "7b496d8d-d652-429a-af88-ca216b88d8b1",
+    "wordId": "otbasy",
+    "frames": 21,
+    "validFrames": 17,
+    "poseFrames": 21
+  },
+  {
+    "id": "7b9c34e8-a8bd-4f4a-ad2e-05befc12ea1d",
+    "wordId": "qala",
+    "frames": 19,
+    "validFrames": 18,
+    "poseFrames": 19
+  },
+  {
+    "id": "7ab4ed20-bd2a-4fd2-a9f5-836058a3c7e4",
+    "wordId": "kishkentai",
+    "frames": 24,
+    "validFrames": 24,
+    "poseFrames": 24
+  },
+  {
+    "id": "7c12981d-c0ac-4dc0-8d97-639528c8279d",
+    "wordId": "tan",
+    "frames": 25,
+    "validFrames": 25,
+    "poseFrames": 25
+  },
+  {
+    "id": "7c1afa37-087c-4503-8695-4ea83cc9789f",
+    "wordId": "su",
+    "frames": 14,
+    "validFrames": 14,
+    "poseFrames": 14
+  },
+  {
+    "id": "7ac1bd5f-6172-4521-9d53-bda89b298c11",
+    "wordId": "qarau",
+    "frames": 23,
+    "validFrames": 23,
+    "poseFrames": 23
+  },
+  {
+    "id": "7ad6f862-32f0-4aa4-968d-cebe43685bc9",
+    "wordId": "erkek",
+    "frames": 20,
+    "validFrames": 17,
+    "poseFrames": 20
+  },
+  {
+    "id": "7d190ebc-5ca7-4550-bb56-136b7cfacc47",
+    "wordId": "dos",
+    "frames": 16,
+    "validFrames": 16,
+    "poseFrames": 16
+  },
+  {
+    "id": "7bdc11cd-b6df-4203-8cd0-7d857f007a77",
+    "wordId": "kishkentai",
+    "frames": 23,
+    "validFrames": 23,
+    "poseFrames": 23
+  },
+  {
+    "id": "7dc294dd-3cfe-4b2b-bf8e-288bb712a88f",
+    "wordId": "kun",
+    "frames": 22,
+    "validFrames": 22,
+    "poseFrames": 22
+  },
+  {
+    "id": "7e3281f0-2c85-4ec5-a507-65a569383b61",
+    "wordId": "balyq",
+    "frames": 16,
+    "validFrames": 13,
+    "poseFrames": 16
+  },
+  {
+    "id": "7e7821ca-9737-4d33-932d-97f1c89c8d8a",
+    "wordId": "mysyq",
+    "frames": 16,
+    "validFrames": 16,
+    "poseFrames": 16
+  },
+  {
+    "id": "7e8516ac-111d-4237-995c-a3d832905d78",
+    "wordId": "ake",
+    "frames": 19,
+    "validFrames": 18,
+    "poseFrames": 19
+  },
+  {
+    "id": "7e9768ee-eb60-45ce-a3a9-80c275d73f10",
+    "wordId": "mysyq",
+    "frames": 33,
+    "validFrames": 32,
+    "poseFrames": 33
+  },
+  {
+    "id": "7eab41f9-5687-4d2e-872b-58929c58ff37",
+    "wordId": "it",
+    "frames": 46,
+    "validFrames": 43,
+    "poseFrames": 46
+  },
+  {
+    "id": "7d065430-d556-49ee-884f-89aa2dd241cd",
+    "wordId": "oqu",
+    "frames": 23,
+    "validFrames": 21,
+    "poseFrames": 23
+  },
+  {
+    "id": "7eebf4e4-e135-4154-a3f9-118773c41fc5",
+    "wordId": "__unknown__",
+    "frames": 27,
+    "validFrames": 15,
+    "poseFrames": 27
+  },
+  {
+    "id": "7d188ac2-d39d-433f-b4c6-4576c2c66b16",
+    "wordId": "qara",
+    "frames": 21,
+    "validFrames": 20,
+    "poseFrames": 21
+  },
+  {
+    "id": "7fae068c-afc9-4d4e-826e-eaf73dbbe7ae",
+    "wordId": "keshe",
+    "frames": 24,
+    "validFrames": 22,
+    "poseFrames": 24
+  },
+  {
+    "id": "7fcf08ef-cfe9-4ebd-adf0-24b604b27855",
+    "wordId": "dos",
+    "frames": 20,
+    "validFrames": 20,
+    "poseFrames": 20
+  },
+  {
+    "id": "8019287b-c840-45f1-8697-20c1355657fe",
+    "wordId": "aqsha",
+    "frames": 17,
+    "validFrames": 16,
+    "poseFrames": 17
+  },
+  {
+    "id": "7d7daf13-98ca-475a-8827-c722795ee073",
+    "wordId": "ai",
+    "frames": 24,
+    "validFrames": 21,
+    "poseFrames": 24
+  },
+  {
+    "id": "812e9061-537c-47a1-b2ec-070ba55aed25",
+    "wordId": "ui",
+    "frames": 26,
+    "validFrames": 18,
+    "poseFrames": 26
+  },
+  {
+    "id": "813e6246-c6c4-4125-a779-a2395f2065bb",
+    "wordId": "aqsha",
+    "frames": 16,
+    "validFrames": 16,
+    "poseFrames": 16
+  },
+  {
+    "id": "7ed5a295-82b7-4bef-8204-b6177a1bc50e",
+    "wordId": "jazu",
+    "frames": 17,
+    "validFrames": 17,
+    "poseFrames": 17
+  },
+  {
+    "id": "81dcfb6c-96a0-4f65-9ffc-e4c4f1c92d46",
+    "wordId": "tun",
+    "frames": 28,
+    "validFrames": 20,
+    "poseFrames": 28
+  },
+  {
+    "id": "7f66bbf8-19b2-46fe-8fb0-714376fa8741",
+    "wordId": "ulken",
+    "frames": 13,
+    "validFrames": 11,
+    "poseFrames": 13
+  },
+  {
+    "id": "827fa8c1-e2a7-49f4-ad4c-ccfb8b8af661",
+    "wordId": "mektep",
+    "frames": 25,
+    "validFrames": 23,
+    "poseFrames": 25
+  },
+  {
+    "id": "8292ef4a-f490-4cd6-81c8-408be7abaf20",
+    "wordId": "it",
+    "frames": 39,
+    "validFrames": 39,
+    "poseFrames": 39
+  },
+  {
+    "id": "82699021-b3b0-4756-a307-636c9872b76d",
+    "wordId": "jazu",
+    "frames": 15,
+    "validFrames": 15,
+    "poseFrames": 15
+  },
+  {
+    "id": "80ed8e44-02f9-489e-84d8-ad9eac053140",
+    "wordId": "aq",
+    "frames": 25,
+    "validFrames": 22,
+    "poseFrames": 25
+  },
+  {
+    "id": "83137442-0329-4197-9317-589138727f6e",
+    "wordId": "qus",
+    "frames": 30,
+    "validFrames": 30,
+    "poseFrames": 30
+  },
+  {
+    "id": "831cf176-fd7b-4d70-bb05-bf1214f5378b",
+    "wordId": "qus",
+    "frames": 22,
+    "validFrames": 20,
+    "poseFrames": 22
+  },
+  {
+    "id": "8340c333-0a71-41c5-a0b8-4fd3609ab051",
+    "wordId": "bugin",
+    "frames": 18,
+    "validFrames": 16,
+    "poseFrames": 18
+  },
+  {
+    "id": "834a06ad-d4ea-4489-ac3a-fea461af51cb",
+    "wordId": "ana",
+    "frames": 27,
+    "validFrames": 24,
+    "poseFrames": 27
+  },
+  {
+    "id": "81bbd2a2-4d39-4a61-9678-2f64a367dbc2",
+    "wordId": "sary",
+    "frames": 31,
+    "validFrames": 31,
+    "poseFrames": 31
+  },
+  {
+    "id": "85616e0c-f5fe-4fd8-af04-0f31d565b731",
+    "wordId": "kitap",
+    "frames": 24,
+    "validFrames": 22,
+    "poseFrames": 24
+  },
+  {
+    "id": "82bded57-1458-484b-a15e-2135567d8970",
+    "wordId": "kishkentai",
+    "frames": 21,
+    "validFrames": 20,
+    "poseFrames": 21
+  },
+  {
+    "id": "82c9cd0c-12f9-4f60-9ec3-d3a0fb9b36bb",
+    "wordId": "tyndau",
+    "frames": 20,
+    "validFrames": 16,
+    "poseFrames": 20
+  },
+  {
+    "id": "862777fb-c689-4854-ae47-9bcb8412b87f",
+    "wordId": "jaqsy",
+    "frames": 18,
+    "validFrames": 18,
+    "poseFrames": 18
+  },
+  {
+    "id": "865f047a-8367-415e-ae36-3bf0a7e2abee",
+    "wordId": "jaman",
+    "frames": 25,
+    "validFrames": 25,
+    "poseFrames": 25
+  },
+  {
+    "id": "871b5ed5-04ad-4dab-9b60-82892b0f6179",
+    "wordId": "kitap",
+    "frames": 25,
+    "validFrames": 25,
+    "poseFrames": 25
+  },
+  {
+    "id": "844ba88c-19a7-4a8c-937d-04266bca84fd",
+    "wordId": "bilu",
+    "frames": 19,
+    "validFrames": 14,
+    "poseFrames": 19
+  },
+  {
+    "id": "8835f8cc-9dc7-4f7b-b495-8b0102163c8d",
+    "wordId": "dos",
+    "frames": 21,
+    "validFrames": 21,
+    "poseFrames": 21
+  },
+  {
+    "id": "8862bbaa-4c38-4c53-908a-7e8afd1b0df7",
+    "wordId": "ake",
+    "frames": 19,
+    "validFrames": 18,
+    "poseFrames": 19
+  },
+  {
+    "id": "88cc3b6f-8839-40b0-bc82-d59b47533c9e",
+    "wordId": "ake",
+    "frames": 30,
+    "validFrames": 30,
+    "poseFrames": 30
+  },
+  {
+    "id": "8930aec0-11c2-4ec1-91da-67b792d305da",
+    "wordId": "uaqyt",
+    "frames": 22,
+    "validFrames": 18,
+    "poseFrames": 22
+  },
+  {
+    "id": "894d6954-aa14-4b98-b720-0416890384ba",
+    "wordId": "jaqsy",
+    "frames": 20,
+    "validFrames": 20,
+    "poseFrames": 20
+  },
+  {
+    "id": "896d253f-9191-43f3-9b63-58ee8658cc3f",
+    "wordId": "mysyq",
+    "frames": 25,
+    "validFrames": 25,
+    "poseFrames": 25
+  },
+  {
+    "id": "85929f21-8893-453e-be6a-fa148e613892",
+    "wordId": "erkek",
+    "frames": 19,
+    "validFrames": 19,
+    "poseFrames": 19
+  },
+  {
+    "id": "85675511-eda7-414d-a230-0304655b212c",
+    "wordId": "qarau",
+    "frames": 21,
+    "validFrames": 20,
+    "poseFrames": 21
+  },
+  {
+    "id": "8825e42c-865c-48b6-a5f3-9353516b325b",
+    "wordId": "oqu",
+    "frames": 21,
+    "validFrames": 20,
+    "poseFrames": 21
+  },
+  {
+    "id": "89ac206b-e86c-4a48-9127-a4e2ddf57092",
+    "wordId": "jazu",
+    "frames": 18,
+    "validFrames": 18,
+    "poseFrames": 18
+  },
+  {
+    "id": "8aca4734-9f91-4367-82c9-979110a8b908",
+    "wordId": "qala",
+    "frames": 24,
+    "validFrames": 22,
+    "poseFrames": 24
+  },
+  {
+    "id": "8af1c8df-75f4-490e-b406-16eb6928a161",
+    "wordId": "otbasy",
+    "frames": 21,
+    "validFrames": 21,
+    "poseFrames": 21
+  },
+  {
+    "id": "8aff1775-eb4c-4772-9900-5e217aee6f83",
+    "wordId": "kesh",
+    "frames": 27,
+    "validFrames": 23,
+    "poseFrames": 27
+  },
+  {
+    "id": "8b5fb5a7-c980-4f00-b48a-24f38ab8fdf1",
+    "wordId": "su",
+    "frames": 24,
+    "validFrames": 23,
+    "poseFrames": 24
+  },
+  {
+    "id": "8b68e645-74fc-4110-94d6-e50f09841384",
+    "wordId": "salem",
+    "frames": 25,
+    "validFrames": 25,
+    "poseFrames": 25
+  },
+  {
+    "id": "8be18724-8b23-4fef-bdc7-cf5997a6bf61",
+    "wordId": "ana",
+    "frames": 20,
+    "validFrames": 17,
+    "poseFrames": 20
+  },
+  {
+    "id": "8a2861c4-f7ea-44a2-8ab3-b0880920f6e3",
+    "wordId": "qyzyl",
+    "frames": 20,
+    "validFrames": 16,
+    "poseFrames": 20
+  },
+  {
+    "id": "8a9d4c36-fd79-4f29-818b-5de29a8e28fa",
+    "wordId": "kok",
+    "frames": 22,
+    "validFrames": 21,
+    "poseFrames": 22
+  },
+  {
+    "id": "8d5d595b-fc44-4190-80dd-8accc87fc067",
+    "wordId": "nan",
+    "frames": 21,
+    "validFrames": 21,
+    "poseFrames": 21
+  },
+  {
+    "id": "8d6c587c-0f48-4701-82b5-4e089d62086e",
+    "wordId": "otbasy",
+    "frames": 20,
+    "validFrames": 4,
+    "poseFrames": 20
+  },
+  {
+    "id": "8ab31ae5-ef65-41e7-aae0-743b6df9b915",
+    "wordId": "qara",
+    "frames": 27,
+    "validFrames": 25,
+    "poseFrames": 27
+  },
+  {
+    "id": "8dbffcb6-b5a1-4c6e-83c8-7012f7d6f5b1",
+    "wordId": "qarau",
+    "frames": 18,
+    "validFrames": 13,
+    "poseFrames": 18
+  },
+  {
+    "id": "8ded2e5d-bd06-4cdb-9362-9775c964a7fb",
+    "wordId": "tamaq",
+    "frames": 19,
+    "validFrames": 18,
+    "poseFrames": 19
+  },
+  {
+    "id": "8e315ff3-cb92-4f57-a6f0-0eda2c05f0da",
+    "wordId": "tun",
+    "frames": 26,
+    "validFrames": 15,
+    "poseFrames": 26
+  },
+  {
+    "id": "8e7c6767-50eb-469d-b99d-8f872decc9d8",
+    "wordId": "balyq",
+    "frames": 23,
+    "validFrames": 19,
+    "poseFrames": 23
+  },
+  {
+    "id": "8eadd08c-3981-49ad-b457-cd96a88c41cc",
+    "wordId": "nan",
+    "frames": 21,
+    "validFrames": 19,
+    "poseFrames": 21
+  },
+  {
+    "id": "8bf683f2-0e6a-4095-9aef-7be657aea4a5",
+    "wordId": "aiel",
+    "frames": 25,
+    "validFrames": 23,
+    "poseFrames": 25
+  },
+  {
+    "id": "8c2f3535-ec03-406d-bb57-21661ec90ba1",
+    "wordId": "qarau",
+    "frames": 20,
+    "validFrames": 20,
+    "poseFrames": 20
+  },
+  {
+    "id": "8f8056fe-ceb5-4324-a5ca-6d8e95184692",
+    "wordId": "ia",
+    "frames": 20,
+    "validFrames": 13,
+    "poseFrames": 20
+  },
+  {
+    "id": "8f8a734b-5969-40a9-8937-6dc63a428b3f",
+    "wordId": "bugin",
+    "frames": 21,
+    "validFrames": 4,
+    "poseFrames": 21
+  },
+  {
+    "id": "8fa7b059-7ded-41dd-9bc1-de26fc42b8c7",
+    "wordId": "mysyq",
+    "frames": 17,
+    "validFrames": 15,
+    "poseFrames": 17
+  },
+  {
+    "id": "8dd15ccb-be4d-4fb1-93ed-97eca0640f7b",
+    "wordId": "ishu",
+    "frames": 10,
+    "validFrames": 10,
+    "poseFrames": 10
+  },
+  {
+    "id": "903a1394-3bb1-48a6-b017-4322ae05b08c",
+    "wordId": "mektep",
+    "frames": 26,
+    "validFrames": 25,
+    "poseFrames": 26
+  },
+  {
+    "id": "90a014f7-b346-4054-b428-f30855911fb6",
+    "wordId": "kesh",
+    "frames": 25,
+    "validFrames": 22,
+    "poseFrames": 25
+  },
+  {
+    "id": "90db4617-5a96-41d4-9a56-39048956e8f2",
+    "wordId": "su",
+    "frames": 22,
+    "validFrames": 22,
+    "poseFrames": 22
+  },
+  {
+    "id": "8fc5e662-6119-4bbf-8664-b1124a401a7c",
+    "wordId": "ishu",
+    "frames": 19,
+    "validFrames": 15,
+    "poseFrames": 19
+  },
+  {
+    "id": "8f69d662-0536-4f2d-a6af-0c8a839138d0",
+    "wordId": "jyl",
+    "frames": 21,
+    "validFrames": 21,
+    "poseFrames": 21
+  },
+  {
+    "id": "91236ed2-0aee-4e79-86f4-c8410060882f",
+    "wordId": "ake",
+    "frames": 20,
+    "validFrames": 20,
+    "poseFrames": 20
+  },
+  {
+    "id": "9159531a-f689-4aa5-9931-b514044161f7",
+    "wordId": "aqsha",
+    "frames": 23,
+    "validFrames": 23,
+    "poseFrames": 23
+  },
+  {
+    "id": "915b9f9b-d1a1-4b40-aa46-f32d0051df72",
+    "wordId": "mektep",
+    "frames": 25,
+    "validFrames": 24,
+    "poseFrames": 25
+  },
+  {
+    "id": "91fd307e-1ffb-4532-9776-0b997f703f62",
+    "wordId": "mektep",
+    "frames": 16,
+    "validFrames": 13,
+    "poseFrames": 16
+  },
+  {
+    "id": "8f08d701-e366-40ce-978c-6513257ee118",
+    "wordId": "sary",
+    "frames": 28,
+    "validFrames": 26,
+    "poseFrames": 28
+  },
+  {
+    "id": "910164a5-e624-4934-b2c8-0515aac9f8d5",
+    "wordId": "qara",
+    "frames": 31,
+    "validFrames": 31,
+    "poseFrames": 31
+  },
+  {
+    "id": "9303f6a8-d7aa-4a6e-a6b1-05123c3eb3f8",
+    "wordId": "kesh",
+    "frames": 24,
+    "validFrames": 24,
+    "poseFrames": 24
+  },
+  {
+    "id": "911a05a0-96c0-4999-a3c2-80bbcfd90c47",
+    "wordId": "qyzyl",
+    "frames": 22,
+    "validFrames": 19,
+    "poseFrames": 22
+  },
+  {
+    "id": "9357b146-2273-48a9-8f27-65e8bd13de76",
+    "wordId": "bugin",
+    "frames": 20,
+    "validFrames": 19,
+    "poseFrames": 20
+  },
+  {
+    "id": "93b2c645-ca40-4d8a-888f-f2e05edc7637",
+    "wordId": "kitap",
+    "frames": 19,
+    "validFrames": 19,
+    "poseFrames": 19
+  },
+  {
+    "id": "9425c5e1-a4a8-4a5a-8dff-3c478623ef82",
+    "wordId": "kesh",
+    "frames": 25,
+    "validFrames": 25,
+    "poseFrames": 25
+  },
+  {
+    "id": "9278cc27-923b-4ca8-ba07-9837bd249d0f",
+    "wordId": "sary",
+    "frames": 28,
+    "validFrames": 27,
+    "poseFrames": 28
+  },
+  {
+    "id": "943906fb-3088-440e-bb8b-d64ecb369be1",
+    "wordId": "kun",
+    "frames": 22,
+    "validFrames": 16,
+    "poseFrames": 22
+  },
+  {
+    "id": "92a3c9d7-21f9-4894-b971-7866bc6c954f",
+    "wordId": "ai",
+    "frames": 22,
+    "validFrames": 22,
+    "poseFrames": 22
+  },
+  {
+    "id": "94488ea1-662d-4d6c-b003-d54cb7b3d6fb",
+    "wordId": "kesh",
+    "frames": 22,
+    "validFrames": 21,
+    "poseFrames": 22
+  },
+  {
+    "id": "9450bdb3-26d2-4e53-8a3b-ba0abb656495",
+    "wordId": "bala",
+    "frames": 29,
+    "validFrames": 27,
+    "poseFrames": 29
+  },
+  {
+    "id": "94a88c21-81dc-4527-be1e-6e25aa6e4207",
+    "wordId": "mektep",
+    "frames": 18,
+    "validFrames": 18,
+    "poseFrames": 18
+  },
+  {
+    "id": "94c3d9fc-e3b8-4f2e-897a-9868bec92f0d",
+    "wordId": "tamaq",
+    "frames": 16,
+    "validFrames": 15,
+    "poseFrames": 16
+  },
+  {
+    "id": "94daf848-63f9-4de9-ba13-eeaec252fb54",
+    "wordId": "kesh",
+    "frames": 25,
+    "validFrames": 25,
+    "poseFrames": 25
+  },
+  {
+    "id": "932c7335-a21d-4147-bfa7-92915dcf658d",
+    "wordId": "qyzyl",
+    "frames": 18,
+    "validFrames": 16,
+    "poseFrames": 18
+  },
+  {
+    "id": "95af77ce-b24a-4fa8-864e-4bb4f1bf71f4",
+    "wordId": "tan",
+    "frames": 25,
+    "validFrames": 23,
+    "poseFrames": 25
+  },
+  {
+    "id": "95be44ee-60d7-47b8-b923-9b04a344ad8e",
+    "wordId": "jaman",
+    "frames": 22,
+    "validFrames": 22,
+    "poseFrames": 22
+  },
+  {
+    "id": "95c1204f-de15-40eb-a5ec-6d1e17f738a3",
+    "wordId": "kun",
+    "frames": 23,
+    "validFrames": 18,
+    "poseFrames": 23
+  },
+  {
+    "id": "9437dab6-b9e0-4f14-ace9-37e12f662316",
+    "wordId": "aiel",
+    "frames": 17,
+    "validFrames": 17,
+    "poseFrames": 17
+  },
+  {
+    "id": "953ea54c-7905-4727-a5b6-3269d406f5f1",
+    "wordId": "kok",
+    "frames": 22,
+    "validFrames": 21,
+    "poseFrames": 22
+  },
+  {
+    "id": "9664a6ff-da04-42d4-a2a3-b55a81abac80",
+    "wordId": "qarau",
+    "frames": 19,
+    "validFrames": 14,
+    "poseFrames": 19
+  },
+  {
+    "id": "94d95778-dfdc-49fe-bbe9-38e55a196d98",
+    "wordId": "aiel",
+    "frames": 29,
+    "validFrames": 28,
+    "poseFrames": 29
+  },
+  {
+    "id": "97d3b112-eaba-47c4-be78-6b623df03ec7",
+    "wordId": "qala",
+    "frames": 21,
+    "validFrames": 21,
+    "poseFrames": 21
+  },
+  {
+    "id": "974bb8ba-db24-4f7e-96c1-6f2c992514ad",
+    "wordId": "bilu",
+    "frames": 25,
+    "validFrames": 25,
+    "poseFrames": 25
+  },
+  {
+    "id": "99120f81-fdd5-40ca-a5c0-31be70b855bb",
+    "wordId": "qus",
+    "frames": 32,
+    "validFrames": 29,
+    "poseFrames": 32
+  },
+  {
+    "id": "9761c995-1a6e-4928-b1b3-eb1afa15ee44",
+    "wordId": "qara",
+    "frames": 22,
+    "validFrames": 22,
+    "poseFrames": 22
+  },
+  {
+    "id": "99afdafa-c186-48e2-b2cc-f33d2e5cd8da",
+    "wordId": "it",
+    "frames": 24,
+    "validFrames": 24,
+    "poseFrames": 24
+  },
+  {
+    "id": "99bafe08-3c4f-49e1-a173-090fa098c097",
+    "wordId": "aqsha",
+    "frames": 15,
+    "validFrames": 12,
+    "poseFrames": 15
+  },
+  {
+    "id": "9a4247fd-da65-45a1-8622-adfe52c2f5a7",
+    "wordId": "bala",
+    "frames": 24,
+    "validFrames": 24,
+    "poseFrames": 24
+  },
+  {
+    "id": "9a7e41a8-a2de-421e-8d22-0e7616ac1715",
+    "wordId": "ui",
+    "frames": 16,
+    "validFrames": 14,
+    "poseFrames": 16
+  },
+  {
+    "id": "987f15aa-5144-477d-8429-6f98a663f0f8",
+    "wordId": "qyzyl",
+    "frames": 19,
+    "validFrames": 17,
+    "poseFrames": 19
+  },
+  {
+    "id": "9b325970-0439-4a99-b11b-1431f09c5b39",
+    "wordId": "nan",
+    "frames": 23,
+    "validFrames": 23,
+    "poseFrames": 23
+  },
+  {
+    "id": "9b372e89-331c-47e4-971f-fe067444ac6b",
+    "wordId": "su",
+    "frames": 19,
+    "validFrames": 19,
+    "poseFrames": 19
+  },
+  {
+    "id": "9b92b656-54f1-422e-bc18-aa91df839068",
+    "wordId": "nan",
+    "frames": 27,
+    "validFrames": 27,
+    "poseFrames": 27
+  },
+  {
+    "id": "9766be96-1004-4a2e-a4a7-846a2ef07b24",
+    "wordId": "jazu",
+    "frames": 25,
+    "validFrames": 20,
+    "poseFrames": 25
+  },
+  {
+    "id": "9bc7372e-1141-49a4-995d-521bf848fcdc",
+    "wordId": "tamaq",
+    "frames": 20,
+    "validFrames": 20,
+    "poseFrames": 20
+  },
+  {
+    "id": "995eff58-a9d8-419b-abf3-adecf2a6e345",
+    "wordId": "aq",
+    "frames": 20,
+    "validFrames": 20,
+    "poseFrames": 20
+  },
+  {
+    "id": "9c40828a-75a4-44e9-bfb6-074ed4f5f6a1",
+    "wordId": "qala",
+    "frames": 29,
+    "validFrames": 28,
+    "poseFrames": 29
+  },
+  {
+    "id": "9ad5f9fd-c137-465f-aa78-22a092e18d8d",
+    "wordId": "aq",
+    "frames": 20,
+    "validFrames": 19,
+    "poseFrames": 20
+  },
+  {
+    "id": "9c8de018-bc7a-436a-81f2-480e443be82f",
+    "wordId": "su",
+    "frames": 20,
+    "validFrames": 19,
+    "poseFrames": 20
+  },
+  {
+    "id": "9ca0e017-dc8d-496f-97d2-0f9082e7e521",
+    "wordId": "su",
+    "frames": 20,
+    "validFrames": 20,
+    "poseFrames": 20
+  },
+  {
+    "id": "9ca4966f-6a07-4b08-a3ea-c006c80d46a7",
+    "wordId": "kesh",
+    "frames": 29,
+    "validFrames": 29,
+    "poseFrames": 29
+  },
+  {
+    "id": "9cbc0f05-0ef9-4c0e-a149-053793686973",
+    "wordId": "tamaq",
+    "frames": 14,
+    "validFrames": 14,
+    "poseFrames": 14
+  },
+  {
+    "id": "9cd0248c-2044-4829-ae84-b77b3aa7e29b",
+    "wordId": "uaqyt",
+    "frames": 22,
+    "validFrames": 21,
+    "poseFrames": 22
+  },
+  {
+    "id": "9cd143f8-ab4a-423a-b063-004646a22952",
+    "wordId": "erten",
+    "frames": 20,
+    "validFrames": 18,
+    "poseFrames": 20
+  },
+  {
+    "id": "9c064442-c7ea-434d-bec3-4c3c78650dda",
+    "wordId": "qyzyl",
+    "frames": 21,
+    "validFrames": 20,
+    "poseFrames": 21
+  },
+  {
+    "id": "9ba39e82-e6f0-4794-b5ed-f7eee9df6c47",
+    "wordId": "sary",
+    "frames": 32,
+    "validFrames": 32,
+    "poseFrames": 32
+  },
+  {
+    "id": "9d305e6c-3fea-4aa4-9c7d-5ea24e44ac47",
+    "wordId": "uaqyt",
+    "frames": 28,
+    "validFrames": 28,
+    "poseFrames": 28
+  },
+  {
+    "id": "9c7faf34-1c78-4852-a49f-d5823d8efd54",
+    "wordId": "aq",
+    "frames": 26,
+    "validFrames": 7,
+    "poseFrames": 26
+  },
+  {
+    "id": "9dbe0166-4be2-4a93-b468-58b672531731",
+    "wordId": "qus",
+    "frames": 28,
+    "validFrames": 27,
+    "poseFrames": 28
+  },
+  {
+    "id": "9d222b9f-6fd2-4807-bb2d-97cb22d3421b",
+    "wordId": "ulken",
+    "frames": 19,
+    "validFrames": 19,
+    "poseFrames": 19
+  },
+  {
+    "id": "9df369d6-a2e1-4039-9365-dc5625339ea6",
+    "wordId": "tamaq",
+    "frames": 21,
+    "validFrames": 21,
+    "poseFrames": 21
+  },
+  {
+    "id": "9df88618-6cb3-41c5-ad94-86310dd1090b",
+    "wordId": "ana",
+    "frames": 19,
+    "validFrames": 19,
+    "poseFrames": 19
+  },
+  {
+    "id": "9d2858bf-e6af-4cf8-b069-665a47a1ac06",
+    "wordId": "qara",
+    "frames": 22,
+    "validFrames": 22,
+    "poseFrames": 22
+  },
+  {
+    "id": "9e8e1cfc-2f11-4658-9482-2daef12bf87d",
+    "wordId": "ana",
+    "frames": 25,
+    "validFrames": 24,
+    "poseFrames": 25
+  },
+  {
+    "id": "9ea5d4b7-f8b6-4b61-b211-6890ac8f8619",
+    "wordId": "jaqsy",
+    "frames": 17,
+    "validFrames": 15,
+    "poseFrames": 17
+  },
+  {
+    "id": "9d9fe309-e046-4885-9bd1-a43438f2481d",
+    "wordId": "apta",
+    "frames": 18,
+    "validFrames": 13,
+    "poseFrames": 18
+  },
+  {
+    "id": "9ecb7848-47be-41f9-93b2-1eada790fbee",
+    "wordId": "ui",
+    "frames": 21,
+    "validFrames": 18,
+    "poseFrames": 21
+  },
+  {
+    "id": "9ee25d0d-a522-4099-bc42-b1eaeef688d7",
+    "wordId": "tan",
+    "frames": 26,
+    "validFrames": 25,
+    "poseFrames": 26
+  },
+  {
+    "id": "9dbe386f-e300-4aa8-b9c0-0cde4f569097",
+    "wordId": "ishu",
+    "frames": 17,
+    "validFrames": 16,
+    "poseFrames": 17
+  },
+  {
+    "id": "9f25300d-aa50-4185-934c-deda7fea7bbd",
+    "wordId": "keshe",
+    "frames": 21,
+    "validFrames": 21,
+    "poseFrames": 21
+  },
+  {
+    "id": "9e471848-328f-43a4-85a9-685c269b51de",
+    "wordId": "qyzyl",
+    "frames": 18,
+    "validFrames": 0,
+    "poseFrames": 18
+  },
+  {
+    "id": "9ebae693-c419-4ea1-a4f0-c54cd7e971d1",
+    "wordId": "ishu",
+    "frames": 22,
+    "validFrames": 20,
+    "poseFrames": 22
+  },
+  {
+    "id": "9ef2f681-908d-4ed7-8968-ee2687866c22",
+    "wordId": "aq",
+    "frames": 24,
+    "validFrames": 24,
+    "poseFrames": 24
+  },
+  {
+    "id": "9fa1470b-5d6e-4f83-bc0c-3c94e6b484b2",
+    "wordId": "it",
+    "frames": 25,
+    "validFrames": 25,
+    "poseFrames": 25
+  },
+  {
+    "id": "9f356634-ed63-4ca5-a3b9-e2b4bee76e41",
+    "wordId": "qyzyl",
+    "frames": 14,
+    "validFrames": 12,
+    "poseFrames": 14
+  },
+  {
+    "id": "9f30f226-2cb8-4f6a-9f0f-3d9b2805ab65",
+    "wordId": "erkek",
+    "frames": 27,
+    "validFrames": 24,
+    "poseFrames": 27
+  },
+  {
+    "id": "a166e46c-5f7a-4653-bbbc-ac149e90b885",
+    "wordId": "uaqyt",
+    "frames": 26,
+    "validFrames": 26,
+    "poseFrames": 26
+  },
+  {
+    "id": "a16a5d94-f617-43d0-84f6-b5578f666730",
+    "wordId": "dos",
+    "frames": 16,
+    "validFrames": 12,
+    "poseFrames": 16
+  },
+  {
+    "id": "a17f7a63-c7c5-4469-86c7-06f32d6e6362",
+    "wordId": "tamaq",
+    "frames": 32,
+    "validFrames": 32,
+    "poseFrames": 32
+  },
+  {
+    "id": "9f517238-661b-4d87-a35d-31d7da2a3aad",
+    "wordId": "qarau",
+    "frames": 11,
+    "validFrames": 11,
+    "poseFrames": 11
+  },
+  {
+    "id": "a1a428c3-5ddd-4baa-9de5-723eb9fe3f00",
+    "wordId": "ana",
+    "frames": 24,
+    "validFrames": 24,
+    "poseFrames": 24
+  },
+  {
+    "id": "9ffaf893-2894-47c0-bd82-62debf44105e",
+    "wordId": "aq",
+    "frames": 22,
+    "validFrames": 22,
+    "poseFrames": 22
+  },
+  {
+    "id": "a0de17ae-7c1b-44dc-bf01-60e4358ea8b0",
+    "wordId": "apta",
+    "frames": 25,
+    "validFrames": 16,
+    "poseFrames": 25
+  },
+  {
+    "id": "a264cea8-376d-43b4-87ae-e8fc6cfd6771",
+    "wordId": "kesh",
+    "frames": 35,
+    "validFrames": 32,
+    "poseFrames": 35
+  },
+  {
+    "id": "a28317c6-d950-44ee-9c72-952f3535445a",
+    "wordId": "salem",
+    "frames": 24,
+    "validFrames": 24,
+    "poseFrames": 24
+  },
+  {
+    "id": "a1a1cf10-234a-4bf4-a033-74638ccc546f",
+    "wordId": "erkek",
+    "frames": 15,
+    "validFrames": 15,
+    "poseFrames": 15
+  },
+  {
+    "id": "a1cc7379-ba77-40bb-8b93-2dfa8f676a26",
+    "wordId": "uiyqtau",
+    "frames": 31,
+    "validFrames": 31,
+    "poseFrames": 31
+  },
+  {
+    "id": "a3bb8174-f15c-4e8a-9c1a-85273a97a828",
+    "wordId": "erkek",
+    "frames": 16,
+    "validFrames": 15,
+    "poseFrames": 16
+  },
+  {
+    "id": "a3b5adcd-7edd-40d5-9e38-fb200c9e1e95",
+    "wordId": "apta",
+    "frames": 23,
+    "validFrames": 17,
+    "poseFrames": 23
+  },
+  {
+    "id": "a1dc2292-1128-4899-9a73-1cc37652f8bc",
+    "wordId": "jasyl",
+    "frames": 28,
+    "validFrames": 28,
+    "poseFrames": 28
+  },
+  {
+    "id": "a5ea0995-d600-464e-acd6-a328ef4d8ecc",
+    "wordId": "tun",
+    "frames": 21,
+    "validFrames": 11,
+    "poseFrames": 21
+  },
+  {
+    "id": "a407362a-1b6c-449f-b7a0-9d26bca5187b",
+    "wordId": "kishkentai",
+    "frames": 18,
+    "validFrames": 18,
+    "poseFrames": 18
+  },
+  {
+    "id": "a630ed3c-554c-4d0b-be12-df8cc04c1f6c",
+    "wordId": "tamaq",
+    "frames": 20,
+    "validFrames": 18,
+    "poseFrames": 20
+  },
+  {
+    "id": "a63d940c-a269-4316-8284-343332f72a90",
+    "wordId": "tamaq",
+    "frames": 20,
+    "validFrames": 15,
+    "poseFrames": 20
+  },
+  {
+    "id": "a62b0402-cf81-4e7f-9545-b6c0506f9fea",
+    "wordId": "jazu",
+    "frames": 17,
+    "validFrames": 15,
+    "poseFrames": 17
+  },
+  {
+    "id": "a686c1e9-9173-4b2f-8785-563f1aebbad1",
+    "wordId": "kitap",
+    "frames": 20,
+    "validFrames": 19,
+    "poseFrames": 20
+  },
+  {
+    "id": "a69e018c-4b6d-42fd-aba6-c538a5b2bc32",
+    "wordId": "salem",
+    "frames": 26,
+    "validFrames": 26,
+    "poseFrames": 26
+  },
+  {
+    "id": "a71d5742-c3c1-480a-b2ca-c38a4ce8981a",
+    "wordId": "qus",
+    "frames": 38,
+    "validFrames": 38,
+    "poseFrames": 38
+  },
+  {
+    "id": "a4784e08-f058-43ff-9fd7-9810361baff6",
+    "wordId": "oqu",
+    "frames": 24,
+    "validFrames": 22,
+    "poseFrames": 24
+  },
+  {
+    "id": "a858a2c9-3cca-4671-961c-c7888fa59482",
+    "wordId": "tan",
+    "frames": 19,
+    "validFrames": 18,
+    "poseFrames": 19
+  },
+  {
+    "id": "a8989f04-a615-4a0d-bb49-583d3c0e94ab",
+    "wordId": "kitap",
+    "frames": 26,
+    "validFrames": 25,
+    "poseFrames": 26
+  },
+  {
+    "id": "a8c27354-040e-4b98-8079-b5afb3186947",
+    "wordId": "qus",
+    "frames": 47,
+    "validFrames": 45,
+    "poseFrames": 47
+  },
+  {
+    "id": "a67e713f-f656-4647-b291-161c531a1d54",
+    "wordId": "ishu",
+    "frames": 21,
+    "validFrames": 10,
+    "poseFrames": 21
+  },
+  {
+    "id": "a4adf8d4-218a-4665-aead-7ea3e32e4d7a",
+    "wordId": "uiyqtau",
+    "frames": 38,
+    "validFrames": 37,
+    "poseFrames": 38
+  },
+  {
+    "id": "a818316b-ed3c-47cd-9cfc-e51df0aa397e",
+    "wordId": "erkek",
+    "frames": 20,
+    "validFrames": 14,
+    "poseFrames": 20
+  },
+  {
+    "id": "aa55efbc-84d3-45d2-ade7-1c62827e7b80",
+    "wordId": "qus",
+    "frames": 39,
+    "validFrames": 36,
+    "poseFrames": 39
+  },
+  {
+    "id": "a9a2a29c-4a3a-4bef-a74b-33104373e8bc",
+    "wordId": "jyl",
+    "frames": 15,
+    "validFrames": 11,
+    "poseFrames": 15
+  },
+  {
+    "id": "a8db1f53-1f87-4c70-b5e3-c2666a22e032",
+    "wordId": "aiel",
+    "frames": 26,
+    "validFrames": 26,
+    "poseFrames": 26
+  },
+  {
+    "id": "aafd514e-3543-47bc-a398-18ca3b659a32",
+    "wordId": "balyq",
+    "frames": 22,
+    "validFrames": 22,
+    "poseFrames": 22
+  },
+  {
+    "id": "a9d6d49f-22f8-480b-809d-301fa0040453",
+    "wordId": "tyndau",
+    "frames": 16,
+    "validFrames": 15,
+    "poseFrames": 16
+  },
+  {
+    "id": "aaa69dd0-cdf9-4e80-9b51-845c6efbba1c",
+    "wordId": "oqu",
+    "frames": 24,
+    "validFrames": 21,
+    "poseFrames": 24
+  },
+  {
+    "id": "abd6c0dc-7b4d-4f42-8485-407acb7f0e56",
+    "wordId": "jaqsy",
+    "frames": 22,
+    "validFrames": 22,
+    "poseFrames": 22
+  },
+  {
+    "id": "ab80820e-1b2f-46bf-becb-802ebcab4e6d",
+    "wordId": "uiyqtau",
+    "frames": 19,
+    "validFrames": 19,
+    "poseFrames": 19
+  },
+  {
+    "id": "aaef908b-6dd7-49e5-b96c-428eede27ff2",
+    "wordId": "qara",
+    "frames": 25,
+    "validFrames": 25,
+    "poseFrames": 25
+  },
+  {
+    "id": "ac4084ac-3008-4755-8914-694d13e7eee0",
+    "wordId": "tamaq",
+    "frames": 25,
+    "validFrames": 21,
+    "poseFrames": 25
+  },
+  {
+    "id": "ac457d37-0f8a-4fa7-b889-1ae75fed9fba",
+    "wordId": "aqsha",
+    "frames": 22,
+    "validFrames": 22,
+    "poseFrames": 22
+  },
+  {
+    "id": "ac4f8900-9adb-415e-8074-50da75204eba",
+    "wordId": "otbasy",
+    "frames": 21,
+    "validFrames": 21,
+    "poseFrames": 21
+  },
+  {
+    "id": "acc0bdd3-f526-4903-a25c-630f2878cc88",
+    "wordId": "uaqyt",
+    "frames": 24,
+    "validFrames": 24,
+    "poseFrames": 24
+  },
+  {
+    "id": "acc2810b-e8e1-419b-8680-00b1fed9bd61",
+    "wordId": "tamaq",
+    "frames": 23,
+    "validFrames": 23,
+    "poseFrames": 23
+  },
+  {
+    "id": "acc731d1-d0b4-49b4-b8fd-c8173a71d17d",
+    "wordId": "kitap",
+    "frames": 22,
+    "validFrames": 20,
+    "poseFrames": 22
+  },
+  {
+    "id": "acf8eedc-0705-4b6a-994f-69e759f0e6b3",
+    "wordId": "tun",
+    "frames": 23,
+    "validFrames": 20,
+    "poseFrames": 23
+  },
+  {
+    "id": "ab88cf1c-3941-4fdb-bce2-b55a5c08ba55",
+    "wordId": "kok",
+    "frames": 22,
+    "validFrames": 21,
+    "poseFrames": 22
+  },
+  {
+    "id": "abe8a6f2-9574-4d4e-8177-093fc98d1d3d",
+    "wordId": "aiel",
+    "frames": 18,
+    "validFrames": 17,
+    "poseFrames": 18
+  },
+  {
+    "id": "ad5f421c-701a-4d91-977d-e385e2240b2c",
+    "wordId": "tyndau",
+    "frames": 22,
+    "validFrames": 22,
+    "poseFrames": 22
+  },
+  {
+    "id": "ac0b363c-331e-4284-bd2d-77914878e562",
+    "wordId": "aiel",
+    "frames": 25,
+    "validFrames": 21,
+    "poseFrames": 25
+  },
+  {
+    "id": "ad61dfad-35f4-4ec5-a61e-30cd3a17dbe1",
+    "wordId": "qyzyl",
+    "frames": 17,
+    "validFrames": 16,
+    "poseFrames": 17
+  },
+  {
+    "id": "adae59ad-ebc4-4825-b801-1258f5b8f361",
+    "wordId": "tamaq",
+    "frames": 28,
+    "validFrames": 28,
+    "poseFrames": 28
+  },
+  {
+    "id": "ad77b14a-0a10-4886-8e2f-d56ea7ee9d95",
+    "wordId": "uiyqtau",
+    "frames": 18,
+    "validFrames": 18,
+    "poseFrames": 18
+  },
+  {
+    "id": "ae1ef9f7-7451-412c-a898-093e5ba566c8",
+    "wordId": "keshe",
+    "frames": 19,
+    "validFrames": 19,
+    "poseFrames": 19
+  },
+  {
+    "id": "ad6a1b8e-13af-4338-a6b7-a0d8c5fb3f76",
+    "wordId": "jasyl",
+    "frames": 32,
+    "validFrames": 25,
+    "poseFrames": 32
+  },
+  {
+    "id": "ad9f524b-2952-4830-8450-7fb912d38fe7",
+    "wordId": "kok",
+    "frames": 21,
+    "validFrames": 21,
+    "poseFrames": 21
+  },
+  {
+    "id": "adcc7196-06b9-488e-90ef-b2f1ebe497ce",
+    "wordId": "jyl",
+    "frames": 23,
+    "validFrames": 23,
+    "poseFrames": 23
+  },
+  {
+    "id": "af425a04-fec2-40cc-a58a-23a6279310ae",
+    "wordId": "qus",
+    "frames": 18,
+    "validFrames": 18,
+    "poseFrames": 18
+  },
+  {
+    "id": "af469743-dce2-4e3a-88b7-cd6a3d06d089",
+    "wordId": "it",
+    "frames": 25,
+    "validFrames": 25,
+    "poseFrames": 25
+  },
+  {
+    "id": "afe80ef4-7538-47cc-8b00-99229cf82ebe",
+    "wordId": "jaman",
+    "frames": 24,
+    "validFrames": 21,
+    "poseFrames": 24
+  },
+  {
+    "id": "b01911f8-b91e-4bea-9b85-03d718e50cf8",
+    "wordId": "dos",
+    "frames": 24,
+    "validFrames": 24,
+    "poseFrames": 24
+  },
+  {
+    "id": "b047f8c8-9b3e-4873-851e-2738517ef94e",
+    "wordId": "ui",
+    "frames": 14,
+    "validFrames": 12,
+    "poseFrames": 14
+  },
+  {
+    "id": "ae52263d-10c3-4731-9916-2d9a9dfa91bf",
+    "wordId": "qara",
+    "frames": 21,
+    "validFrames": 21,
+    "poseFrames": 21
+  },
+  {
+    "id": "aed79bac-06c0-4722-a59d-fa01c3983e56",
+    "wordId": "ishu",
+    "frames": 20,
+    "validFrames": 17,
+    "poseFrames": 20
+  },
+  {
+    "id": "b2ba9e71-af75-4517-9dfb-263e8dc205b1",
+    "wordId": "mektep",
+    "frames": 16,
+    "validFrames": 15,
+    "poseFrames": 16
+  },
+  {
+    "id": "b2c4507f-b652-4f76-a115-0d92c84917ee",
+    "wordId": "kun",
+    "frames": 25,
+    "validFrames": 25,
+    "poseFrames": 25
+  },
+  {
+    "id": "b1d1acb2-19f1-488b-af18-de602ccc4596",
+    "wordId": "ai",
+    "frames": 26,
+    "validFrames": 24,
+    "poseFrames": 26
+  },
+  {
+    "id": "ae5414a0-65bc-4c4f-b796-b5482492c8b6",
+    "wordId": "sary",
+    "frames": 36,
+    "validFrames": 34,
+    "poseFrames": 36
+  },
+  {
+    "id": "b361b61d-0453-4e6b-b9ba-ddc78df5959b",
+    "wordId": "su",
+    "frames": 25,
+    "validFrames": 25,
+    "poseFrames": 25
+  },
+  {
+    "id": "b3f968a8-7c07-4d05-bcbd-a66f869714a0",
+    "wordId": "dos",
+    "frames": 27,
+    "validFrames": 27,
+    "poseFrames": 27
+  },
+  {
+    "id": "b24f68c1-31a2-48a9-869f-24bbc3a30279",
+    "wordId": "aq",
+    "frames": 14,
+    "validFrames": 14,
+    "poseFrames": 14
+  },
+  {
+    "id": "b40f30e4-d087-440f-a1f6-4d1029fc651d",
+    "wordId": "salem",
+    "frames": 33,
+    "validFrames": 30,
+    "poseFrames": 33
+  },
+  {
+    "id": "b43069a6-a4c3-4ff3-bf2b-5e971b92087f",
+    "wordId": "keshe",
+    "frames": 22,
+    "validFrames": 21,
+    "poseFrames": 22
+  },
+  {
+    "id": "b317f860-4b7c-478b-b689-95a1c8faa831",
+    "wordId": "bilu",
+    "frames": 19,
+    "validFrames": 14,
+    "poseFrames": 19
+  },
+  {
+    "id": "b43330bb-3f58-4c0e-a238-3576efcafb13",
+    "wordId": "kok",
+    "frames": 20,
+    "validFrames": 18,
+    "poseFrames": 20
+  },
+  {
+    "id": "b321281f-6cfc-4132-a1c5-31365224ebd6",
+    "wordId": "ulken",
+    "frames": 28,
+    "validFrames": 28,
+    "poseFrames": 28
+  },
+  {
+    "id": "b4fa65c7-3630-4b07-91c5-f54c6588bec3",
+    "wordId": "jaman",
+    "frames": 17,
+    "validFrames": 17,
+    "poseFrames": 17
+  },
+  {
+    "id": "b540f768-ce78-452f-ad7c-4c2a9511723e",
+    "wordId": "mektep",
+    "frames": 26,
+    "validFrames": 19,
+    "poseFrames": 26
+  },
+  {
+    "id": "b54a3f7a-68a1-49bc-bd38-c01664c4dff6",
+    "wordId": "tun",
+    "frames": 24,
+    "validFrames": 19,
+    "poseFrames": 24
+  },
+  {
+    "id": "b4006835-2a18-43a0-9e65-9e9ddd258329",
+    "wordId": "apta",
+    "frames": 28,
+    "validFrames": 25,
+    "poseFrames": 28
+  },
+  {
+    "id": "b45703d1-bc4e-4ec7-87cb-ecf59c7d49b5",
+    "wordId": "uiyqtau",
+    "frames": 18,
+    "validFrames": 17,
+    "poseFrames": 18
+  },
+  {
+    "id": "b4cc4457-e97a-4c66-a0f3-b5b606cd1259",
+    "wordId": "apta",
+    "frames": 15,
+    "validFrames": 15,
+    "poseFrames": 15
+  },
+  {
+    "id": "b576e49a-5b08-416a-87af-1156346627c5",
+    "wordId": "ulken",
+    "frames": 25,
+    "validFrames": 24,
+    "poseFrames": 25
+  },
+  {
+    "id": "b58b7f9b-fde5-45d5-b41b-b3ebeef68a41",
+    "wordId": "qarau",
+    "frames": 21,
+    "validFrames": 19,
+    "poseFrames": 21
+  },
+  {
+    "id": "b5f305c7-55b5-4f5a-85ce-058a415e7ac5",
+    "wordId": "ui",
+    "frames": 18,
+    "validFrames": 17,
+    "poseFrames": 18
+  },
+  {
+    "id": "b5a9c0df-c2a4-4ca5-ba45-ae3fece89342",
+    "wordId": "aq",
+    "frames": 21,
+    "validFrames": 20,
+    "poseFrames": 21
+  },
+  {
+    "id": "b5d19f11-5c96-48e7-b94e-6fd5f6533ac8",
+    "wordId": "qarau",
+    "frames": 18,
+    "validFrames": 15,
+    "poseFrames": 18
+  },
+  {
+    "id": "b7304f93-0f09-4dea-b418-c4541da9ca84",
+    "wordId": "kun",
+    "frames": 22,
+    "validFrames": 22,
+    "poseFrames": 22
+  },
+  {
+    "id": "b82868d6-d3ad-4303-ab01-90cb5fa49093",
+    "wordId": "kun",
+    "frames": 26,
+    "validFrames": 25,
+    "poseFrames": 26
+  },
+  {
+    "id": "b69e73d6-7ad7-482e-bd96-ab1e86bd6020",
+    "wordId": "apta",
+    "frames": 16,
+    "validFrames": 15,
+    "poseFrames": 16
+  },
+  {
+    "id": "b5eecdeb-10db-4f2b-ad4c-4668a13fead2",
+    "wordId": "tyndau",
+    "frames": 23,
+    "validFrames": 19,
+    "poseFrames": 23
+  },
+  {
+    "id": "b6e28f95-d0b3-40e8-af08-9baaaa51e7e1",
+    "wordId": "jyl",
+    "frames": 35,
+    "validFrames": 12,
+    "poseFrames": 35
+  },
+  {
+    "id": "b844a56e-d1a1-4924-a4c4-cf4fd3b3351f",
+    "wordId": "oqu",
+    "frames": 31,
+    "validFrames": 31,
+    "poseFrames": 31
+  },
+  {
+    "id": "b87f33e9-8402-4bfe-a8ce-6613bd800e31",
+    "wordId": "bilu",
+    "frames": 22,
+    "validFrames": 19,
+    "poseFrames": 22
+  },
+  {
+    "id": "b92bcdaf-3a4f-43c4-b128-0f392c2e25c8",
+    "wordId": "ake",
+    "frames": 25,
+    "validFrames": 21,
+    "poseFrames": 25
+  },
+  {
+    "id": "b93577b4-4ab9-4be5-8c02-5cb9394c88b1",
+    "wordId": "nan",
+    "frames": 26,
+    "validFrames": 26,
+    "poseFrames": 26
+  },
+  {
+    "id": "b9446562-8c70-4821-b083-6f23cfe3a6e1",
+    "wordId": "dos",
+    "frames": 24,
+    "validFrames": 22,
+    "poseFrames": 24
+  },
+  {
+    "id": "b945fb0c-04d2-43f0-b462-fa25d13bd740",
+    "wordId": "balyq",
+    "frames": 20,
+    "validFrames": 17,
+    "poseFrames": 20
+  },
+  {
+    "id": "b98ab14d-6d5e-4567-8815-9f8146aba461",
+    "wordId": "jaqsy",
+    "frames": 24,
+    "validFrames": 24,
+    "poseFrames": 24
+  },
+  {
+    "id": "b8a1cf77-ad7c-4a89-a6e2-be6d49f264ef",
+    "wordId": "qyzyl",
+    "frames": 20,
+    "validFrames": 20,
+    "poseFrames": 20
+  },
+  {
+    "id": "b9b8c099-1580-461d-a91a-9874623423b3",
+    "wordId": "nan",
+    "frames": 31,
+    "validFrames": 29,
+    "poseFrames": 31
+  },
+  {
+    "id": "bb3ab77b-2ea6-4d63-8db7-00a003e648ff",
+    "wordId": "kitap",
+    "frames": 24,
+    "validFrames": 24,
+    "poseFrames": 24
+  },
+  {
+    "id": "bb55c685-5d4c-4d90-a2e6-57070e3b28cf",
+    "wordId": "dos",
+    "frames": 16,
+    "validFrames": 15,
+    "poseFrames": 16
+  },
+  {
+    "id": "b8a631f2-50b8-40d1-949a-7448ecb01926",
+    "wordId": "qarau",
+    "frames": 21,
+    "validFrames": 17,
+    "poseFrames": 21
+  },
+  {
+    "id": "bc7549b9-b05b-49f1-b49b-28d148065ed0",
+    "wordId": "qala",
+    "frames": 34,
+    "validFrames": 34,
+    "poseFrames": 34
+  },
+  {
+    "id": "b900988d-856b-4c68-aba3-8d8bb4a05c9a",
+    "wordId": "bilu",
+    "frames": 19,
+    "validFrames": 19,
+    "poseFrames": 19
+  },
+  {
+    "id": "b9aa924b-4ff5-429f-bbf5-031a8f2b0439",
+    "wordId": "aq",
+    "frames": 19,
+    "validFrames": 17,
+    "poseFrames": 19
+  },
+  {
+    "id": "bb96138d-6de3-4963-a100-c0f2e61d68ef",
+    "wordId": "sary",
+    "frames": 28,
+    "validFrames": 28,
+    "poseFrames": 28
+  },
+  {
+    "id": "bdbdddf8-56cb-4bf2-9c28-e65a3993c18d",
+    "wordId": "ana",
+    "frames": 23,
+    "validFrames": 21,
+    "poseFrames": 23
+  },
+  {
+    "id": "bcb28a2c-b302-4555-8e12-609b476d0af6",
+    "wordId": "sary",
+    "frames": 16,
+    "validFrames": 16,
+    "poseFrames": 16
+  },
+  {
+    "id": "be32f709-3f02-447e-b446-20b4a44889b8",
+    "wordId": "otbasy",
+    "frames": 25,
+    "validFrames": 23,
+    "poseFrames": 25
+  },
+  {
+    "id": "bdd278a4-4f89-4656-a32a-22eb4e33c80f",
+    "wordId": "jyl",
+    "frames": 18,
+    "validFrames": 18,
+    "poseFrames": 18
+  },
+  {
+    "id": "be769a8e-ea23-41a0-806a-42b604b2ede6",
+    "wordId": "dos",
+    "frames": 21,
+    "validFrames": 21,
+    "poseFrames": 21
+  },
+  {
+    "id": "bdb55596-da5e-4cc2-b4ca-8b87cfff2908",
+    "wordId": "tyndau",
+    "frames": 30,
+    "validFrames": 24,
+    "poseFrames": 30
+  },
+  {
+    "id": "be40292d-c0f4-41a0-ad78-b34318a00b2c",
+    "wordId": "bilu",
+    "frames": 19,
+    "validFrames": 16,
+    "poseFrames": 19
+  },
+  {
+    "id": "bf768330-c7aa-4a4c-a38b-d76c2ba68bb3",
+    "wordId": "mektep",
+    "frames": 29,
+    "validFrames": 27,
+    "poseFrames": 29
+  },
+  {
+    "id": "bcd53fd6-0b7a-4c6e-bef2-6df9d03e4c5b",
+    "wordId": "ulken",
+    "frames": 39,
+    "validFrames": 39,
+    "poseFrames": 39
+  },
+  {
+    "id": "bf9aafac-c3b9-4e23-997b-8f0254cc0e21",
+    "wordId": "at",
+    "frames": 29,
+    "validFrames": 28,
+    "poseFrames": 29
+  },
+  {
+    "id": "bea86e49-c42f-43e9-9040-575615506967",
+    "wordId": "kok",
+    "frames": 21,
+    "validFrames": 18,
+    "poseFrames": 21
+  },
+  {
+    "id": "bf5a6c9f-9da9-48ac-bb51-7c93c962ec0d",
+    "wordId": "jasyl",
+    "frames": 27,
+    "validFrames": 26,
+    "poseFrames": 27
+  },
+  {
+    "id": "bf928f25-75c0-424e-87d2-e23b7430ac68",
+    "wordId": "aq",
+    "frames": 26,
+    "validFrames": 26,
+    "poseFrames": 26
+  },
+  {
+    "id": "bf9da864-11ed-48e1-a4e4-6a6c80a4610d",
+    "wordId": "uiyqtau",
+    "frames": 21,
+    "validFrames": 20,
+    "poseFrames": 21
+  },
+  {
+    "id": "c07d488b-e82a-44e4-888d-360cd4845931",
+    "wordId": "ake",
+    "frames": 19,
+    "validFrames": 18,
+    "poseFrames": 19
+  },
+  {
+    "id": "bfa8af2b-d0e7-4b3e-9b0b-ee2fd140475d",
+    "wordId": "apta",
+    "frames": 25,
+    "validFrames": 20,
+    "poseFrames": 25
+  },
+  {
+    "id": "c09a4339-ab15-4ede-aedb-562fdea21bfc",
+    "wordId": "bugin",
+    "frames": 26,
+    "validFrames": 24,
+    "poseFrames": 26
+  },
+  {
+    "id": "c0b98f5f-df09-483f-8b42-80cac48bc5f5",
+    "wordId": "tun",
+    "frames": 24,
+    "validFrames": 22,
+    "poseFrames": 24
+  },
+  {
+    "id": "c11c7f5a-2494-4ccf-992b-eaeba483e313",
+    "wordId": "jaqsy",
+    "frames": 27,
+    "validFrames": 24,
+    "poseFrames": 27
+  },
+  {
+    "id": "c16285cb-d4d8-436b-9df3-8d3a875c2916",
+    "wordId": "erten",
+    "frames": 29,
+    "validFrames": 27,
+    "poseFrames": 29
+  },
+  {
+    "id": "c1766b2e-f548-42c2-9fa6-718f889324ca",
+    "wordId": "tan",
+    "frames": 14,
+    "validFrames": 11,
+    "poseFrames": 14
+  },
+  {
+    "id": "c1ba0d36-a7b4-4d81-8f05-1dae8ecf9010",
+    "wordId": "salem",
+    "frames": 20,
+    "validFrames": 20,
+    "poseFrames": 20
+  },
+  {
+    "id": "c096fd36-eaac-4681-8e32-0d8033be5d8d",
+    "wordId": "qarau",
+    "frames": 17,
+    "validFrames": 16,
+    "poseFrames": 17
+  },
+  {
+    "id": "c21a2fb1-f9cf-478c-be12-c7cbe39e2ea4",
+    "wordId": "bugin",
+    "frames": 23,
+    "validFrames": 23,
+    "poseFrames": 23
+  },
+  {
+    "id": "c232c49a-6ab3-4844-9c91-1805ac2ebafc",
+    "wordId": "it",
+    "frames": 29,
+    "validFrames": 29,
+    "poseFrames": 29
+  },
+  {
+    "id": "bfdd9120-3c2e-4f41-8fb6-1d937251baf5",
+    "wordId": "jyl",
+    "frames": 22,
+    "validFrames": 22,
+    "poseFrames": 22
+  },
+  {
+    "id": "c2f3f365-0329-43e6-b531-daefc4cca0f5",
+    "wordId": "erten",
+    "frames": 26,
+    "validFrames": 26,
+    "poseFrames": 26
+  },
+  {
+    "id": "c2fa8716-25fe-43f7-adfb-b77011bf7279",
+    "wordId": "uaqyt",
+    "frames": 21,
+    "validFrames": 20,
+    "poseFrames": 21
+  },
+  {
+    "id": "c38b5ea8-18c9-4610-aec0-1fcfc1efc095",
+    "wordId": "kitap",
+    "frames": 20,
+    "validFrames": 18,
+    "poseFrames": 20
+  },
+  {
+    "id": "c0501d51-1dcc-443e-a9ce-bcc368616e05",
+    "wordId": "kok",
+    "frames": 30,
+    "validFrames": 25,
+    "poseFrames": 30
+  },
+  {
+    "id": "c3c582bb-00ef-48cd-b8f5-cbf21473ca56",
+    "wordId": "otbasy",
+    "frames": 26,
+    "validFrames": 19,
+    "poseFrames": 26
+  },
+  {
+    "id": "c20b099d-7e82-440d-af09-a0af24fce438",
+    "wordId": "tyndau",
+    "frames": 20,
+    "validFrames": 20,
+    "poseFrames": 20
+  },
+  {
+    "id": "c45d3199-4c37-4a75-a089-8b7a6406bc4c",
+    "wordId": "bala",
+    "frames": 33,
+    "validFrames": 33,
+    "poseFrames": 33
+  },
+  {
+    "id": "c2cf2c76-0c40-4f44-aa8b-3f7339c0c197",
+    "wordId": "bilu",
+    "frames": 21,
+    "validFrames": 21,
+    "poseFrames": 21
+  },
+  {
+    "id": "c3a455f1-17ec-497f-90cd-ea2b676970e3",
+    "wordId": "ulken",
+    "frames": 30,
+    "validFrames": 30,
+    "poseFrames": 30
+  },
+  {
+    "id": "c499c912-327d-476a-8d5f-583db687c3d6",
+    "wordId": "otbasy",
+    "frames": 20,
+    "validFrames": 19,
+    "poseFrames": 20
+  },
+  {
+    "id": "c41c6dab-a8ec-4186-8b40-7bc3ac44511f",
+    "wordId": "ulken",
+    "frames": 29,
+    "validFrames": 18,
+    "poseFrames": 29
+  },
+  {
+    "id": "c4bc79ef-2594-4148-af70-c57e2a8dff85",
+    "wordId": "ui",
+    "frames": 19,
+    "validFrames": 18,
+    "poseFrames": 19
+  },
+  {
+    "id": "c4e516e6-f4c7-49d7-8810-ad495e75de57",
+    "wordId": "__unknown__",
+    "frames": 20,
+    "validFrames": 19,
+    "poseFrames": 20
+  },
+  {
+    "id": "c5130d18-01d0-4ba6-83b8-aa8a308895cf",
+    "wordId": "it",
+    "frames": 29,
+    "validFrames": 29,
+    "poseFrames": 29
+  },
+  {
+    "id": "c58030d7-f187-4b78-819f-b9d39fd32f6d",
+    "wordId": "balyq",
+    "frames": 27,
+    "validFrames": 27,
+    "poseFrames": 27
+  },
+  {
+    "id": "c469744a-c2ad-4cf1-9ad9-d4d94b1b616a",
+    "wordId": "jyl",
+    "frames": 23,
+    "validFrames": 17,
+    "poseFrames": 23
+  },
+  {
+    "id": "c5b5922b-43ba-410f-9815-1b96d1812a34",
+    "wordId": "mektep",
+    "frames": 23,
+    "validFrames": 18,
+    "poseFrames": 23
+  },
+  {
+    "id": "c4b0c481-c206-4249-bcc4-0fd151bd66ec",
+    "wordId": "kok",
+    "frames": 14,
+    "validFrames": 12,
+    "poseFrames": 14
+  },
+  {
+    "id": "c5fd6186-7db1-4fe8-a958-c8d634f849fd",
+    "wordId": "kun",
+    "frames": 27,
+    "validFrames": 26,
+    "poseFrames": 27
+  },
+  {
+    "id": "c48d2079-04ce-4f07-aaee-153a332f98b1",
+    "wordId": "ulken",
+    "frames": 23,
+    "validFrames": 21,
+    "poseFrames": 23
+  },
+  {
+    "id": "c586fd9f-3e97-4582-992c-2b0dd29d3fc9",
+    "wordId": "jazu",
+    "frames": 18,
+    "validFrames": 15,
+    "poseFrames": 18
+  },
+  {
+    "id": "c5c74910-7f5a-457b-b4c4-1fc0976737ce",
+    "wordId": "sary",
+    "frames": 24,
+    "validFrames": 24,
+    "poseFrames": 24
+  },
+  {
+    "id": "c660240b-93f6-448f-b827-a1f5312dfb0b",
+    "wordId": "kok",
+    "frames": 20,
+    "validFrames": 18,
+    "poseFrames": 20
+  },
+  {
+    "id": "c6dbce36-4132-4a12-828a-c63ca38c6801",
+    "wordId": "tun",
+    "frames": 17,
+    "validFrames": 13,
+    "poseFrames": 17
+  },
+  {
+    "id": "c61fbeb4-9caf-457e-bebc-d27c5b8ef029",
+    "wordId": "ai",
+    "frames": 23,
+    "validFrames": 20,
+    "poseFrames": 23
+  },
+  {
+    "id": "c69c447d-8b98-49e2-b4ed-0c5b91eb1548",
+    "wordId": "tyndau",
+    "frames": 20,
+    "validFrames": 19,
+    "poseFrames": 20
+  },
+  {
+    "id": "c78cfeec-6f80-4227-a152-4a6fe4bfeaee",
+    "wordId": "jaqsy",
+    "frames": 25,
+    "validFrames": 25,
+    "poseFrames": 25
+  },
+  {
+    "id": "c79e4bc3-8b1b-46b8-9996-18b209758f64",
+    "wordId": "ake",
+    "frames": 29,
+    "validFrames": 21,
+    "poseFrames": 29
+  },
+  {
+    "id": "c7aa2d2b-cefc-41b3-bba1-48a34da25dbe",
+    "wordId": "tun",
+    "frames": 29,
+    "validFrames": 25,
+    "poseFrames": 29
+  },
+  {
+    "id": "c703a32c-ac86-48ea-bd1c-678665bc2f54",
+    "wordId": "aiel",
+    "frames": 15,
+    "validFrames": 15,
+    "poseFrames": 15
+  },
+  {
+    "id": "c7395373-770f-4fc9-aa18-b79f06d3ce77",
+    "wordId": "bilu",
+    "frames": 16,
+    "validFrames": 16,
+    "poseFrames": 16
+  },
+  {
+    "id": "c896fe51-33c3-4b74-a3b1-ed6358bbeef4",
+    "wordId": "qala",
+    "frames": 21,
+    "validFrames": 13,
+    "poseFrames": 21
+  },
+  {
+    "id": "c953aba7-ae70-4953-8fde-9d8532418f1c",
+    "wordId": "tan",
+    "frames": 23,
+    "validFrames": 23,
+    "poseFrames": 23
+  },
+  {
+    "id": "ca3125b3-a653-4903-992b-cb53d47b0d75",
+    "wordId": "balyq",
+    "frames": 22,
+    "validFrames": 22,
+    "poseFrames": 22
+  },
+  {
+    "id": "c6b5c933-f993-45fb-9875-59f87fc4aeda",
+    "wordId": "ai",
+    "frames": 30,
+    "validFrames": 28,
+    "poseFrames": 30
+  },
+  {
+    "id": "ca8fe58a-139f-4bfe-9352-ade4ebd5a372",
+    "wordId": "tan",
+    "frames": 20,
+    "validFrames": 19,
+    "poseFrames": 20
+  },
+  {
+    "id": "c7d66104-09f0-4f41-a454-627e25f8476b",
+    "wordId": "qara",
+    "frames": 19,
+    "validFrames": 16,
+    "poseFrames": 19
+  },
+  {
+    "id": "c8743eac-0de4-4fba-a910-2cc991e58e09",
+    "wordId": "jazu",
+    "frames": 17,
+    "validFrames": 15,
+    "poseFrames": 17
+  },
+  {
+    "id": "cb114169-9fe9-4bc4-8280-325a00181817",
+    "wordId": "kesh",
+    "frames": 24,
+    "validFrames": 24,
+    "poseFrames": 24
+  },
+  {
+    "id": "cb21efd8-2a94-48dc-b9b3-8425710e014d",
+    "wordId": "jaqsy",
+    "frames": 15,
+    "validFrames": 13,
+    "poseFrames": 15
+  },
+  {
+    "id": "ca44f0ab-108c-4e26-9dbe-daab234dc671",
+    "wordId": "ishu",
+    "frames": 15,
+    "validFrames": 14,
+    "poseFrames": 15
+  },
+  {
+    "id": "cc2cac28-c91d-4bea-857e-ab7cc44ade42",
+    "wordId": "bugin",
+    "frames": 16,
+    "validFrames": 16,
+    "poseFrames": 16
+  },
+  {
+    "id": "cc720e36-8afc-4297-9754-5987bbfaf356",
+    "wordId": "salem",
+    "frames": 19,
+    "validFrames": 19,
+    "poseFrames": 19
+  },
+  {
+    "id": "ca9d9e44-e181-4a04-9f7b-653c8667abc7",
+    "wordId": "ai",
+    "frames": 23,
+    "validFrames": 23,
+    "poseFrames": 23
+  },
+  {
+    "id": "cbcd752d-a796-4dc8-b0ea-36a1f41779a0",
+    "wordId": "jyl",
+    "frames": 23,
+    "validFrames": 8,
+    "poseFrames": 23
+  },
+  {
+    "id": "cc9df37d-c977-4820-b652-ac7860000403",
+    "wordId": "aqsha",
+    "frames": 16,
+    "validFrames": 16,
+    "poseFrames": 16
+  },
+  {
+    "id": "cca6d90b-f140-42a7-a335-3c131ff93f0f",
+    "wordId": "jaqsy",
+    "frames": 22,
+    "validFrames": 20,
+    "poseFrames": 22
+  },
+  {
+    "id": "ccd989f1-1f04-4d82-afc9-53a337bfb54d",
+    "wordId": "mektep",
+    "frames": 13,
+    "validFrames": 3,
+    "poseFrames": 13
+  },
+  {
+    "id": "ccef7e4c-f584-4b90-8b6a-73b8abc0cb23",
+    "wordId": "nan",
+    "frames": 32,
+    "validFrames": 32,
+    "poseFrames": 32
+  },
+  {
+    "id": "cc74fde9-5ac2-4bbf-94e5-f7daaf231c24",
+    "wordId": "jasyl",
+    "frames": 22,
+    "validFrames": 22,
+    "poseFrames": 22
+  },
+  {
+    "id": "cd83e844-da05-4182-acb4-2a55d6a8acf9",
+    "wordId": "erten",
+    "frames": 26,
+    "validFrames": 24,
+    "poseFrames": 26
+  },
+  {
+    "id": "cacce720-649f-49c0-8a1e-012427fab4d3",
+    "wordId": "apta",
+    "frames": 27,
+    "validFrames": 24,
+    "poseFrames": 27
+  },
+  {
+    "id": "cc9c0db7-797b-4220-8f5f-33c5e968a54e",
+    "wordId": "aiel",
+    "frames": 15,
+    "validFrames": 13,
+    "poseFrames": 15
+  },
+  {
+    "id": "ce56ed7f-1f02-4aae-8545-6997f741a9b7",
+    "wordId": "ana",
+    "frames": 16,
+    "validFrames": 16,
+    "poseFrames": 16
+  },
+  {
+    "id": "ceeb4a00-405a-438f-945d-f279fc73edf2",
+    "wordId": "__unknown__",
+    "frames": 17,
+    "validFrames": 17,
+    "poseFrames": 17
+  },
+  {
+    "id": "cf172d14-6817-41ea-b920-175037ce79b8",
+    "wordId": "mysyq",
+    "frames": 15,
+    "validFrames": 15,
+    "poseFrames": 15
+  },
+  {
+    "id": "ce0b2ad8-e509-4a2f-bc38-47b58add443a",
+    "wordId": "kok",
+    "frames": 20,
+    "validFrames": 18,
+    "poseFrames": 20
+  },
+  {
+    "id": "cf9e7a96-8b31-4a55-baa9-0222c47e6eb5",
+    "wordId": "tan",
+    "frames": 28,
+    "validFrames": 28,
+    "poseFrames": 28
+  },
+  {
+    "id": "cf36761d-516d-4c97-954b-2a4bb2d0a01f",
+    "wordId": "bilu",
+    "frames": 12,
+    "validFrames": 11,
+    "poseFrames": 12
+  },
+  {
+    "id": "d02125f9-79e8-4d0b-891d-d29035770d3d",
+    "wordId": "qala",
+    "frames": 29,
+    "validFrames": 27,
+    "poseFrames": 29
+  },
+  {
+    "id": "cdb5a563-50bb-41c9-a9a2-9112df9a6437",
+    "wordId": "kok",
+    "frames": 29,
+    "validFrames": 29,
+    "poseFrames": 29
+  },
+  {
+    "id": "ccf82fcb-dcf6-4b9d-8b33-ff5c8b84aeb5",
+    "wordId": "kishkentai",
+    "frames": 24,
+    "validFrames": 17,
+    "poseFrames": 24
+  },
+  {
+    "id": "d11cad4b-bd68-40d6-b3fa-9be1bf877cb5",
+    "wordId": "su",
+    "frames": 20,
+    "validFrames": 20,
+    "poseFrames": 20
+  },
+  {
+    "id": "d1601b8d-742c-4fe5-926c-6df504622064",
+    "wordId": "su",
+    "frames": 20,
+    "validFrames": 20,
+    "poseFrames": 20
+  },
+  {
+    "id": "d1974df9-7187-4d80-82de-bb80cdd9782c",
+    "wordId": "ui",
+    "frames": 18,
+    "validFrames": 16,
+    "poseFrames": 18
+  },
+  {
+    "id": "d0565a0f-e361-4a9f-ae3e-1bcdc0ec3875",
+    "wordId": "qyzyl",
+    "frames": 17,
+    "validFrames": 15,
+    "poseFrames": 17
+  },
+  {
+    "id": "cff6bfe5-c082-4e2c-ba98-0264801b43c4",
+    "wordId": "ai",
+    "frames": 21,
+    "validFrames": 19,
+    "poseFrames": 21
+  },
+  {
+    "id": "d25ddfe0-1a64-4e37-a442-735aea194803",
+    "wordId": "jaqsy",
+    "frames": 16,
+    "validFrames": 16,
+    "poseFrames": 16
+  },
+  {
+    "id": "d2bf591b-f747-4b4e-998e-f471a02774bf",
+    "wordId": "su",
+    "frames": 19,
+    "validFrames": 19,
+    "poseFrames": 19
+  },
+  {
+    "id": "d2cbf521-f7ee-4bb9-92a9-4ef3cd99d9a4",
+    "wordId": "mysyq",
+    "frames": 20,
+    "validFrames": 19,
+    "poseFrames": 20
+  },
+  {
+    "id": "d30e9ee9-7d3c-40c2-8f0e-c720dbce81f3",
+    "wordId": "tan",
+    "frames": 24,
+    "validFrames": 21,
+    "poseFrames": 24
+  },
+  {
+    "id": "d08aa0b2-5e11-4896-a8ec-ef18c45dfdee",
+    "wordId": "bilu",
+    "frames": 21,
+    "validFrames": 20,
+    "poseFrames": 21
+  },
+  {
+    "id": "d31e6a71-ce4f-45b8-9ed4-92cc12073284",
+    "wordId": "otbasy",
+    "frames": 18,
+    "validFrames": 18,
+    "poseFrames": 18
+  },
+  {
+    "id": "d31f6124-75dc-4dfd-a2cb-552a1639999e",
+    "wordId": "bala",
+    "frames": 27,
+    "validFrames": 20,
+    "poseFrames": 27
+  },
+  {
+    "id": "d3865ed0-3975-449c-89bd-8977e0e33742",
+    "wordId": "ia",
+    "frames": 17,
+    "validFrames": 13,
+    "poseFrames": 17
+  },
+  {
+    "id": "d3c362e9-5d35-48ea-b3c1-8312408d5ff0",
+    "wordId": "at",
+    "frames": 24,
+    "validFrames": 23,
+    "poseFrames": 24
+  },
+  {
+    "id": "d1eaa8ae-564e-47c7-8a0e-cf0862911a53",
+    "wordId": "jazu",
+    "frames": 19,
+    "validFrames": 15,
+    "poseFrames": 19
+  },
+  {
+    "id": "d44e58eb-81b2-4a68-8957-d601f4b04d2c",
+    "wordId": "dos",
+    "frames": 21,
+    "validFrames": 21,
+    "poseFrames": 21
+  },
+  {
+    "id": "d47688bb-be1c-479e-bf87-11d568b0cfa4",
+    "wordId": "ana",
+    "frames": 14,
+    "validFrames": 13,
+    "poseFrames": 14
+  },
+  {
+    "id": "d491bd65-7ecb-4654-bbc0-ff66226b5624",
+    "wordId": "jaman",
+    "frames": 24,
+    "validFrames": 24,
+    "poseFrames": 24
+  },
+  {
+    "id": "d573e1f6-88bc-4e1d-b3c8-5f298e38b868",
+    "wordId": "kesh",
+    "frames": 20,
+    "validFrames": 20,
+    "poseFrames": 20
+  },
+  {
+    "id": "d615d018-265d-47bb-be33-76859bc42f33",
+    "wordId": "at",
+    "frames": 26,
+    "validFrames": 24,
+    "poseFrames": 26
+  },
+  {
+    "id": "d242f350-2fc2-435b-b97a-fa551ba15166",
+    "wordId": "oqu",
+    "frames": 22,
+    "validFrames": 19,
+    "poseFrames": 22
+  },
+  {
+    "id": "d6d44d8f-b956-44d1-90c5-c904e6c4e4b0",
+    "wordId": "tan",
+    "frames": 30,
+    "validFrames": 19,
+    "poseFrames": 30
+  },
+  {
+    "id": "d7103ec6-475f-4c4b-8579-87f455dcdc22",
+    "wordId": "ia",
+    "frames": 15,
+    "validFrames": 14,
+    "poseFrames": 15
+  },
+  {
+    "id": "d3df3ce7-2284-45f1-b156-557506060be5",
+    "wordId": "kishkentai",
+    "frames": 24,
+    "validFrames": 24,
+    "poseFrames": 24
+  },
+  {
+    "id": "d3134656-a15c-40d1-a520-b4a9c3e8b3f3",
+    "wordId": "sary",
+    "frames": 29,
+    "validFrames": 26,
+    "poseFrames": 29
+  },
+  {
+    "id": "d79db2f1-d189-466f-8289-2279610c2f14",
+    "wordId": "jaman",
+    "frames": 26,
+    "validFrames": 26,
+    "poseFrames": 26
+  },
+  {
+    "id": "d7c749ff-0a81-45b7-9d4d-35ab9abd5df3",
+    "wordId": "ia",
+    "frames": 15,
+    "validFrames": 15,
+    "poseFrames": 15
+  },
+  {
+    "id": "d6964038-e7db-4208-8c18-72c8ce6ee61d",
+    "wordId": "uiyqtau",
+    "frames": 18,
+    "validFrames": 16,
+    "poseFrames": 18
+  },
+  {
+    "id": "d720c99f-ebc0-4800-9ca9-10fd296aa3db",
+    "wordId": "erkek",
+    "frames": 22,
+    "validFrames": 21,
+    "poseFrames": 22
+  },
+  {
+    "id": "d86a6cbe-33f0-493d-b7f0-c0b26cc4b424",
+    "wordId": "sary",
+    "frames": 21,
+    "validFrames": 21,
+    "poseFrames": 21
+  },
+  {
+    "id": "d7dea6d7-ed60-4bd0-a7cf-d7facf1b7804",
+    "wordId": "aiel",
+    "frames": 23,
+    "validFrames": 21,
+    "poseFrames": 23
+  },
+  {
+    "id": "d99c9e67-01fa-46a7-afba-cf0999429046",
+    "wordId": "tun",
+    "frames": 26,
+    "validFrames": 17,
+    "poseFrames": 26
+  },
+  {
+    "id": "da1f960f-0746-4982-9c53-acd4fda1ae3b",
+    "wordId": "ui",
+    "frames": 23,
+    "validFrames": 21,
+    "poseFrames": 23
+  },
+  {
+    "id": "d76560cd-54e8-4366-8fe5-83cfd4f6bd98",
+    "wordId": "sary",
+    "frames": 26,
+    "validFrames": 25,
+    "poseFrames": 26
+  },
+  {
+    "id": "dbbe1b05-98b1-4d2c-a6b8-65b32aa099f1",
+    "wordId": "kesh",
+    "frames": 25,
+    "validFrames": 25,
+    "poseFrames": 25
+  },
+  {
+    "id": "d944db5b-f910-46d5-8819-9bdbfe777ef4",
+    "wordId": "jazu",
+    "frames": 16,
+    "validFrames": 16,
+    "poseFrames": 16
+  },
+  {
+    "id": "dbd6b569-5176-4af5-a4ed-9e8cbcb30f9b",
+    "wordId": "uiyqtau",
+    "frames": 17,
+    "validFrames": 15,
+    "poseFrames": 17
+  },
+  {
+    "id": "db362c35-7833-45d7-b7d1-f5722604927b",
+    "wordId": "sary",
+    "frames": 23,
+    "validFrames": 22,
+    "poseFrames": 23
+  },
+  {
+    "id": "d954d23b-6468-4246-83f0-43d909f65389",
+    "wordId": "uiyqtau",
+    "frames": 33,
+    "validFrames": 30,
+    "poseFrames": 33
+  },
+  {
+    "id": "dc968715-3c8d-40d6-bf97-2568716723f8",
+    "wordId": "jazu",
+    "frames": 12,
+    "validFrames": 11,
+    "poseFrames": 12
+  },
+  {
+    "id": "dd090122-42f6-4c6a-847a-9350f9987956",
+    "wordId": "qala",
+    "frames": 26,
+    "validFrames": 23,
+    "poseFrames": 26
+  },
+  {
+    "id": "dc04ebe9-47f0-4ee3-a811-175aceeb3235",
+    "wordId": "ulken",
+    "frames": 27,
+    "validFrames": 26,
+    "poseFrames": 27
+  },
+  {
+    "id": "dd3e7936-57a6-4d5c-98b2-cdd58f933dc3",
+    "wordId": "mysyq",
+    "frames": 18,
+    "validFrames": 18,
+    "poseFrames": 18
+  },
+  {
+    "id": "dca79d0d-0eb7-47ea-83d9-9c63f4fb8664",
+    "wordId": "aq",
+    "frames": 24,
+    "validFrames": 24,
+    "poseFrames": 24
+  },
+  {
+    "id": "dd7660fc-bd4f-4cc1-9d98-1585f35b471e",
+    "wordId": "keshe",
+    "frames": 20,
+    "validFrames": 19,
+    "poseFrames": 20
+  },
+  {
+    "id": "dd845913-e430-4e57-8630-38752ea99be1",
+    "wordId": "bugin",
+    "frames": 23,
+    "validFrames": 21,
+    "poseFrames": 23
+  },
+  {
+    "id": "dcd48339-6fda-4613-b24f-b7226a02610b",
+    "wordId": "sary",
+    "frames": 22,
+    "validFrames": 21,
+    "poseFrames": 22
+  },
+  {
+    "id": "ded3df27-70b1-4b7f-a1f7-67de4584bd5d",
+    "wordId": "bala",
+    "frames": 18,
+    "validFrames": 17,
+    "poseFrames": 18
+  },
+  {
+    "id": "dd1d45c9-3783-45a5-9bf8-0db9a1192f30",
+    "wordId": "ai",
+    "frames": 26,
+    "validFrames": 19,
+    "poseFrames": 26
+  },
+  {
+    "id": "df16e3ee-8963-489e-9da2-768d0f5509af",
+    "wordId": "aqsha",
+    "frames": 16,
+    "validFrames": 15,
+    "poseFrames": 16
+  },
+  {
+    "id": "df31c07a-acfc-4a75-b3e2-b26a2a3b04f3",
+    "wordId": "__unknown__",
+    "frames": 26,
+    "validFrames": 26,
+    "poseFrames": 26
+  },
+  {
+    "id": "df3e248c-09d5-4904-ae0b-9659afefa08d",
+    "wordId": "it",
+    "frames": 26,
+    "validFrames": 24,
+    "poseFrames": 26
+  },
+  {
+    "id": "dd616430-9b42-47ce-9535-ca9433ef8f52",
+    "wordId": "qarau",
+    "frames": 16,
+    "validFrames": 15,
+    "poseFrames": 16
+  },
+  {
+    "id": "de81f7af-f73c-4f57-9ad1-9b714fd78695",
+    "wordId": "uiyqtau",
+    "frames": 20,
+    "validFrames": 19,
+    "poseFrames": 20
+  },
+  {
+    "id": "ded4e492-d243-4fb9-9c91-e7d5a2f92c7e",
+    "wordId": "ai",
+    "frames": 27,
+    "validFrames": 24,
+    "poseFrames": 27
+  },
+  {
+    "id": "e0376afb-411a-4403-8b53-4aed040d7a55",
+    "wordId": "ui",
+    "frames": 17,
+    "validFrames": 15,
+    "poseFrames": 17
+  },
+  {
+    "id": "dfb5dfd1-a841-42cd-a70a-e62780d04894",
+    "wordId": "ishu",
+    "frames": 16,
+    "validFrames": 16,
+    "poseFrames": 16
+  },
+  {
+    "id": "dfe2ff4c-98fa-4ead-b861-f499f570a321",
+    "wordId": "ai",
+    "frames": 29,
+    "validFrames": 21,
+    "poseFrames": 29
+  },
+  {
+    "id": "e09d5221-d913-49b9-95c9-03155e0ed1e9",
+    "wordId": "ishu",
+    "frames": 13,
+    "validFrames": 11,
+    "poseFrames": 13
+  },
+  {
+    "id": "dfe33614-275e-45df-aef7-cacdcdf2d8f8",
+    "wordId": "ulken",
+    "frames": 22,
+    "validFrames": 22,
+    "poseFrames": 22
+  },
+  {
+    "id": "e0d63569-4904-49cd-8ea0-9c4756097f73",
+    "wordId": "uiyqtau",
+    "frames": 13,
+    "validFrames": 12,
+    "poseFrames": 13
+  },
+  {
+    "id": "e11a453c-e02b-4429-87f1-d4f94111c399",
+    "wordId": "bala",
+    "frames": 33,
+    "validFrames": 32,
+    "poseFrames": 33
+  },
+  {
+    "id": "e1651e4b-d145-4e5e-8a5f-52261e4b1242",
+    "wordId": "ia",
+    "frames": 32,
+    "validFrames": 32,
+    "poseFrames": 32
+  },
+  {
+    "id": "e233883f-28f7-43c7-a874-63d83a902abd",
+    "wordId": "at",
+    "frames": 27,
+    "validFrames": 27,
+    "poseFrames": 27
+  },
+  {
+    "id": "e23b23cd-c193-425a-97ce-5d05bfd62c0e",
+    "wordId": "keshe",
+    "frames": 25,
+    "validFrames": 25,
+    "poseFrames": 25
+  },
+  {
+    "id": "e2d03924-6b38-4b4e-aa72-328dcf67d524",
+    "wordId": "balyq",
+    "frames": 15,
+    "validFrames": 10,
+    "poseFrames": 15
+  },
+  {
+    "id": "e0fb7830-8373-4dcd-b97e-d69f6c6dd675",
+    "wordId": "ulken",
+    "frames": 15,
+    "validFrames": 15,
+    "poseFrames": 15
+  },
+  {
+    "id": "e2fa477e-f90a-495b-a9ef-a127c0bc0e69",
+    "wordId": "qala",
+    "frames": 28,
+    "validFrames": 24,
+    "poseFrames": 28
+  },
+  {
+    "id": "e2ff84c9-676e-42a5-9537-f0de9f703865",
+    "wordId": "ia",
+    "frames": 15,
+    "validFrames": 14,
+    "poseFrames": 15
+  },
+  {
+    "id": "e3b0e3b1-ee70-4eb3-8559-2c0f84cc066f",
+    "wordId": "kesh",
+    "frames": 23,
+    "validFrames": 23,
+    "poseFrames": 23
+  },
+  {
+    "id": "e3bde0a8-4c58-4c81-bce5-79476e8fa9b7",
+    "wordId": "mektep",
+    "frames": 24,
+    "validFrames": 20,
+    "poseFrames": 24
+  },
+  {
+    "id": "e0fdbd30-7d8a-4a7f-a782-086428aaca71",
+    "wordId": "tyndau",
+    "frames": 20,
+    "validFrames": 18,
+    "poseFrames": 20
+  },
+  {
+    "id": "e2f574c5-113a-4eec-94ef-06e8655401a7",
+    "wordId": "oqu",
+    "frames": 24,
+    "validFrames": 24,
+    "poseFrames": 24
+  },
+  {
+    "id": "e10fbdcb-14a6-4a4b-8073-f646db0d4f28",
+    "wordId": "aiel",
+    "frames": 27,
+    "validFrames": 27,
+    "poseFrames": 27
+  },
+  {
+    "id": "e430a65d-dec4-4df5-acc3-1c1d9462d9d8",
+    "wordId": "kun",
+    "frames": 26,
+    "validFrames": 23,
+    "poseFrames": 26
+  },
+  {
+    "id": "e4519e36-dfb0-4e5b-938d-a2cd0dd2fd70",
+    "wordId": "jaman",
+    "frames": 21,
+    "validFrames": 20,
+    "poseFrames": 21
+  },
+  {
+    "id": "e40c67cc-4a16-4ae5-912f-e6092b73177d",
+    "wordId": "erkek",
+    "frames": 22,
+    "validFrames": 22,
+    "poseFrames": 22
+  },
+  {
+    "id": "e410a297-7ee5-4f40-b573-1a0281b51489",
+    "wordId": "jazu",
+    "frames": 17,
+    "validFrames": 17,
+    "poseFrames": 17
+  },
+  {
+    "id": "e49e93f4-1bd3-4c6c-a47b-32ce4ff8b096",
+    "wordId": "uaqyt",
+    "frames": 20,
+    "validFrames": 16,
+    "poseFrames": 20
+  },
+  {
+    "id": "e422a41a-6be0-4172-a818-bd984de1972e",
+    "wordId": "oqu",
+    "frames": 19,
+    "validFrames": 19,
+    "poseFrames": 19
+  },
+  {
+    "id": "e451d04e-0181-4bf7-987f-972b545139b2",
+    "wordId": "uiyqtau",
+    "frames": 24,
+    "validFrames": 23,
+    "poseFrames": 24
+  },
+  {
+    "id": "e4fb898c-5701-4d29-9f2a-9102944bdef4",
+    "wordId": "it",
+    "frames": 22,
+    "validFrames": 22,
+    "poseFrames": 22
+  },
+  {
+    "id": "e4704747-b783-4879-a41f-c3477a8e3c69",
+    "wordId": "kok",
+    "frames": 17,
+    "validFrames": 14,
+    "poseFrames": 17
+  },
+  {
+    "id": "e4cb7320-f5dc-480f-a6b0-ce97cbf58edc",
+    "wordId": "oqu",
+    "frames": 29,
+    "validFrames": 27,
+    "poseFrames": 29
+  },
+  {
+    "id": "e556110f-ef0d-4d7c-8940-346227d30d96",
+    "wordId": "mektep",
+    "frames": 22,
+    "validFrames": 21,
+    "poseFrames": 22
+  },
+  {
+    "id": "e561d342-ffb1-4319-a3db-4a15e6aa19cc",
+    "wordId": "aqsha",
+    "frames": 26,
+    "validFrames": 26,
+    "poseFrames": 26
+  },
+  {
+    "id": "e4d84983-cac8-4168-aac8-ba4af5d6f503",
+    "wordId": "aq",
+    "frames": 26,
+    "validFrames": 26,
+    "poseFrames": 26
+  },
+  {
+    "id": "e4ffb10d-4315-4a70-b4cf-f450315c4ca7",
+    "wordId": "sary",
+    "frames": 23,
+    "validFrames": 23,
+    "poseFrames": 23
+  },
+  {
+    "id": "e53a1428-7873-49a4-8761-6e126dd3f898",
+    "wordId": "kishkentai",
+    "frames": 25,
+    "validFrames": 25,
+    "poseFrames": 25
+  },
+  {
+    "id": "e65f1f61-9dcf-4992-8c5f-a4b7b76ffca6",
+    "wordId": "tan",
+    "frames": 20,
+    "validFrames": 20,
+    "poseFrames": 20
+  },
+  {
+    "id": "e62f9973-c7f0-45b6-a200-2568a3b3d4e0",
+    "wordId": "bilu",
+    "frames": 13,
+    "validFrames": 11,
+    "poseFrames": 13
+  },
+  {
+    "id": "e6cc21a2-040f-4ec8-a3bf-c3b00fb58d61",
+    "wordId": "otbasy",
+    "frames": 18,
+    "validFrames": 15,
+    "poseFrames": 18
+  },
+  {
+    "id": "e5cc2254-7e16-49cc-bf08-59f09358d0f2",
+    "wordId": "oqu",
+    "frames": 27,
+    "validFrames": 27,
+    "poseFrames": 27
+  },
+  {
+    "id": "e78a79b9-499e-4244-aa85-f4a861944f07",
+    "wordId": "ui",
+    "frames": 29,
+    "validFrames": 26,
+    "poseFrames": 29
+  },
+  {
+    "id": "e6572dc4-1673-470d-adb5-73d2329ac8c7",
+    "wordId": "kok",
+    "frames": 23,
+    "validFrames": 23,
+    "poseFrames": 23
+  },
+  {
+    "id": "e663e917-eda4-459c-a65f-7ac7a59eed02",
+    "wordId": "aq",
+    "frames": 26,
+    "validFrames": 26,
+    "poseFrames": 26
+  },
+  {
+    "id": "e70fcfd6-52db-4656-ac39-c4dfbf73939e",
+    "wordId": "qyzyl",
+    "frames": 19,
+    "validFrames": 19,
+    "poseFrames": 19
+  },
+  {
+    "id": "e7a87410-bde7-435d-9c5b-bc329dfb0fdc",
+    "wordId": "aiel",
+    "frames": 26,
+    "validFrames": 24,
+    "poseFrames": 26
+  },
+  {
+    "id": "e8c4a21b-dce1-483a-9915-577fc794e2c0",
+    "wordId": "at",
+    "frames": 39,
+    "validFrames": 39,
+    "poseFrames": 39
+  },
+  {
+    "id": "e8e1d732-4b46-4c4e-a04c-d1e81a36d031",
+    "wordId": "ake",
+    "frames": 24,
+    "validFrames": 23,
+    "poseFrames": 24
+  },
+  {
+    "id": "e8657ae2-e1a9-499d-a532-4e650be44853",
+    "wordId": "oqu",
+    "frames": 14,
+    "validFrames": 14,
+    "poseFrames": 14
+  },
+  {
+    "id": "e7f6ef84-1727-4bbb-9d5c-0a963bc86eb5",
+    "wordId": "jyl",
+    "frames": 23,
+    "validFrames": 13,
+    "poseFrames": 23
+  },
+  {
+    "id": "e98ca014-ffd0-4543-9473-d6f9a0a5a3b4",
+    "wordId": "dos",
+    "frames": 27,
+    "validFrames": 7,
+    "poseFrames": 27
+  },
+  {
+    "id": "e9b5ad62-459b-46a0-9ae9-ba718fab01df",
+    "wordId": "dos",
+    "frames": 24,
+    "validFrames": 24,
+    "poseFrames": 24
+  },
+  {
+    "id": "e9b5deeb-72c7-453b-b4ab-22b5e38ddc93",
+    "wordId": "__unknown__",
+    "frames": 24,
+    "validFrames": 22,
+    "poseFrames": 24
+  },
+  {
+    "id": "e9ee8f62-c6bf-4ba5-ab28-70d0f78d30c5",
+    "wordId": "__unknown__",
+    "frames": 21,
+    "validFrames": 21,
+    "poseFrames": 21
+  },
+  {
+    "id": "ea2a22b6-21b6-4f7e-83c9-2bed3119c847",
+    "wordId": "ake",
+    "frames": 31,
+    "validFrames": 30,
+    "poseFrames": 31
+  },
+  {
+    "id": "ea4a230a-bd22-4065-b4c0-2c6c4a80f179",
+    "wordId": "nan",
+    "frames": 35,
+    "validFrames": 34,
+    "poseFrames": 35
+  },
+  {
+    "id": "ea97da29-d8cc-4546-b995-ac1770308563",
+    "wordId": "bala",
+    "frames": 28,
+    "validFrames": 28,
+    "poseFrames": 28
+  },
+  {
+    "id": "eab0e62b-6fe8-4b89-90bc-ecb175153733",
+    "wordId": "mysyq",
+    "frames": 30,
+    "validFrames": 30,
+    "poseFrames": 30
+  },
+  {
+    "id": "ead347ca-9fc5-40b4-94c3-d12062dffba7",
+    "wordId": "otbasy",
+    "frames": 18,
+    "validFrames": 15,
+    "poseFrames": 18
+  },
+  {
+    "id": "e7dc1903-2a16-4ab3-a549-1c377136c916",
+    "wordId": "sary",
+    "frames": 32,
+    "validFrames": 32,
+    "poseFrames": 32
+  },
+  {
+    "id": "e9146f2b-78c4-4516-95f9-b534e7be2644",
+    "wordId": "aiel",
+    "frames": 20,
+    "validFrames": 20,
+    "poseFrames": 20
+  },
+  {
+    "id": "ec8d979c-e05f-4cbe-b6a3-77793ce2def8",
+    "wordId": "uaqyt",
+    "frames": 20,
+    "validFrames": 20,
+    "poseFrames": 20
+  },
+  {
+    "id": "ec294f54-c755-483c-a8e2-317760e4c263",
+    "wordId": "ishu",
+    "frames": 17,
+    "validFrames": 17,
+    "poseFrames": 17
+  },
+  {
+    "id": "ecde025e-fb92-48b2-bb39-2f3ea4687d87",
+    "wordId": "at",
+    "frames": 27,
+    "validFrames": 27,
+    "poseFrames": 27
+  },
+  {
+    "id": "ebfc3ed4-f34d-404d-bba6-4e2fb878cc62",
+    "wordId": "jasyl",
+    "frames": 20,
+    "validFrames": 18,
+    "poseFrames": 20
+  },
+  {
+    "id": "ee8fe23a-24f5-4bcb-bd2f-83097372d609",
+    "wordId": "tamaq",
+    "frames": 15,
+    "validFrames": 15,
+    "poseFrames": 15
+  },
+  {
+    "id": "ef0689b7-b8cf-4358-8dda-6da7f8d11281",
+    "wordId": "it",
+    "frames": 24,
+    "validFrames": 22,
+    "poseFrames": 24
+  },
+  {
+    "id": "e923cfad-407f-4df9-8275-b70e9c66076f",
+    "wordId": "sary",
+    "frames": 26,
+    "validFrames": 23,
+    "poseFrames": 26
+  },
+  {
+    "id": "ed5f1088-fcb5-479d-95e9-86a87eb7a7c0",
+    "wordId": "qarau",
+    "frames": 13,
+    "validFrames": 12,
+    "poseFrames": 13
+  },
+  {
+    "id": "efc168b7-51c0-4b6e-9e5f-7ab2d75b5ee8",
+    "wordId": "erten",
+    "frames": 18,
+    "validFrames": 15,
+    "poseFrames": 18
+  },
+  {
+    "id": "efd5bbf3-c3a0-4883-8367-48d1b6cb91b0",
+    "wordId": "aqsha",
+    "frames": 19,
+    "validFrames": 14,
+    "poseFrames": 19
+  },
+  {
+    "id": "efe6f759-4e3c-451b-9cde-cb6678fa4657",
+    "wordId": "tun",
+    "frames": 25,
+    "validFrames": 19,
+    "poseFrames": 25
+  },
+  {
+    "id": "ecab94ff-5687-48da-8449-76b0fb736ac0",
+    "wordId": "qyzyl",
+    "frames": 20,
+    "validFrames": 20,
+    "poseFrames": 20
+  },
+  {
+    "id": "f0ac4a5e-c438-4f39-a577-2814f423afa7",
+    "wordId": "keshe",
+    "frames": 18,
+    "validFrames": 17,
+    "poseFrames": 18
+  },
+  {
+    "id": "f0c79ddf-fa26-4e45-81f4-0753aee7f57b",
+    "wordId": "otbasy",
+    "frames": 16,
+    "validFrames": 3,
+    "poseFrames": 16
+  },
+  {
+    "id": "f145d0b3-9cb3-4289-862d-7711a3b8522d",
+    "wordId": "jaqsy",
+    "frames": 24,
+    "validFrames": 23,
+    "poseFrames": 24
+  },
+  {
+    "id": "f17a6060-6ced-4bd1-9886-8578cfbb864f",
+    "wordId": "salem",
+    "frames": 32,
+    "validFrames": 32,
+    "poseFrames": 32
+  },
+  {
+    "id": "f18b8fe3-e862-42f9-8220-b4b0949ac891",
+    "wordId": "kun",
+    "frames": 19,
+    "validFrames": 19,
+    "poseFrames": 19
+  },
+  {
+    "id": "f1f01057-19c3-46da-afdc-ba5de5a14693",
+    "wordId": "aqsha",
+    "frames": 16,
+    "validFrames": 16,
+    "poseFrames": 16
+  },
+  {
+    "id": "f201eea3-bd1b-45f0-a3d4-6b248980bc77",
+    "wordId": "__unknown__",
+    "frames": 35,
+    "validFrames": 35,
+    "poseFrames": 35
+  },
+  {
+    "id": "f26fac58-33da-40e9-9641-da31c6639aca",
+    "wordId": "ake",
+    "frames": 31,
+    "validFrames": 31,
+    "poseFrames": 31
+  },
+  {
+    "id": "ef625d74-66ea-4007-ab91-c90f6e3da61b",
+    "wordId": "ishu",
+    "frames": 25,
+    "validFrames": 22,
+    "poseFrames": 25
+  },
+  {
+    "id": "f2f21ac7-67e6-4eee-a27c-3d446017ee63",
+    "wordId": "mysyq",
+    "frames": 27,
+    "validFrames": 26,
+    "poseFrames": 27
+  },
+  {
+    "id": "f316e41e-d7fd-4632-85db-824f8cf9cdd5",
+    "wordId": "dos",
+    "frames": 18,
+    "validFrames": 16,
+    "poseFrames": 18
+  },
+  {
+    "id": "ef949b65-bd5b-4c2b-a016-13cf34616308",
+    "wordId": "jyl",
+    "frames": 26,
+    "validFrames": 23,
+    "poseFrames": 26
+  },
+  {
+    "id": "f3989980-2dce-4e07-8e8a-cf356d2f62a3",
+    "wordId": "kun",
+    "frames": 24,
+    "validFrames": 24,
+    "poseFrames": 24
+  },
+  {
+    "id": "f41bf9eb-effe-4c42-845d-ba8e0e24536d",
+    "wordId": "it",
+    "frames": 16,
+    "validFrames": 15,
+    "poseFrames": 16
+  },
+  {
+    "id": "f44a7b7e-8ec7-4b9f-b724-467369a9056d",
+    "wordId": "it",
+    "frames": 24,
+    "validFrames": 23,
+    "poseFrames": 24
+  },
+  {
+    "id": "f490f57a-f715-4b80-b125-3af98bf1f4e9",
+    "wordId": "erten",
+    "frames": 21,
+    "validFrames": 21,
+    "poseFrames": 21
+  },
+  {
+    "id": "f05e37fb-26fc-4926-8be9-631ea6ad2488",
+    "wordId": "aq",
+    "frames": 24,
+    "validFrames": 24,
+    "poseFrames": 24
+  },
+  {
+    "id": "f4acc371-2bc1-48fe-8440-8d2cdb1907f7",
+    "wordId": "tan",
+    "frames": 18,
+    "validFrames": 13,
+    "poseFrames": 18
+  },
+  {
+    "id": "f51f9e19-5227-43f2-be55-5ebbb9959820",
+    "wordId": "it",
+    "frames": 20,
+    "validFrames": 20,
+    "poseFrames": 20
+  },
+  {
+    "id": "f549af3c-3510-4787-839c-c6d0afecd44b",
+    "wordId": "bugin",
+    "frames": 29,
+    "validFrames": 27,
+    "poseFrames": 29
+  },
+  {
+    "id": "f2a6a02a-54f0-4feb-bfb5-300622d688ca",
+    "wordId": "ishu",
+    "frames": 19,
+    "validFrames": 19,
+    "poseFrames": 19
+  },
+  {
+    "id": "f49ee7d3-3c6f-4325-b2c4-3cca60234fd6",
+    "wordId": "erkek",
+    "frames": 16,
+    "validFrames": 16,
+    "poseFrames": 16
+  },
+  {
+    "id": "f3848317-a25f-48cb-bc3f-66efe08de15a",
+    "wordId": "jasyl",
+    "frames": 31,
+    "validFrames": 31,
+    "poseFrames": 31
+  },
+  {
+    "id": "f5624b8c-d14b-488f-bc8b-5ec9681f3605",
+    "wordId": "erkek",
+    "frames": 22,
+    "validFrames": 18,
+    "poseFrames": 22
+  },
+  {
+    "id": "f580a638-00b8-4db5-b43d-b16e2182afff",
+    "wordId": "ana",
+    "frames": 18,
+    "validFrames": 18,
+    "poseFrames": 18
+  },
+  {
+    "id": "f563bae2-1038-4f7a-bdd3-5d8999ee8e20",
+    "wordId": "erkek",
+    "frames": 28,
+    "validFrames": 5,
+    "poseFrames": 28
+  },
+  {
+    "id": "f57af521-0515-4746-bacb-6550dd043f89",
+    "wordId": "jazu",
+    "frames": 20,
+    "validFrames": 20,
+    "poseFrames": 20
+  },
+  {
+    "id": "f57ab63c-c6c1-4fca-817f-bd78aa7fbec7",
+    "wordId": "aiel",
+    "frames": 29,
+    "validFrames": 29,
+    "poseFrames": 29
+  },
+  {
+    "id": "f675502f-c536-4e31-a00d-bd55707d0c12",
+    "wordId": "tan",
+    "frames": 17,
+    "validFrames": 16,
+    "poseFrames": 17
+  },
+  {
+    "id": "f6a43edd-da1e-4226-8d5e-92df2052211d",
+    "wordId": "jaqsy",
+    "frames": 21,
+    "validFrames": 18,
+    "poseFrames": 21
+  },
+  {
+    "id": "f660c5f7-e329-49c7-903f-4cdf5db19f69",
+    "wordId": "jyl",
+    "frames": 22,
+    "validFrames": 17,
+    "poseFrames": 22
+  },
+  {
+    "id": "f6f07373-8658-43f7-9a4b-1afb952fe47f",
+    "wordId": "keshe",
+    "frames": 30,
+    "validFrames": 30,
+    "poseFrames": 30
+  },
+  {
+    "id": "f5c9090f-107a-4a2d-a4b8-54371706f110",
+    "wordId": "ulken",
+    "frames": 34,
+    "validFrames": 23,
+    "poseFrames": 34
+  },
+  {
+    "id": "f774a3ef-3d20-4b06-957a-88132e25ad14",
+    "wordId": "uaqyt",
+    "frames": 23,
+    "validFrames": 0,
+    "poseFrames": 23
+  },
+  {
+    "id": "f7f27201-37fc-4a9f-9fc8-4cfeb71716e8",
+    "wordId": "qala",
+    "frames": 25,
+    "validFrames": 25,
+    "poseFrames": 25
+  },
+  {
+    "id": "f6b5640f-069d-433b-8827-a88e5e90f6b1",
+    "wordId": "uiyqtau",
+    "frames": 15,
+    "validFrames": 14,
+    "poseFrames": 15
+  },
+  {
+    "id": "f6747caf-e079-474e-9d45-ea453de5da03",
+    "wordId": "kok",
+    "frames": 27,
+    "validFrames": 22,
+    "poseFrames": 27
+  },
+  {
+    "id": "f955d5e5-d449-4757-b356-e7e641bf59b3",
+    "wordId": "balyq",
+    "frames": 27,
+    "validFrames": 27,
+    "poseFrames": 27
+  },
+  {
+    "id": "f9bb50db-5a72-4133-be30-363323b69650",
+    "wordId": "aqsha",
+    "frames": 22,
+    "validFrames": 22,
+    "poseFrames": 22
+  },
+  {
+    "id": "f9dad5a6-6d2a-44a9-8f6d-b6874e390e20",
+    "wordId": "ana",
+    "frames": 25,
+    "validFrames": 25,
+    "poseFrames": 25
+  },
+  {
+    "id": "f9f72db6-ebd4-43ad-803a-37f261f4894f",
+    "wordId": "tamaq",
+    "frames": 26,
+    "validFrames": 23,
+    "poseFrames": 26
+  },
+  {
+    "id": "f9fe8bee-37a1-4ecd-b8f2-4f8a97be08a0",
+    "wordId": "ia",
+    "frames": 21,
+    "validFrames": 21,
+    "poseFrames": 21
+  },
+  {
+    "id": "fa2b3a74-9691-47ed-ab2e-d8b397f3602d",
+    "wordId": "mektep",
+    "frames": 26,
+    "validFrames": 24,
+    "poseFrames": 26
+  },
+  {
+    "id": "fa976418-b302-4734-a1d2-bc5cfacd0acc",
+    "wordId": "kun",
+    "frames": 20,
+    "validFrames": 20,
+    "poseFrames": 20
+  },
+  {
+    "id": "fad61994-f381-49de-951e-b3125f49506f",
+    "wordId": "bala",
+    "frames": 21,
+    "validFrames": 21,
+    "poseFrames": 21
+  },
+  {
+    "id": "fb3216dc-20a2-4fdd-8224-107be004baa3",
+    "wordId": "bugin",
+    "frames": 25,
+    "validFrames": 21,
+    "poseFrames": 25
+  },
+  {
+    "id": "f74282dd-9b8d-4266-b0ec-58c1a7cf7bc9",
+    "wordId": "aiel",
+    "frames": 22,
+    "validFrames": 22,
+    "poseFrames": 22
+  },
+  {
+    "id": "fb3ec88e-c85c-4915-8d54-8f1afdfe3803",
+    "wordId": "salem",
+    "frames": 27,
+    "validFrames": 27,
+    "poseFrames": 27
+  },
+  {
+    "id": "fb9498f1-d4fe-4d61-855b-4bcf6ac2fa56",
+    "wordId": "tamaq",
+    "frames": 25,
+    "validFrames": 25,
+    "poseFrames": 25
+  },
+  {
+    "id": "fbcfdd09-b129-4145-b0db-bf7ea380bded",
+    "wordId": "ia",
+    "frames": 20,
+    "validFrames": 16,
+    "poseFrames": 20
+  },
+  {
+    "id": "f82789cc-7435-4afc-89e3-ff0a7fe620ee",
+    "wordId": "apta",
+    "frames": 25,
+    "validFrames": 25,
+    "poseFrames": 25
+  },
+  {
+    "id": "fb399f02-e26c-4618-9381-54f2efc9238c",
+    "wordId": "aiel",
+    "frames": 27,
+    "validFrames": 27,
+    "poseFrames": 27
+  },
+  {
+    "id": "fbf5a28b-503e-4a22-9dfa-bb840d444b11",
+    "wordId": "qala",
+    "frames": 25,
+    "validFrames": 24,
+    "poseFrames": 25
+  },
+  {
+    "id": "f876734a-6210-492b-a826-cdc38aa77afd",
+    "wordId": "kishkentai",
+    "frames": 37,
+    "validFrames": 35,
+    "poseFrames": 37
+  },
+  {
+    "id": "fcd269ef-dd9d-4ef6-88fc-2c6f0f29583a",
+    "wordId": "aqsha",
+    "frames": 26,
+    "validFrames": 25,
+    "poseFrames": 26
+  },
+  {
+    "id": "fbd27115-dce0-43be-b262-572cd13c5636",
+    "wordId": "oqu",
+    "frames": 20,
+    "validFrames": 16,
+    "poseFrames": 20
+  },
+  {
+    "id": "fbd6e52b-f734-47d2-b611-3589cbd0abea",
+    "wordId": "aq",
+    "frames": 27,
+    "validFrames": 23,
+    "poseFrames": 27
+  },
+  {
+    "id": "fd3c9a75-e3ed-4463-a6d6-0a12167162d6",
+    "wordId": "su",
+    "frames": 22,
+    "validFrames": 20,
+    "poseFrames": 22
+  },
+  {
+    "id": "fc63eb62-d30f-440b-bade-505def36b07e",
+    "wordId": "qarau",
+    "frames": 18,
+    "validFrames": 18,
+    "poseFrames": 18
+  },
+  {
+    "id": "fe0e3e8a-c72f-438c-a3d7-8cb81dd5b341",
+    "wordId": "otbasy",
+    "frames": 18,
+    "validFrames": 17,
+    "poseFrames": 18
+  },
+  {
+    "id": "fe17278e-1357-4800-b7b6-084458adb224",
+    "wordId": "mektep",
+    "frames": 17,
+    "validFrames": 16,
+    "poseFrames": 17
+  },
+  {
+    "id": "fcdaa3c4-66fb-4452-87b9-c86ed5cc44c4",
+    "wordId": "aq",
+    "frames": 23,
+    "validFrames": 20,
+    "poseFrames": 23
+  },
+  {
+    "id": "fd20227e-69d6-495e-a7bc-a3602ad4536e",
+    "wordId": "kok",
+    "frames": 19,
+    "validFrames": 18,
+    "poseFrames": 19
+  },
+  {
+    "id": "fecaec6d-dbec-4b4a-a6db-436ad56d927a",
+    "wordId": "jaqsy",
+    "frames": 28,
+    "validFrames": 24,
+    "poseFrames": 28
+  },
+  {
+    "id": "fee78c7f-22bf-4aa5-bc74-e4ea5c5340ff",
+    "wordId": "ake",
+    "frames": 20,
+    "validFrames": 16,
+    "poseFrames": 20
+  },
+  {
+    "id": "fd9e34cd-0e84-45d4-8649-54f51242fbbb",
+    "wordId": "kok",
+    "frames": 27,
+    "validFrames": 25,
+    "poseFrames": 27
+  },
+  {
+    "id": "ff454bdd-0b10-4680-99ad-3ece3cd7f9ad",
+    "wordId": "jazu",
+    "frames": 15,
+    "validFrames": 13,
+    "poseFrames": 15
+  },
+  {
+    "id": "fe5caaac-64a6-4a19-808e-1073798780fc",
+    "wordId": "kok",
+    "frames": 29,
+    "validFrames": 29,
+    "poseFrames": 29
+  },
+  {
+    "id": "febd71dc-f6ff-4398-94c6-cbb0300d7d23",
+    "wordId": "kok",
+    "frames": 27,
+    "validFrames": 27,
+    "poseFrames": 27
+  },
+  {
+    "id": "ffe3dbf8-021b-49cc-b3dc-00ccbfcf8b83",
+    "wordId": "ai",
+    "frames": 19,
+    "validFrames": 19,
+    "poseFrames": 19
+  }
+]

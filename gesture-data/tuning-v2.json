@@ -1,0 +1,437 @@
+[
+  {
+    "name": "balanced",
+    "k": 1,
+    "top1": 105,
+    "correct": 89,
+    "wrong": 15,
+    "options": {
+      "shape": 0.55,
+      "position": 0.3,
+      "elbow": 0.05,
+      "velocity": 0.1,
+      "missing": 0.9,
+      "maxDistance": 0.6985078163747426,
+      "minMargin": 0.08,
+      "k": 1,
+      "band": 10
+    },
+    "byWord": {
+      "keshe": 9,
+      "erten": 7,
+      "at": 15,
+      "salem": 13,
+      "ake": 13,
+      "ana": 12,
+      "ia": 10,
+      "bugin": 4,
+      "qala": 6
+    }
+  },
+  {
+    "name": "balanced",
+    "k": 2,
+    "top1": 97,
+    "correct": 82,
+    "wrong": 13,
+    "options": {
+      "shape": 0.55,
+      "position": 0.3,
+      "elbow": 0.05,
+      "velocity": 0.1,
+      "missing": 0.9,
+      "maxDistance": 0.7264968036335275,
+      "minMargin": 0.08,
+      "k": 2,
+      "band": 10
+    },
+    "byWord": {
+      "keshe": 9,
+      "erten": 0,
+      "at": 14,
+      "salem": 15,
+      "ake": 13,
+      "ana": 12,
+      "ia": 9,
+      "bugin": 5,
+      "qala": 5
+    }
+  },
+  {
+    "name": "balanced",
+    "k": 3,
+    "top1": 96,
+    "correct": 77,
+    "wrong": 14,
+    "options": {
+      "shape": 0.55,
+      "position": 0.3,
+      "elbow": 0.05,
+      "velocity": 0.1,
+      "missing": 0.9,
+      "maxDistance": 0.7411228814997366,
+      "minMargin": 0.08,
+      "k": 3,
+      "band": 10
+    },
+    "byWord": {
+      "keshe": 9,
+      "erten": 0,
+      "at": 14,
+      "salem": 15,
+      "ake": 11,
+      "ana": 12,
+      "ia": 8,
+      "bugin": 1,
+      "qala": 7
+    }
+  },
+  {
+    "name": "shape",
+    "k": 1,
+    "top1": 104,
+    "correct": 91,
+    "wrong": 14,
+    "options": {
+      "shape": 0.8,
+      "position": 0.15,
+      "elbow": 0,
+      "velocity": 0.05,
+      "missing": 0.9,
+      "maxDistance": 0.7558451817034098,
+      "minMargin": 0.08,
+      "k": 1,
+      "band": 10
+    },
+    "byWord": {
+      "keshe": 9,
+      "erten": 8,
+      "at": 15,
+      "salem": 14,
+      "ake": 13,
+      "ana": 12,
+      "ia": 11,
+      "bugin": 3,
+      "qala": 6
+    }
+  },
+  {
+    "name": "shape",
+    "k": 2,
+    "top1": 97,
+    "correct": 77,
+    "wrong": 15,
+    "options": {
+      "shape": 0.8,
+      "position": 0.15,
+      "elbow": 0,
+      "velocity": 0.05,
+      "missing": 0.9,
+      "maxDistance": 0.82612082984634,
+      "minMargin": 0.08,
+      "k": 2,
+      "band": 10
+    },
+    "byWord": {
+      "keshe": 9,
+      "erten": 1,
+      "at": 13,
+      "salem": 15,
+      "ake": 13,
+      "ana": 12,
+      "ia": 7,
+      "bugin": 2,
+      "qala": 5
+    }
+  },
+  {
+    "name": "shape",
+    "k": 3,
+    "top1": 89,
+    "correct": 73,
+    "wrong": 9,
+    "options": {
+      "shape": 0.8,
+      "position": 0.15,
+      "elbow": 0,
+      "velocity": 0.05,
+      "missing": 0.9,
+      "maxDistance": 0.8295403249581424,
+      "minMargin": 0.08,
+      "k": 3,
+      "band": 10
+    },
+    "byWord": {
+      "keshe": 9,
+      "erten": 1,
+      "at": 13,
+      "salem": 14,
+      "ake": 12,
+      "ana": 12,
+      "ia": 7,
+      "bugin": 0,
+      "qala": 5
+    }
+  },
+  {
+    "name": "position",
+    "k": 1,
+    "top1": 98,
+    "correct": 80,
+    "wrong": 15,
+    "options": {
+      "shape": 0.3,
+      "position": 0.55,
+      "elbow": 0,
+      "velocity": 0.15,
+      "missing": 0.9,
+      "maxDistance": 0.5880344145900591,
+      "minMargin": 0.08,
+      "k": 1,
+      "band": 10
+    },
+    "byWord": {
+      "keshe": 9,
+      "erten": 4,
+      "at": 15,
+      "salem": 10,
+      "ake": 12,
+      "ana": 12,
+      "ia": 8,
+      "bugin": 6,
+      "qala": 4
+    }
+  },
+  {
+    "name": "position",
+    "k": 2,
+    "top1": 94,
+    "correct": 78,
+    "wrong": 21,
+    "options": {
+      "shape": 0.3,
+      "position": 0.55,
+      "elbow": 0,
+      "velocity": 0.15,
+      "missing": 0.9,
+      "maxDistance": 0.6339170640830282,
+      "minMargin": 0.08,
+      "k": 2,
+      "band": 10
+    },
+    "byWord": {
+      "keshe": 9,
+      "erten": 0,
+      "at": 14,
+      "salem": 12,
+      "ake": 13,
+      "ana": 12,
+      "ia": 8,
+      "bugin": 8,
+      "qala": 2
+    }
+  },
+  {
+    "name": "position",
+    "k": 3,
+    "top1": 95,
+    "correct": 75,
+    "wrong": 18,
+    "options": {
+      "shape": 0.3,
+      "position": 0.55,
+      "elbow": 0,
+      "velocity": 0.15,
+      "missing": 0.9,
+      "maxDistance": 0.6537059132343414,
+      "minMargin": 0.08,
+      "k": 3,
+      "band": 10
+    },
+    "byWord": {
+      "keshe": 9,
+      "erten": 0,
+      "at": 14,
+      "salem": 12,
+      "ake": 11,
+      "ana": 12,
+      "ia": 8,
+      "bugin": 6,
+      "qala": 3
+    }
+  },
+  {
+    "name": "motion",
+    "k": 1,
+    "top1": 101,
+    "correct": 84,
+    "wrong": 17,
+    "options": {
+      "shape": 0.35,
+      "position": 0.25,
+      "elbow": 0,
+      "velocity": 0.4,
+      "missing": 0.9,
+      "maxDistance": 0.6795976337468126,
+      "minMargin": 0.08,
+      "k": 1,
+      "band": 10
+    },
+    "byWord": {
+      "keshe": 9,
+      "erten": 6,
+      "at": 14,
+      "salem": 9,
+      "ake": 13,
+      "ana": 12,
+      "ia": 9,
+      "bugin": 7,
+      "qala": 5
+    }
+  },
+  {
+    "name": "motion",
+    "k": 2,
+    "top1": 97,
+    "correct": 76,
+    "wrong": 19,
+    "options": {
+      "shape": 0.35,
+      "position": 0.25,
+      "elbow": 0,
+      "velocity": 0.4,
+      "missing": 0.9,
+      "maxDistance": 0.7205610776436051,
+      "minMargin": 0.08,
+      "k": 2,
+      "band": 10
+    },
+    "byWord": {
+      "keshe": 9,
+      "erten": 0,
+      "at": 14,
+      "salem": 11,
+      "ake": 13,
+      "ana": 12,
+      "ia": 8,
+      "bugin": 7,
+      "qala": 2
+    }
+  },
+  {
+    "name": "motion",
+    "k": 3,
+    "top1": 93,
+    "correct": 68,
+    "wrong": 13,
+    "options": {
+      "shape": 0.35,
+      "position": 0.25,
+      "elbow": 0,
+      "velocity": 0.4,
+      "missing": 0.9,
+      "maxDistance": 0.7255960586483685,
+      "minMargin": 0.08,
+      "k": 3,
+      "band": 10
+    },
+    "byWord": {
+      "keshe": 9,
+      "erten": 0,
+      "at": 14,
+      "salem": 9,
+      "ake": 9,
+      "ana": 12,
+      "ia": 8,
+      "bugin": 3,
+      "qala": 4
+    }
+  },
+  {
+    "name": "noElbow",
+    "k": 1,
+    "top1": 108,
+    "correct": 88,
+    "wrong": 16,
+    "options": {
+      "shape": 0.55,
+      "position": 0.3,
+      "elbow": 0,
+      "velocity": 0.15,
+      "missing": 0.9,
+      "maxDistance": 0.7268176130755952,
+      "minMargin": 0.08,
+      "k": 1,
+      "band": 10
+    },
+    "byWord": {
+      "keshe": 9,
+      "erten": 7,
+      "at": 15,
+      "salem": 13,
+      "ake": 13,
+      "ana": 12,
+      "ia": 9,
+      "bugin": 4,
+      "qala": 6
+    }
+  },
+  {
+    "name": "noElbow",
+    "k": 2,
+    "top1": 98,
+    "correct": 80,
+    "wrong": 12,
+    "options": {
+      "shape": 0.55,
+      "position": 0.3,
+      "elbow": 0,
+      "velocity": 0.15,
+      "missing": 0.9,
+      "maxDistance": 0.7595495891874646,
+      "minMargin": 0.08,
+      "k": 2,
+      "band": 10
+    },
+    "byWord": {
+      "keshe": 9,
+      "erten": 0,
+      "at": 14,
+      "salem": 13,
+      "ake": 13,
+      "ana": 12,
+      "ia": 9,
+      "bugin": 5,
+      "qala": 5
+    }
+  },
+  {
+    "name": "noElbow",
+    "k": 3,
+    "top1": 94,
+    "correct": 74,
+    "wrong": 11,
+    "options": {
+      "shape": 0.55,
+      "position": 0.3,
+      "elbow": 0,
+      "velocity": 0.15,
+      "missing": 0.9,
+      "maxDistance": 0.7600425947345899,
+      "minMargin": 0.08,
+      "k": 3,
+      "band": 10
+    },
+    "byWord": {
+      "keshe": 9,
+      "erten": 0,
+      "at": 14,
+      "salem": 13,
+      "ake": 12,
+      "ana": 12,
+      "ia": 8,
+      "bugin": 0,
+      "qala": 6
+    }
+  }
+]

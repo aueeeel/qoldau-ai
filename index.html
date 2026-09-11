@@ -1,0 +1,125 @@
+<!doctype html>
+<html lang="ru">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="description" content="Qoldau AI — веб-платформа для изучения казахского жестового языка.">
+<title>Qoldau AI</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css?v=webm-player-1">
+</head>
+<body>
+<header class="header">
+<a class="brand" href="#home"><span class="logo">Q</span> Qoldau AI</a>
+<nav>
+<a href="#dictionary" data-i18n="nav.dictionary">Словарь</a>
+<a href="#translator" data-i18n="nav.translator">Переводчик</a>
+<a href="#about" data-i18n="nav.about">О проекте</a>
+<select id="lang" aria-label="Language"><option value="ru">RU</option><option value="kz">KZ</option><option value="en">ENG</option></select>
+</nav>
+</header>
+
+<main>
+<section id="home" class="hero">
+<div>
+<span class="eyebrow" data-i18n="hero.tag">Веб-платформа</span>
+<h1 data-i18n="hero.title">Изучайте казахский жестовый язык</h1>
+<p data-i18n="hero.text">Qoldau AI объединяет обучение и инструменты перевода, чтобы сделать коммуникацию доступнее.</p>
+<div class="actions"><a class="btn primary" href="#translator" data-i18n="hero.start">Начать обучение</a><a class="btn" href="#barriers" data-i18n="hero.more">Узнать больше</a></div>
+</div>
+<div class="hero-art"><div class="hand hand-ai"></div><div class="hand hand-human"></div><div class="dots">● ● ● ● ●<br>● ● ● ●</div><small>AI · MediaPipe · 3D landmarks</small></div>
+</section>
+
+<section id="barriers" class="section">
+<div class="heading"><span class="eyebrow" data-i18n="bar.tag">Проблема и решение</span><h2 data-i18n="bar.title">Преодолеваем барьеры в общении</h2><p data-i18n="bar.text">Мы объединяем обучение и инструменты перевода, чтобы сделать жестовый язык доступнее.</p></div>
+<div class="grid six">
+<article><b>01</b><h3 data-i18n="c1t">Сложно найти качественные материалы</h3><p data-i18n="c1p">Многие курсы статичны и не предлагают практику с сопровождением.</p></article>
+<article><b>02</b><h3 data-i18n="c2t">Мало возможностей для практики</h3><p data-i18n="c2p">Многим учащимся не хватает регулярного общения на жестовом языке в реальных ситуациях.</p></article>
+<article><b>03</b><h3 data-i18n="c3t">Барьеры в повседневном общении</h3><p data-i18n="c3p">Для общения слышащих и глухих людей часто требуется помощь переводчика.</p></article>
+<article><b>04</b><h3 data-i18n="c4t">Видеоуроки по шагам</h3><p data-i18n="c4p">Проходите последовательные уроки и упражнения с жестами.</p></article>
+<article><b>05</b><h3 data-i18n="c5t">Интерактивная практика</h3><p data-i18n="c5p">Записывайте жесты и просматривайте учебную обратную связь.</p></article>
+<article><b>06</b><h3 data-i18n="c6t">Двусторонний перевод</h3><p data-i18n="c6p">Переводите текст в жесты и отправляйте записанные жесты для распознавания текста.</p></article>
+</div>
+</section>
+
+<section class="section">
+<div class="heading"><span class="eyebrow" data-i18n="features.tag">Возможности</span><h2 data-i18n="features.title">Всё для обучения и общения</h2></div>
+<div class="grid three">
+<button class="feature" onclick="setMode('text-sign');location.hash='translator'"><strong>↔</strong><h3 data-i18n="f1t">Текст → жест</h3><p data-i18n="f1p">Введите слово и найдите доступную визуализацию жеста.</p></button>
+<button class="feature" onclick="location.hash='dictionary'"><strong>Aa</strong><h3 data-i18n="f2t">Словарь казахского жестового языка</h3><p data-i18n="f2p">Базовые слова, переводы и проверенные материалы.</p></button>
+<button class="feature" onclick="setMode('sign-text');location.hash='translator'"><strong>⌁</strong><h3 data-i18n="f3t">Жест → текст</h3><p data-i18n="f3p">Камера и слой распознавания на основе ключевых точек руки.</p></button>
+</div>
+</section>
+
+<section id="translator" class="section translator">
+<div class="heading"><span class="eyebrow" data-i18n="tr.tag">Инструменты перевода</span><h2 data-i18n="tr.title">Переводчик</h2></div>
+<div class="tabs"><button id="tabSign" class="active" onclick="setMode('sign-text')" data-i18n="tr.st">Жест → текст</button><button id="tabText" onclick="setMode('text-sign')" data-i18n="tr.ts">Текст → жест</button></div>
+<div class="engine-choice"><label for="engine">Режим распознавания</label><select id="engine" disabled><option value="landmarks">Эталоны движения — без обучения</option></select><p id="readyWords">Загружаем список доступных слов…</p></div>
+
+<div id="signView" class="translation-view">
+<div class="panel">
+<div class="panel-title"><b>Camera</b><span id="camStatus" data-i18n="cam.off">Камера выключена</span></div>
+<div class="camera"><video id="video" autoplay playsinline muted></video><canvas id="canvas"></canvas><div id="cameraPlaceholder" data-i18n="cam.permission">Разрешите доступ к камере, чтобы начать распознавание.</div></div>
+<div class="actions"><button class="btn primary" id="start" data-i18n="cam.start">Включить камеру</button><button class="btn" id="stop" disabled data-i18n="cam.stop">Остановить</button><button class="btn" id="switch" disabled data-i18n="cam.switch">Переключить камеру</button></div>
+<label class="note"><input type="checkbox" id="mirrorPreview"> Отразить изображение</label>
+<p id="camMessage" class="note"></p>
+<div id="captureOptions"><p class="note">Нажмите «Показать жест». Отсчёт — 3 секунды, запись — 2 секунды. Покажите одно слово один раз. Лицо, плечи и кисти должны быть видны.</p><div id="captureCue" role="status" aria-live="polite">Готов к записи одного жеста</div><progress id="gestureProgress" max="100" value="0" aria-label="Запись жеста"></progress></div>
+</div>
+<div class="panel">
+<div class="panel-title"><b data-i18n="result.title">Результат распознавания</b><span id="badge">—</span></div>
+<div class="result"><span>Слово на казахском</span><strong id="resultText" lang="kk" aria-live="polite">—</strong></div>
+<p id="recognitionMessage" role="status" aria-live="polite">Включите камеру и нажмите «Показать жест». Обучать модель не нужно.</p>
+<button class="btn primary" id="recognize" disabled>Показать жест</button>
+<details class="demo" id="wordExamples"><summary>Как показать слово: видеообразцы</summary><label for="exampleWord">Выберите пример</label> <select id="exampleWord"></select><video id="exampleVideo" controls playsinline preload="none" aria-label="Видеообразец выбранного жеста"></video><label><input type="checkbox" id="slowExample"> Замедлить вдвое</label><p class="note" id="exampleCaption"></p><p class="note">Примеры РЖЯ из открытой тестовой части Slovo. Выбор видео не подсказывает ответ распознавателю. После просмотра покажите жест один раз после отсчёта.</p></details>
+<div class="notice"><b id="modelTitle">Эталоны движения · РЖЯ → қазақша</b><p id="modelDescription">Сравниваем последовательность движений рук и их положение относительно тела с эталонами Slovo (РЖЯ). Вывод — на казахском. Варианты жестов Казахстана отдельно не проверены; возможны ошибки.</p></div>
+<p class="note">Распознавание работает в вашем браузере. Изображение камеры не отправляется на сервер и не сохраняется. <a href="https://github.com/hukenovs/slovo" target="_blank" rel="noopener noreferrer">О модели Slovo</a></p>
+<details id="debugPanel" class="demo hidden"><summary>Диагностика для разработки</summary><pre id="debugOutput">Запишите жест для диагностики.</pre><p class="note">Расстояния DTW и отрыв от второго кандидата не являются вероятностями. <a href="gesture-data/evaluation-heldout.json" target="_blank" rel="noopener">Результаты проверки</a></p></details>
+</div>
+</div>
+
+<div class="training panel hidden">
+<span class="eyebrow">Моя база жестов</span><h3>Сбор примеров для разработки</h3>
+<p>Выберите слово и код исполнителя. Запишите по 20–30 примеров каждого слова от нескольких людей. Отсчёт — 3 секунды, запись — 2 секунды. Эталоны обновляются отдельно после проверки выгруженной базы.</p>
+<div class="training-controls"><label for="trainingWord">Слово на казахском</label><select id="trainingWord"></select><label for="signerId">Код исполнителя</label><input id="signerId" maxlength="64" placeholder="person-01" autocomplete="off"><button class="btn" id="record" disabled>Записать пример</button><button class="btn" id="deleteSample" disabled>Удалить последний пример</button></div>
+<p id="sampleStatus" role="status" aria-live="polite">Загрузка базы…</p>
+<progress id="captureProgress" max="100" value="0" aria-label="Ход записи"></progress>
+<p class="note">Доступно только с ?dev=1. Здесь сохраняются координаты рук и тела, метка слова, код исполнителя и время — без видео и звука. Собственные записи требуют проверки.</p>
+<button class="btn" id="exportSamples" disabled>Скачать мою базу JSON</button>
+</div>
+<div id="textView" class="translation-view hidden">
+<div class="panel"><div class="panel-title"><b data-i18n="text.input">Введите текст</b></div><label class="note" for="textInput">Одно слово на казахском или русском</label><textarea id="textInput" rows="2" placeholder="Например: Сәлем, папа или вода"></textarea><button class="btn primary" onclick="showSign()" data-i18n="text.show">Показать жест</button><p class="note" id="textWordsHint">Или выберите слово:</p><div id="textWords" class="text-words" aria-label="Слова с видеообразцами"></div></div>
+<div class="panel"><div class="panel-title"><b data-i18n="text.visual">Видео жеста</b></div><div id="signResult" class="sign-result"><span>✦</span><p data-i18n="text.empty">Выберите слово слева — здесь появится видео, которое можно замедлить и повторить.</p></div><aside class="teacher-course"><b>Нужны объяснения преподавателя?</b><p>Бесплатный вводный курс РЖЯ: алфавит, числа, базовые фразы и правила общения. Это общий курс, поэтому он может не содержать каждое из наших 50 слов.</p><a class="btn" href="https://surdoclass.ru/courses/jestoviyyazik" target="_blank" rel="noopener noreferrer">Открыть курс Surdoclass ↗</a></aside></div>
+</div>
+</section>
+
+<section id="dictionary" class="section">
+<div class="heading"><span class="eyebrow" data-i18n="dict.tag">Учебный раздел</span><h2 data-i18n="dict.title">Словарь</h2><p data-i18n="dict.text">Слова с видеообразцами РЖЯ и казахским переводом.</p></div>
+<input class="search" id="search" placeholder="Поиск слова..." data-placeholder="dict.search" aria-label="Dictionary search">
+<div id="dictionaryGrid" class="grid four"></div>
+<p class="note" data-i18n="dict.note">Интерфейс не выдумывает жесты: если проверенный материал не подключён, это обозначается явно.</p>
+<p class="note">Материалы исследования: <a href="https://krslproject.github.io/FluentSigners-50/" target="_blank" rel="noopener noreferrer">FluentSigners-50</a> · <a href="https://special-edu.kz/kz/news/6/single/961" target="_blank" rel="noopener noreferrer">е-Ымдау</a>. Казахские переводы добавлены для проекта; пользовательские жесты требуют проверки.</p>
+</section>
+
+<section class="section interface"><div><span class="eyebrow">Qoldau AI</span><h2 data-i18n="int.title">Интерфейс — ваше пространство для обучения</h2><p data-i18n="int.text">Выберите направление, выполните упражнение, получите результат и продолжите обучение.</p><a class="btn primary" href="#translator" data-i18n="int.start">Начать</a></div><div class="laptop"><div></div><div></div><div></div></div></section>
+
+<section id="about" class="section about"><div class="heading"><span class="eyebrow">Qoldau AI</span><h2 data-i18n="about.title">Технологии с человеческим смыслом</h2></div><div class="grid three">
+<article><b>01</b><h3 data-i18n="mission.t">Миссия</h3><p data-i18n="mission.p">Снижать коммуникационные барьеры и поддерживать инклюзивное взаимодействие, объединяя AI, доступный дизайн и образовательные инструменты.</p></article>
+<article><b>02</b><h3 data-i18n="values.t">Ценности</h3><p data-i18n="values.p">Доступность, инклюзия, человекоцентричная технология, научная ответственность, приватность и равный доступ.</p></article>
+<article><b>03</b><h3 data-i18n="vision.t">Видение</h3><p data-i18n="vision.p">Инклюзивная цифровая среда Казахстана, где коммуникационные барьеры не мешают учёбе и участию.</p></article>
+</div></section>
+
+<section class="section team"><div class="heading"><span class="eyebrow" data-i18n="team.tag">Команда</span><h2 data-i18n="team.title">Люди за проектом</h2></div><div class="team-grid">
+<article><div class="avatar">GB</div><h3>Берікқызы Ғайнижамал</h3><b>Founder & Developer</b><p>Қызылорда қаласындағы НЗМ мектебінің 12-сынып оқушысы, Қанипа Бітібаева атындағы қазақ тілі мен әдебиетінен республикалық олимпиядасының жүлдегері, жалпы білім беретін пәндер бойынша республикалық олимпиаданың қатысушысы.</p></article>
+<article><div class="avatar">EA</div><h3>Ерланқызы Айшабибі</h3><b>Founder & Developer</b><p>Қызылорда қаласындағы НЗМ мектебінің 12 сынып оқушысы, Қызыл аттестатқа үміткер, IELTS 8.0 иегері, 2023-2024 қаржы саласасы бойынша Вице-Министр.</p></article>
+<article class="third"><div class="avatar">KA</div><h3>Құрақбаева Айнұр Сабитқызы</h3><b>Mentor · Physics Expert</b><p>Педагогика ғылымдарының магистрі, докторант, физика пәнінің сарапшы-мұғалімі. Халықаралық IMPACT-2026 олимпиадасының жүлдегері, халықаралық ECER-2023 (Шотландия), WALS-2025 (Жапония) конференцияларының спикері.</p></article>
+</div></section>
+</main>
+<footer><b>Qoldau AI</b><span data-i18n="footer">Ассистивная технология для инклюзивной коммуникации · © 2026 Qoldau AI Project</span></footer>
+<script src="landmark-recognition.js"></script>
+
+<script src="app.js?v=learning-player-2"></script>
+</body></html>
+
+

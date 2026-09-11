@@ -1,0 +1,4916 @@
+{
+  "mode": "train",
+  "options": {
+    "shape": 0.55,
+    "position": 0.3,
+    "elbow": 0.05,
+    "velocity": 0.1,
+    "missing": 0.9,
+    "maxDistance": 0.65,
+    "minMargin": 0.08,
+    "k": 2,
+    "band": 10
+  },
+  "samples": 135,
+  "accuracy": 0.562962962962963,
+  "top1": 0.7185185185185186,
+  "unknown": {
+    "samples": 0,
+    "rejected": 0
+  },
+  "medianMs": 27,
+  "byWord": [
+    {
+      "wordId": "ake",
+      "samples": 15,
+      "correct": 13,
+      "accuracy": 0.8666666666666667,
+      "top1": 13,
+      "rejected": 2,
+      "confusions": {}
+    },
+    {
+      "wordId": "ana",
+      "samples": 15,
+      "correct": 12,
+      "accuracy": 0.8,
+      "top1": 12,
+      "rejected": 1,
+      "confusions": {
+        "salem": 2
+      }
+    },
+    {
+      "wordId": "at",
+      "samples": 15,
+      "correct": 14,
+      "accuracy": 0.9333333333333333,
+      "top1": 15,
+      "rejected": 1,
+      "confusions": {}
+    },
+    {
+      "wordId": "bugin",
+      "samples": 15,
+      "correct": 3,
+      "accuracy": 0.2,
+      "top1": 12,
+      "rejected": 12,
+      "confusions": {}
+    },
+    {
+      "wordId": "erten",
+      "samples": 15,
+      "correct": 0,
+      "accuracy": 0,
+      "top1": 1,
+      "rejected": 11,
+      "confusions": {
+        "keshe": 4
+      }
+    },
+    {
+      "wordId": "ia",
+      "samples": 15,
+      "correct": 7,
+      "accuracy": 0.4666666666666667,
+      "top1": 11,
+      "rejected": 8,
+      "confusions": {}
+    },
+    {
+      "wordId": "keshe",
+      "samples": 15,
+      "correct": 9,
+      "accuracy": 0.6,
+      "top1": 9,
+      "rejected": 1,
+      "confusions": {
+        "ake": 2,
+        "ana": 2,
+        "salem": 1
+      }
+    },
+    {
+      "wordId": "qala",
+      "samples": 15,
+      "correct": 3,
+      "accuracy": 0.2,
+      "top1": 9,
+      "rejected": 10,
+      "confusions": {
+        "at": 2
+      }
+    },
+    {
+      "wordId": "salem",
+      "samples": 15,
+      "correct": 15,
+      "accuracy": 1,
+      "top1": 15,
+      "rejected": 0,
+      "confusions": {}
+    }
+  ],
+  "matrix": {
+    "ake": {
+      "ake": 13,
+      "ana": 0,
+      "at": 0,
+      "bugin": 0,
+      "erten": 0,
+      "ia": 0,
+      "keshe": 0,
+      "qala": 0,
+      "salem": 0,
+      "rejected": 2
+    },
+    "ana": {
+      "ake": 0,
+      "ana": 12,
+      "at": 0,
+      "bugin": 0,
+      "erten": 0,
+      "ia": 0,
+      "keshe": 0,
+      "qala": 0,
+      "salem": 2,
+      "rejected": 1
+    },
+    "at": {
+      "ake": 0,
+      "ana": 0,
+      "at": 14,
+      "bugin": 0,
+      "erten": 0,
+      "ia": 0,
+      "keshe": 0,
+      "qala": 0,
+      "salem": 0,
+      "rejected": 1
+    },
+    "bugin": {
+      "ake": 0,
+      "ana": 0,
+      "at": 0,
+      "bugin": 3,
+      "erten": 0,
+      "ia": 0,
+      "keshe": 0,
+      "qala": 0,
+      "salem": 0,
+      "rejected": 12
+    },
+    "erten": {
+      "ake": 0,
+      "ana": 0,
+      "at": 0,
+      "bugin": 0,
+      "erten": 0,
+      "ia": 0,
+      "keshe": 4,
+      "qala": 0,
+      "salem": 0,
+      "rejected": 11
+    },
+    "ia": {
+      "ake": 0,
+      "ana": 0,
+      "at": 0,
+      "bugin": 0,
+      "erten": 0,
+      "ia": 7,
+      "keshe": 0,
+      "qala": 0,
+      "salem": 0,
+      "rejected": 8
+    },
+    "keshe": {
+      "ake": 2,
+      "ana": 2,
+      "at": 0,
+      "bugin": 0,
+      "erten": 0,
+      "ia": 0,
+      "keshe": 9,
+      "qala": 0,
+      "salem": 1,
+      "rejected": 1
+    },
+    "qala": {
+      "ake": 0,
+      "ana": 0,
+      "at": 2,
+      "bugin": 0,
+      "erten": 0,
+      "ia": 0,
+      "keshe": 0,
+      "qala": 3,
+      "salem": 0,
+      "rejected": 10
+    },
+    "salem": {
+      "ake": 0,
+      "ana": 0,
+      "at": 0,
+      "bugin": 0,
+      "erten": 0,
+      "ia": 0,
+      "keshe": 0,
+      "qala": 0,
+      "salem": 15,
+      "rejected": 0
+    }
+  },
+  "results": [
+    {
+      "id": "01097605-eacf-4ff3-83f5-b0f847aa50cb",
+      "truth": "keshe",
+      "signerId": "0211b488644476dd0fec656ccb9b74fc",
+      "quality": {
+        "validFrames": 18,
+        "totalFrames": 19,
+        "poseFrames": 19,
+        "duration": 1200,
+        "left": 18,
+        "right": 0
+      },
+      "reason": "match",
+      "wordId": "keshe",
+      "distance": 0.36177765475050294,
+      "margin": 0.32136901172778454,
+      "top": [
+        {
+          "wordId": "keshe",
+          "distance": 0.36177765475050294,
+          "references": 2
+        },
+        {
+          "wordId": "erten",
+          "distance": 0.5330992262401449,
+          "references": 2
+        },
+        {
+          "wordId": "salem",
+          "distance": 0.545113830665269,
+          "references": 8
+        }
+      ],
+      "ms": 62
+    },
+    {
+      "id": "01825dfe-d96f-44a9-81c6-07ba8af1fcb3",
+      "truth": "erten",
+      "signerId": "db573f94204e56e0cf3fc2ea000e5bdc",
+      "quality": {
+        "validFrames": 22,
+        "totalFrames": 22,
+        "poseFrames": 22,
+        "duration": 1400,
+        "left": 22,
+        "right": 15
+      },
+      "reason": "ambiguous",
+      "wordId": null,
+      "distance": 0.3990421437516172,
+      "margin": 0.030710078048644698,
+      "top": [
+        {
+          "wordId": "salem",
+          "distance": 0.3990421437516172,
+          "references": 8
+        },
+        {
+          "wordId": "ake",
+          "distance": 0.41168502293748543,
+          "references": 3
+        },
+        {
+          "wordId": "ana",
+          "distance": 0.43132068325236583,
+          "references": 12
+        }
+      ],
+      "ms": 23
+    },
+    {
+      "id": "0183f4ad-44ba-4c75-9caa-e90d373e3057",
+      "truth": "at",
+      "signerId": "185bd3a81d9d618518d10abebf0d17a8",
+      "quality": {
+        "validFrames": 27,
+        "totalFrames": 28,
+        "poseFrames": 28,
+        "duration": 1800,
+        "left": 27,
+        "right": 27
+      },
+      "reason": "match",
+      "wordId": "at",
+      "distance": 0.2224490125065972,
+      "margin": 0.6546457375694316,
+      "top": [
+        {
+          "wordId": "at",
+          "distance": 0.2224490125065972,
+          "references": 3
+        },
+        {
+          "wordId": "qala",
+          "distance": 0.6441183350135119,
+          "references": 2
+        },
+        {
+          "wordId": "ake",
+          "distance": 0.7029406466043534,
+          "references": 3
+        }
+      ],
+      "ms": 27
+    },
+    {
+      "id": "02105473-a1d2-4bfe-af7e-f7b38314973a",
+      "truth": "salem",
+      "signerId": "0211b488644476dd0fec656ccb9b74fc",
+      "quality": {
+        "validFrames": 16,
+        "totalFrames": 16,
+        "poseFrames": 16,
+        "duration": 1000,
+        "left": 13,
+        "right": 16
+      },
+      "reason": "match",
+      "wordId": "salem",
+      "distance": 0.5039611735793253,
+      "margin": 0.10853121785692128,
+      "top": [
+        {
+          "wordId": "salem",
+          "distance": 0.5039611735793253,
+          "references": 8
+        },
+        {
+          "wordId": "ana",
+          "distance": 0.5653155597527595,
+          "references": 12
+        },
+        {
+          "wordId": "keshe",
+          "distance": 0.5856759861119022,
+          "references": 2
+        }
+      ],
+      "ms": 42
+    },
+    {
+      "id": "055a4aa1-0eb4-4780-a8c9-d9d4e241b01a",
+      "truth": "salem",
+      "signerId": "0211b488644476dd0fec656ccb9b74fc",
+      "quality": {
+        "validFrames": 15,
+        "totalFrames": 17,
+        "poseFrames": 17,
+        "duration": 1067,
+        "left": 14,
+        "right": 1
+      },
+      "reason": "match",
+      "wordId": "salem",
+      "distance": 0.21425706577497677,
+      "margin": 0.2721320470050552,
+      "top": [
+        {
+          "wordId": "salem",
+          "distance": 0.21425706577497677,
+          "references": 8
+        },
+        {
+          "wordId": "ana",
+          "distance": 0.2943625487196918,
+          "references": 12
+        },
+        {
+          "wordId": "keshe",
+          "distance": 0.5435427497502497,
+          "references": 2
+        }
+      ],
+      "ms": 19
+    },
+    {
+      "id": "05a0ac4d-4b7f-4bd8-8bdb-4c8f3c2aee15",
+      "truth": "ake",
+      "signerId": "185bd3a81d9d618518d10abebf0d17a8",
+      "quality": {
+        "validFrames": 28,
+        "totalFrames": 36,
+        "poseFrames": 36,
+        "duration": 2333,
+        "left": 0,
+        "right": 28
+      },
+      "reason": "match",
+      "wordId": "ake",
+      "distance": 0.27974663249189796,
+      "margin": 0.2840856231252695,
+      "top": [
+        {
+          "wordId": "ake",
+          "distance": 0.27974663249189796,
+          "references": 3
+        },
+        {
+          "wordId": "keshe",
+          "distance": 0.39075431577880937,
+          "references": 2
+        },
+        {
+          "wordId": "ana",
+          "distance": 0.4587569993282878,
+          "references": 12
+        }
+      ],
+      "ms": 14
+    },
+    {
+      "id": "09cd0659-5272-4a3f-812b-8158c808724a",
+      "truth": "ana",
+      "signerId": "53c3af7712ee8220b2faed1a55a82eca",
+      "quality": {
+        "validFrames": 22,
+        "totalFrames": 24,
+        "poseFrames": 24,
+        "duration": 1533,
+        "left": 22,
+        "right": 0
+      },
+      "reason": "match",
+      "wordId": "ana",
+      "distance": 0.2349054273902735,
+      "margin": 0.3010557932038775,
+      "top": [
+        {
+          "wordId": "ana",
+          "distance": 0.2349054273902735,
+          "references": 12
+        },
+        {
+          "wordId": "salem",
+          "distance": 0.33608609257533184,
+          "references": 9
+        },
+        {
+          "wordId": "keshe",
+          "distance": 0.45578679078986295,
+          "references": 3
+        }
+      ],
+      "ms": 18
+    },
+    {
+      "id": "0b20996d-d531-48df-b3f5-9677f475db28",
+      "truth": "ana",
+      "signerId": "4299b8ccf39ace57287b463fbe4a489b",
+      "quality": {
+        "validFrames": 16,
+        "totalFrames": 18,
+        "poseFrames": 18,
+        "duration": 1133,
+        "left": 8,
+        "right": 16
+      },
+      "reason": "match",
+      "wordId": "ana",
+      "distance": 0.3760377644499394,
+      "margin": 0.24682196727796468,
+      "top": [
+        {
+          "wordId": "ana",
+          "distance": 0.3760377644499394,
+          "references": 12
+        },
+        {
+          "wordId": "salem",
+          "distance": 0.4992680987932083,
+          "references": 9
+        },
+        {
+          "wordId": "keshe",
+          "distance": 0.6292905655077676,
+          "references": 3
+        }
+      ],
+      "ms": 25
+    },
+    {
+      "id": "0c3a65e2-e575-4c04-9105-39ba9a92824f",
+      "truth": "at",
+      "signerId": "db573f94204e56e0cf3fc2ea000e5bdc",
+      "quality": {
+        "validFrames": 23,
+        "totalFrames": 23,
+        "poseFrames": 23,
+        "duration": 1467,
+        "left": 23,
+        "right": 22
+      },
+      "reason": "match",
+      "wordId": "at",
+      "distance": 0.29758149131806,
+      "margin": 0.49683413954999794,
+      "top": [
+        {
+          "wordId": "at",
+          "distance": 0.29758149131806,
+          "references": 3
+        },
+        {
+          "wordId": "qala",
+          "distance": 0.591418287107,
+          "references": 2
+        },
+        {
+          "wordId": "keshe",
+          "distance": 0.671770815189907,
+          "references": 2
+        }
+      ],
+      "ms": 22
+    },
+    {
+      "id": "0ffb6d63-1473-48bd-a0d8-b48e4770fd54",
+      "truth": "ia",
+      "signerId": "2d84da20c251acaeb3186642fcb04f2e",
+      "quality": {
+        "validFrames": 12,
+        "totalFrames": 13,
+        "poseFrames": 13,
+        "duration": 800,
+        "left": 0,
+        "right": 12
+      },
+      "reason": "match",
+      "wordId": "ia",
+      "distance": 0.49510826771833505,
+      "margin": 0.2219038855395842,
+      "top": [
+        {
+          "wordId": "ia",
+          "distance": 0.49510826771833505,
+          "references": 6
+        },
+        {
+          "wordId": "ana",
+          "distance": 0.6363073385370603,
+          "references": 12
+        },
+        {
+          "wordId": "salem",
+          "distance": 0.6627457117858162,
+          "references": 8
+        }
+      ],
+      "ms": 25
+    },
+    {
+      "id": "11da6b76-e8c8-4301-9b94-643e4a9a5a1e",
+      "truth": "bugin",
+      "signerId": "0211b488644476dd0fec656ccb9b74fc",
+      "quality": {
+        "validFrames": 12,
+        "totalFrames": 15,
+        "poseFrames": 15,
+        "duration": 933,
+        "left": 12,
+        "right": 9
+      },
+      "reason": "distance",
+      "wordId": null,
+      "distance": 0.7550616204062739,
+      "margin": 0.12996423758124892,
+      "top": [
+        {
+          "wordId": "bugin",
+          "distance": 0.7550616204062739,
+          "references": 3
+        },
+        {
+          "wordId": "ia",
+          "distance": 0.8678512459156366,
+          "references": 6
+        },
+        {
+          "wordId": "qala",
+          "distance": 0.9415436253861224,
+          "references": 2
+        }
+      ],
+      "ms": 20
+    },
+    {
+      "id": "1249c53c-eb10-42d2-96e9-14e507f0bc86",
+      "truth": "ia",
+      "signerId": "2d84da20c251acaeb3186642fcb04f2e",
+      "quality": {
+        "validFrames": 11,
+        "totalFrames": 13,
+        "poseFrames": 13,
+        "duration": 800,
+        "left": 11,
+        "right": 1
+      },
+      "reason": "match",
+      "wordId": "ia",
+      "distance": 0.6330739016000952,
+      "margin": 0.17682560636929825,
+      "top": [
+        {
+          "wordId": "ia",
+          "distance": 0.6330739016000952,
+          "references": 6
+        },
+        {
+          "wordId": "bugin",
+          "distance": 0.7690641333094106,
+          "references": 4
+        },
+        {
+          "wordId": "ana",
+          "distance": 0.884929795592424,
+          "references": 12
+        }
+      ],
+      "ms": 19
+    },
+    {
+      "id": "15953462-2c18-4d90-a3b6-e359c7862e99",
+      "truth": "ake",
+      "signerId": "db573f94204e56e0cf3fc2ea000e5bdc",
+      "quality": {
+        "validFrames": 11,
+        "totalFrames": 29,
+        "poseFrames": 29,
+        "duration": 1867,
+        "left": 2,
+        "right": 9
+      },
+      "reason": "frames",
+      "wordId": null,
+      "top": [],
+      "ms": 0
+    },
+    {
+      "id": "186bc9b6-0a7e-4496-bafb-edb8975e6e42",
+      "truth": "keshe",
+      "signerId": "0211b488644476dd0fec656ccb9b74fc",
+      "quality": {
+        "validFrames": 23,
+        "totalFrames": 25,
+        "poseFrames": 25,
+        "duration": 1600,
+        "left": 23,
+        "right": 0
+      },
+      "reason": "match",
+      "wordId": "keshe",
+      "distance": 0.24295271843539412,
+      "margin": 0.45122792476241325,
+      "top": [
+        {
+          "wordId": "keshe",
+          "distance": 0.24295271843539412,
+          "references": 2
+        },
+        {
+          "wordId": "erten",
+          "distance": 0.4427206291978497,
+          "references": 2
+        },
+        {
+          "wordId": "ake",
+          "distance": 0.4611082989680105,
+          "references": 3
+        }
+      ],
+      "ms": 17
+    },
+    {
+      "id": "218a911c-b394-4743-a573-eab9e0950a3a",
+      "truth": "keshe",
+      "signerId": "db573f94204e56e0cf3fc2ea000e5bdc",
+      "quality": {
+        "validFrames": 18,
+        "totalFrames": 23,
+        "poseFrames": 23,
+        "duration": 1467,
+        "left": 2,
+        "right": 18
+      },
+      "reason": "match",
+      "wordId": "keshe",
+      "distance": 0.2472885680714903,
+      "margin": 0.2962969298325155,
+      "top": [
+        {
+          "wordId": "keshe",
+          "distance": 0.2472885680714903,
+          "references": 2
+        },
+        {
+          "wordId": "ake",
+          "distance": 0.3514103867880447,
+          "references": 3
+        },
+        {
+          "wordId": "erten",
+          "distance": 0.3769993483957591,
+          "references": 2
+        }
+      ],
+      "ms": 17
+    },
+    {
+      "id": "23a948d2-c62b-4ab3-8a05-c05a567d0576",
+      "truth": "bugin",
+      "signerId": "46dd04a1caa75ed3082b573cb5a3ad26",
+      "quality": {
+        "validFrames": 22,
+        "totalFrames": 22,
+        "poseFrames": 22,
+        "duration": 1400,
+        "left": 20,
+        "right": 20
+      },
+      "reason": "distance",
+      "wordId": null,
+      "distance": 0.737271528581301,
+      "margin": 0.1429452723274313,
+      "top": [
+        {
+          "wordId": "bugin",
+          "distance": 0.737271528581301,
+          "references": 3
+        },
+        {
+          "wordId": "ia",
+          "distance": 0.8602385644420247,
+          "references": 6
+        },
+        {
+          "wordId": "ana",
+          "distance": 1.027641985715436,
+          "references": 12
+        }
+      ],
+      "ms": 38
+    },
+    {
+      "id": "24491c1c-fc65-4fa9-9f20-047fcd4f44e0",
+      "truth": "qala",
+      "signerId": "0211b488644476dd0fec656ccb9b74fc",
+      "quality": {
+        "validFrames": 23,
+        "totalFrames": 25,
+        "poseFrames": 25,
+        "duration": 1600,
+        "left": 16,
+        "right": 18
+      },
+      "reason": "match",
+      "wordId": "at",
+      "distance": 0.6154780714464407,
+      "margin": 0.09373724597387409,
+      "top": [
+        {
+          "wordId": "at",
+          "distance": 0.6154780714464407,
+          "references": 3
+        },
+        {
+          "wordId": "qala",
+          "distance": 0.6791386589729557,
+          "references": 2
+        },
+        {
+          "wordId": "ana",
+          "distance": 0.7704578736787265,
+          "references": 12
+        }
+      ],
+      "ms": 24
+    },
+    {
+      "id": "24d39197-1aaa-4a83-bcaf-9704fe34955e",
+      "truth": "keshe",
+      "signerId": "0211b488644476dd0fec656ccb9b74fc",
+      "quality": {
+        "validFrames": 17,
+        "totalFrames": 19,
+        "poseFrames": 19,
+        "duration": 1200,
+        "left": 17,
+        "right": 0
+      },
+      "reason": "match",
+      "wordId": "keshe",
+      "distance": 0.25712138404231444,
+      "margin": 0.427376633148765,
+      "top": [
+        {
+          "wordId": "keshe",
+          "distance": 0.25712138404231444,
+          "references": 2
+        },
+        {
+          "wordId": "erten",
+          "distance": 0.4490235623044587,
+          "references": 2
+        },
+        {
+          "wordId": "ake",
+          "distance": 0.4521330878435896,
+          "references": 3
+        }
+      ],
+      "ms": 24
+    },
+    {
+      "id": "256a6f31-3413-44c3-bae7-df4b3d99451a",
+      "truth": "bugin",
+      "signerId": "185bd3a81d9d618518d10abebf0d17a8",
+      "quality": {
+        "validFrames": 27,
+        "totalFrames": 27,
+        "poseFrames": 27,
+        "duration": 1733,
+        "left": 25,
+        "right": 26
+      },
+      "reason": "distance",
+      "wordId": null,
+      "distance": 0.7219989012187955,
+      "margin": 0.07361126562434196,
+      "top": [
+        {
+          "wordId": "bugin",
+          "distance": 0.7219989012187955,
+          "references": 3
+        },
+        {
+          "wordId": "ia",
+          "distance": 0.7793692587436185,
+          "references": 6
+        },
+        {
+          "wordId": "ana",
+          "distance": 0.9044142568290021,
+          "references": 12
+        }
+      ],
+      "ms": 34
+    },
+    {
+      "id": "26d64f62-3f1e-47b0-8663-d91a2452195e",
+      "truth": "ake",
+      "signerId": "db573f94204e56e0cf3fc2ea000e5bdc",
+      "quality": {
+        "validFrames": 26,
+        "totalFrames": 26,
+        "poseFrames": 26,
+        "duration": 1667,
+        "left": 26,
+        "right": 22
+      },
+      "reason": "match",
+      "wordId": "ake",
+      "distance": 0.5696420588717304,
+      "margin": 0.15947095814019388,
+      "top": [
+        {
+          "wordId": "ake",
+          "distance": 0.5696420588717304,
+          "references": 3
+        },
+        {
+          "wordId": "keshe",
+          "distance": 0.6777184731312857,
+          "references": 2
+        },
+        {
+          "wordId": "at",
+          "distance": 0.7098858202931064,
+          "references": 3
+        }
+      ],
+      "ms": 38
+    },
+    {
+      "id": "27fc4051-c664-4c11-9300-2a5f39e7b859",
+      "truth": "keshe",
+      "signerId": "185bd3a81d9d618518d10abebf0d17a8",
+      "quality": {
+        "validFrames": 18,
+        "totalFrames": 21,
+        "poseFrames": 21,
+        "duration": 1333,
+        "left": 0,
+        "right": 18
+      },
+      "reason": "match",
+      "wordId": "keshe",
+      "distance": 0.27360937301446836,
+      "margin": 0.40677179053526347,
+      "top": [
+        {
+          "wordId": "keshe",
+          "distance": 0.27360937301446836,
+          "references": 2
+        },
+        {
+          "wordId": "salem",
+          "distance": 0.46122110959851886,
+          "references": 8
+        },
+        {
+          "wordId": "ana",
+          "distance": 0.4690382548107723,
+          "references": 12
+        }
+      ],
+      "ms": 17
+    },
+    {
+      "id": "28262098-2e0b-454b-963e-ce61ba311bc2",
+      "truth": "erten",
+      "signerId": "db573f94204e56e0cf3fc2ea000e5bdc",
+      "quality": {
+        "validFrames": 23,
+        "totalFrames": 23,
+        "poseFrames": 23,
+        "duration": 1467,
+        "left": 13,
+        "right": 19
+      },
+      "reason": "ambiguous",
+      "wordId": null,
+      "distance": 0.6335698467283799,
+      "margin": 0.012042309662105745,
+      "top": [
+        {
+          "wordId": "keshe",
+          "distance": 0.6335698467283799,
+          "references": 2
+        },
+        {
+          "wordId": "ake",
+          "distance": 0.6412924894705672,
+          "references": 3
+        },
+        {
+          "wordId": "erten",
+          "distance": 0.6444684366646424,
+          "references": 2
+        }
+      ],
+      "ms": 19
+    },
+    {
+      "id": "29748c2d-a2ea-472a-b3d1-127e110b6827",
+      "truth": "salem",
+      "signerId": "185bd3a81d9d618518d10abebf0d17a8",
+      "quality": {
+        "validFrames": 32,
+        "totalFrames": 32,
+        "poseFrames": 32,
+        "duration": 2067,
+        "left": 0,
+        "right": 32
+      },
+      "reason": "match",
+      "wordId": "salem",
+      "distance": 0.24198402792685153,
+      "margin": 0.31539105807621354,
+      "top": [
+        {
+          "wordId": "salem",
+          "distance": 0.24198402792685153,
+          "references": 8
+        },
+        {
+          "wordId": "ana",
+          "distance": 0.3534631423990226,
+          "references": 12
+        },
+        {
+          "wordId": "keshe",
+          "distance": 0.4689194141717777,
+          "references": 2
+        }
+      ],
+      "ms": 16
+    },
+    {
+      "id": "2aaf5ee0-093c-4c63-a859-263ef08bb40f",
+      "truth": "at",
+      "signerId": "185bd3a81d9d618518d10abebf0d17a8",
+      "quality": {
+        "validFrames": 23,
+        "totalFrames": 23,
+        "poseFrames": 23,
+        "duration": 1467,
+        "left": 22,
+        "right": 23
+      },
+      "reason": "match",
+      "wordId": "at",
+      "distance": 0.24176835049293394,
+      "margin": 0.6326337076984953,
+      "top": [
+        {
+          "wordId": "at",
+          "distance": 0.24176835049293394,
+          "references": 3
+        },
+        {
+          "wordId": "qala",
+          "distance": 0.6581125039488105,
+          "references": 2
+        },
+        {
+          "wordId": "keshe",
+          "distance": 0.681278039216042,
+          "references": 2
+        }
+      ],
+      "ms": 25
+    },
+    {
+      "id": "2b1b2857-02ca-4e0e-86dc-a525e075eb98",
+      "truth": "ia",
+      "signerId": "db573f94204e56e0cf3fc2ea000e5bdc",
+      "quality": {
+        "validFrames": 15,
+        "totalFrames": 15,
+        "poseFrames": 15,
+        "duration": 933,
+        "left": 15,
+        "right": 14
+      },
+      "reason": "match",
+      "wordId": "ia",
+      "distance": 0.6000060206916429,
+      "margin": 0.12404870111515377,
+      "top": [
+        {
+          "wordId": "ia",
+          "distance": 0.6000060206916429,
+          "references": 6
+        },
+        {
+          "wordId": "ana",
+          "distance": 0.684976460969345,
+          "references": 12
+        },
+        {
+          "wordId": "at",
+          "distance": 0.7286970017701397,
+          "references": 3
+        }
+      ],
+      "ms": 24
+    },
+    {
+      "id": "2b57464e-692d-44b9-acd2-b5aa92363057",
+      "truth": "keshe",
+      "signerId": "db573f94204e56e0cf3fc2ea000e5bdc",
+      "quality": {
+        "validFrames": 20,
+        "totalFrames": 20,
+        "poseFrames": 20,
+        "duration": 1267,
+        "left": 20,
+        "right": 17
+      },
+      "reason": "match",
+      "wordId": "ake",
+      "distance": 0.3628914071228734,
+      "margin": 0.15887946550924867,
+      "top": [
+        {
+          "wordId": "ake",
+          "distance": 0.3628914071228734,
+          "references": 3
+        },
+        {
+          "wordId": "ana",
+          "distance": 0.43143805464526275,
+          "references": 12
+        },
+        {
+          "wordId": "salem",
+          "distance": 0.4387261972164841,
+          "references": 8
+        }
+      ],
+      "ms": 21
+    },
+    {
+      "id": "3140ba38-38b3-43d5-ab6c-ddcce1d19df9",
+      "truth": "ake",
+      "signerId": "db573f94204e56e0cf3fc2ea000e5bdc",
+      "quality": {
+        "validFrames": 25,
+        "totalFrames": 25,
+        "poseFrames": 25,
+        "duration": 1600,
+        "left": 18,
+        "right": 25
+      },
+      "reason": "match",
+      "wordId": "ake",
+      "distance": 0.406512991116767,
+      "margin": 0.2152399979676245,
+      "top": [
+        {
+          "wordId": "ake",
+          "distance": 0.406512991116767,
+          "references": 3
+        },
+        {
+          "wordId": "salem",
+          "distance": 0.5180093150313185,
+          "references": 8
+        },
+        {
+          "wordId": "ana",
+          "distance": 0.5482030545563967,
+          "references": 12
+        }
+      ],
+      "ms": 19
+    },
+    {
+      "id": "32a06054-aa41-4cc3-a648-9e1c8e3faf62",
+      "truth": "ia",
+      "signerId": "db573f94204e56e0cf3fc2ea000e5bdc",
+      "quality": {
+        "validFrames": 25,
+        "totalFrames": 25,
+        "poseFrames": 25,
+        "duration": 1600,
+        "left": 25,
+        "right": 18
+      },
+      "reason": "distance",
+      "wordId": null,
+      "distance": 0.8196173802892872,
+      "margin": 0.13931246839008996,
+      "top": [
+        {
+          "wordId": "ia",
+          "distance": 0.8196173802892872,
+          "references": 6
+        },
+        {
+          "wordId": "ana",
+          "distance": 0.9522821583765697,
+          "references": 12
+        },
+        {
+          "wordId": "salem",
+          "distance": 0.973507366591367,
+          "references": 8
+        }
+      ],
+      "ms": 21
+    },
+    {
+      "id": "339b78d9-dfbe-4439-a8ca-ef959f915d06",
+      "truth": "ia",
+      "signerId": "0211b488644476dd0fec656ccb9b74fc",
+      "quality": {
+        "validFrames": 15,
+        "totalFrames": 16,
+        "poseFrames": 16,
+        "duration": 1000,
+        "left": 14,
+        "right": 1
+      },
+      "reason": "distance",
+      "wordId": null,
+      "distance": 0.6672564104788458,
+      "margin": 0.18519087672386464,
+      "top": [
+        {
+          "wordId": "ia",
+          "distance": 0.6672564104788458,
+          "references": 6
+        },
+        {
+          "wordId": "bugin",
+          "distance": 0.8189113148316031,
+          "references": 3
+        },
+        {
+          "wordId": "ake",
+          "distance": 0.8995734826523365,
+          "references": 3
+        }
+      ],
+      "ms": 14
+    },
+    {
+      "id": "34d54421-d709-4b48-b6c7-58e0e3e0710c",
+      "truth": "ia",
+      "signerId": "db573f94204e56e0cf3fc2ea000e5bdc",
+      "quality": {
+        "validFrames": 20,
+        "totalFrames": 20,
+        "poseFrames": 20,
+        "duration": 1267,
+        "left": 20,
+        "right": 10
+      },
+      "reason": "distance",
+      "wordId": null,
+      "distance": 0.7607205952436291,
+      "margin": 0.011407859921883945,
+      "top": [
+        {
+          "wordId": "salem",
+          "distance": 0.7607205952436291,
+          "references": 8
+        },
+        {
+          "wordId": "ia",
+          "distance": 0.7694989312614997,
+          "references": 6
+        },
+        {
+          "wordId": "ana",
+          "distance": 0.775311645437867,
+          "references": 12
+        }
+      ],
+      "ms": 20
+    },
+    {
+      "id": "394be738-56a1-4a45-a8f5-a24609503ced",
+      "truth": "ia",
+      "signerId": "b07a773bcb10b4f14f33d2b0e8ec58ba",
+      "quality": {
+        "validFrames": 26,
+        "totalFrames": 27,
+        "poseFrames": 27,
+        "duration": 1733,
+        "left": 1,
+        "right": 25
+      },
+      "reason": "distance",
+      "wordId": null,
+      "distance": 0.6964896130499743,
+      "margin": 0.09539034133911893,
+      "top": [
+        {
+          "wordId": "ia",
+          "distance": 0.6964896130499743,
+          "references": 6
+        },
+        {
+          "wordId": "salem",
+          "distance": 0.7699338674771694,
+          "references": 8
+        },
+        {
+          "wordId": "bugin",
+          "distance": 0.7708423588990274,
+          "references": 4
+        }
+      ],
+      "ms": 36
+    },
+    {
+      "id": "3db867de-470d-4ec6-9efc-11633faff873",
+      "truth": "salem",
+      "signerId": "2d84da20c251acaeb3186642fcb04f2e",
+      "quality": {
+        "validFrames": 11,
+        "totalFrames": 12,
+        "poseFrames": 12,
+        "duration": 733,
+        "left": 11,
+        "right": 0
+      },
+      "reason": "match",
+      "wordId": "salem",
+      "distance": 0.2628601596956389,
+      "margin": 0.4138962815141734,
+      "top": [
+        {
+          "wordId": "salem",
+          "distance": 0.2628601596956389,
+          "references": 8
+        },
+        {
+          "wordId": "ana",
+          "distance": 0.4484874458307937,
+          "references": 12
+        },
+        {
+          "wordId": "erten",
+          "distance": 0.49949147678939937,
+          "references": 3
+        }
+      ],
+      "ms": 28
+    },
+    {
+      "id": "3df18619-b623-4985-804e-df93aa299d7d",
+      "truth": "erten",
+      "signerId": "0211b488644476dd0fec656ccb9b74fc",
+      "quality": {
+        "validFrames": 13,
+        "totalFrames": 15,
+        "poseFrames": 15,
+        "duration": 933,
+        "left": 13,
+        "right": 0
+      },
+      "reason": "ambiguous",
+      "wordId": null,
+      "distance": 0.4650026380533315,
+      "margin": 0.03355021429729075,
+      "top": [
+        {
+          "wordId": "keshe",
+          "distance": 0.4650026380533315,
+          "references": 2
+        },
+        {
+          "wordId": "ana",
+          "distance": 0.4811451613238512,
+          "references": 12
+        },
+        {
+          "wordId": "salem",
+          "distance": 0.5199035481459182,
+          "references": 8
+        }
+      ],
+      "ms": 13
+    },
+    {
+      "id": "3e44cb4a-7b62-498e-980f-dffaf48b210c",
+      "truth": "qala",
+      "signerId": "185bd3a81d9d618518d10abebf0d17a8",
+      "quality": {
+        "validFrames": 18,
+        "totalFrames": 18,
+        "poseFrames": 18,
+        "duration": 1133,
+        "left": 10,
+        "right": 14
+      },
+      "reason": "distance",
+      "wordId": null,
+      "distance": 0.9541562156590018,
+      "margin": 0.03534631551594355,
+      "top": [
+        {
+          "wordId": "qala",
+          "distance": 0.9541562156590018,
+          "references": 2
+        },
+        {
+          "wordId": "ana",
+          "distance": 0.9891178886330909,
+          "references": 12
+        },
+        {
+          "wordId": "at",
+          "distance": 0.9965274590549472,
+          "references": 3
+        }
+      ],
+      "ms": 22
+    },
+    {
+      "id": "402d07f7-4b43-4c8b-b11d-d72103047ae0",
+      "truth": "keshe",
+      "signerId": "db573f94204e56e0cf3fc2ea000e5bdc",
+      "quality": {
+        "validFrames": 26,
+        "totalFrames": 26,
+        "poseFrames": 26,
+        "duration": 1667,
+        "left": 24,
+        "right": 24
+      },
+      "reason": "match",
+      "wordId": "ake",
+      "distance": 0.37226981475395315,
+      "margin": 0.13645782112400903,
+      "top": [
+        {
+          "wordId": "ake",
+          "distance": 0.37226981475395315,
+          "references": 3
+        },
+        {
+          "wordId": "salem",
+          "distance": 0.43109627284044105,
+          "references": 8
+        },
+        {
+          "wordId": "ana",
+          "distance": 0.4420030497111689,
+          "references": 12
+        }
+      ],
+      "ms": 31
+    },
+    {
+      "id": "4035e582-faf3-463c-a4c2-96f23a3e0f74",
+      "truth": "erten",
+      "signerId": "db573f94204e56e0cf3fc2ea000e5bdc",
+      "quality": {
+        "validFrames": 27,
+        "totalFrames": 27,
+        "poseFrames": 27,
+        "duration": 1733,
+        "left": 27,
+        "right": 21
+      },
+      "reason": "ambiguous",
+      "wordId": null,
+      "distance": 0.40781169096101405,
+      "margin": 0.022473688527651754,
+      "top": [
+        {
+          "wordId": "salem",
+          "distance": 0.40781169096101405,
+          "references": 8
+        },
+        {
+          "wordId": "ake",
+          "distance": 0.417187431350844,
+          "references": 3
+        },
+        {
+          "wordId": "ana",
+          "distance": 0.4408620732270787,
+          "references": 12
+        }
+      ],
+      "ms": 20
+    },
+    {
+      "id": "42891db4-76c4-49ec-98e2-fb5735162d05",
+      "truth": "ake",
+      "signerId": "0211b488644476dd0fec656ccb9b74fc",
+      "quality": {
+        "validFrames": 19,
+        "totalFrames": 23,
+        "poseFrames": 23,
+        "duration": 1467,
+        "left": 19,
+        "right": 0
+      },
+      "reason": "match",
+      "wordId": "ake",
+      "distance": 0.24631588889701672,
+      "margin": 0.31851618472641247,
+      "top": [
+        {
+          "wordId": "ake",
+          "distance": 0.24631588889701672,
+          "references": 3
+        },
+        {
+          "wordId": "keshe",
+          "distance": 0.361440555705833,
+          "references": 2
+        },
+        {
+          "wordId": "ana",
+          "distance": 0.4742955462750319,
+          "references": 12
+        }
+      ],
+      "ms": 17
+    },
+    {
+      "id": "4618918f-ceae-443d-9d7a-11d47a578c64",
+      "truth": "erten",
+      "signerId": "185bd3a81d9d618518d10abebf0d17a8",
+      "quality": {
+        "validFrames": 27,
+        "totalFrames": 28,
+        "poseFrames": 28,
+        "duration": 1800,
+        "left": 1,
+        "right": 26
+      },
+      "reason": "ambiguous",
+      "wordId": null,
+      "distance": 0.3594685315880386,
+      "margin": 0.033966319694688225,
+      "top": [
+        {
+          "wordId": "salem",
+          "distance": 0.3594685315880386,
+          "references": 8
+        },
+        {
+          "wordId": "keshe",
+          "distance": 0.37210765930482853,
+          "references": 2
+        },
+        {
+          "wordId": "erten",
+          "distance": 0.45082598700804066,
+          "references": 2
+        }
+      ],
+      "ms": 20
+    },
+    {
+      "id": "4798b1ac-d55a-49ec-b3b9-507e116a1b32",
+      "truth": "erten",
+      "signerId": "0211b488644476dd0fec656ccb9b74fc",
+      "quality": {
+        "validFrames": 21,
+        "totalFrames": 22,
+        "poseFrames": 22,
+        "duration": 1400,
+        "left": 21,
+        "right": 0
+      },
+      "reason": "match",
+      "wordId": "keshe",
+      "distance": 0.3613944697322966,
+      "margin": 0.10244858361784492,
+      "top": [
+        {
+          "wordId": "keshe",
+          "distance": 0.3613944697322966,
+          "references": 2
+        },
+        {
+          "wordId": "erten",
+          "distance": 0.40264486594985643,
+          "references": 2
+        },
+        {
+          "wordId": "salem",
+          "distance": 0.43680718873395585,
+          "references": 8
+        }
+      ],
+      "ms": 13
+    },
+    {
+      "id": "495b7c9e-d060-4629-a5d4-5bdeec0c7ed3",
+      "truth": "salem",
+      "signerId": "b07a773bcb10b4f14f33d2b0e8ec58ba",
+      "quality": {
+        "validFrames": 30,
+        "totalFrames": 31,
+        "poseFrames": 31,
+        "duration": 2000,
+        "left": 30,
+        "right": 1
+      },
+      "reason": "match",
+      "wordId": "salem",
+      "distance": 0.2868260956829122,
+      "margin": 0.23726143203494088,
+      "top": [
+        {
+          "wordId": "salem",
+          "distance": 0.2868260956829122,
+          "references": 8
+        },
+        {
+          "wordId": "erten",
+          "distance": 0.37604771507509716,
+          "references": 3
+        },
+        {
+          "wordId": "ana",
+          "distance": 0.40351729483697407,
+          "references": 13
+        }
+      ],
+      "ms": 20
+    },
+    {
+      "id": "4b53bb87-c998-47ed-a580-efe0ae4334ea",
+      "truth": "salem",
+      "signerId": "95af8e702c909eee7145c6dc1a3d756b",
+      "quality": {
+        "validFrames": 29,
+        "totalFrames": 29,
+        "poseFrames": 29,
+        "duration": 1867,
+        "left": 29,
+        "right": 22
+      },
+      "reason": "match",
+      "wordId": "salem",
+      "distance": 0.3108633951441476,
+      "margin": 0.16475419420424478,
+      "top": [
+        {
+          "wordId": "salem",
+          "distance": 0.3108633951441476,
+          "references": 8
+        },
+        {
+          "wordId": "ana",
+          "distance": 0.3721819289448355,
+          "references": 12
+        },
+        {
+          "wordId": "ake",
+          "distance": 0.4709742438105875,
+          "references": 4
+        }
+      ],
+      "ms": 39
+    },
+    {
+      "id": "4b98663e-0762-4cbc-af6d-6b0d8cc2914f",
+      "truth": "keshe",
+      "signerId": "0211b488644476dd0fec656ccb9b74fc",
+      "quality": {
+        "validFrames": 13,
+        "totalFrames": 15,
+        "poseFrames": 15,
+        "duration": 933,
+        "left": 13,
+        "right": 0
+      },
+      "reason": "match",
+      "wordId": "keshe",
+      "distance": 0.24617613422778073,
+      "margin": 0.4196046363570639,
+      "top": [
+        {
+          "wordId": "keshe",
+          "distance": 0.24617613422778073,
+          "references": 2
+        },
+        {
+          "wordId": "salem",
+          "distance": 0.42415248234000413,
+          "references": 8
+        },
+        {
+          "wordId": "ana",
+          "distance": 0.4389116020108325,
+          "references": 12
+        }
+      ],
+      "ms": 20
+    },
+    {
+      "id": "4c3bfbff-c6ae-45d9-b70d-d1ef28841bd3",
+      "truth": "ia",
+      "signerId": "185bd3a81d9d618518d10abebf0d17a8",
+      "quality": {
+        "validFrames": 14,
+        "totalFrames": 18,
+        "poseFrames": 18,
+        "duration": 1133,
+        "left": 0,
+        "right": 14
+      },
+      "reason": "match",
+      "wordId": "ia",
+      "distance": 0.5199004961493126,
+      "margin": 0.32598557848067655,
+      "top": [
+        {
+          "wordId": "ia",
+          "distance": 0.5199004961493126,
+          "references": 6
+        },
+        {
+          "wordId": "ana",
+          "distance": 0.7713492167977409,
+          "references": 12
+        },
+        {
+          "wordId": "bugin",
+          "distance": 0.7809862339376521,
+          "references": 3
+        }
+      ],
+      "ms": 24
+    },
+    {
+      "id": "50f8d4f2-2eeb-4a64-9185-a87a7c2043d4",
+      "truth": "ana",
+      "signerId": "0211b488644476dd0fec656ccb9b74fc",
+      "quality": {
+        "validFrames": 18,
+        "totalFrames": 18,
+        "poseFrames": 18,
+        "duration": 1133,
+        "left": 18,
+        "right": 0
+      },
+      "reason": "match",
+      "wordId": "ana",
+      "distance": 0.16975752850306353,
+      "margin": 0.5587184010660782,
+      "top": [
+        {
+          "wordId": "ana",
+          "distance": 0.16975752850306353,
+          "references": 12
+        },
+        {
+          "wordId": "salem",
+          "distance": 0.3846920626492819,
+          "references": 8
+        },
+        {
+          "wordId": "keshe",
+          "distance": 0.532356763214949,
+          "references": 2
+        }
+      ],
+      "ms": 13
+    },
+    {
+      "id": "51e94394-c8cf-4e1f-846a-6c786485a28c",
+      "truth": "qala",
+      "signerId": "185bd3a81d9d618518d10abebf0d17a8",
+      "quality": {
+        "validFrames": 23,
+        "totalFrames": 24,
+        "poseFrames": 24,
+        "duration": 1533,
+        "left": 22,
+        "right": 20
+      },
+      "reason": "match",
+      "wordId": "at",
+      "distance": 0.5480057298390609,
+      "margin": 0.13720332261410084,
+      "top": [
+        {
+          "wordId": "at",
+          "distance": 0.5480057298390609,
+          "references": 3
+        },
+        {
+          "wordId": "qala",
+          "distance": 0.6351504870178781,
+          "references": 2
+        },
+        {
+          "wordId": "ana",
+          "distance": 0.7369552179986683,
+          "references": 12
+        }
+      ],
+      "ms": 37
+    },
+    {
+      "id": "52485f41-8f7d-407b-b24b-69c244c681cc",
+      "truth": "ana",
+      "signerId": "12c7911f38c7113ce13c71dbd785ce22",
+      "quality": {
+        "validFrames": 21,
+        "totalFrames": 23,
+        "poseFrames": 23,
+        "duration": 1467,
+        "left": 0,
+        "right": 21
+      },
+      "reason": "match",
+      "wordId": "ana",
+      "distance": 0.3077126194387371,
+      "margin": 0.15547987398789032,
+      "top": [
+        {
+          "wordId": "ana",
+          "distance": 0.3077126194387371,
+          "references": 12
+        },
+        {
+          "wordId": "salem",
+          "distance": 0.3643638676697739,
+          "references": 9
+        },
+        {
+          "wordId": "erten",
+          "distance": 0.615687304010481,
+          "references": 3
+        }
+      ],
+      "ms": 19
+    },
+    {
+      "id": "5290f49b-72ee-48c0-8c86-e8e8c5440215",
+      "truth": "ana",
+      "signerId": "2d84da20c251acaeb3186642fcb04f2e",
+      "quality": {
+        "validFrames": 10,
+        "totalFrames": 13,
+        "poseFrames": 13,
+        "duration": 800,
+        "left": 10,
+        "right": 0
+      },
+      "reason": "match",
+      "wordId": "ana",
+      "distance": 0.21466943330963012,
+      "margin": 0.17162501446149728,
+      "top": [
+        {
+          "wordId": "ana",
+          "distance": 0.21466943330963012,
+          "references": 12
+        },
+        {
+          "wordId": "salem",
+          "distance": 0.25914523863860967,
+          "references": 8
+        },
+        {
+          "wordId": "keshe",
+          "distance": 0.44862118536726336,
+          "references": 3
+        }
+      ],
+      "ms": 18
+    },
+    {
+      "id": "5307936b-62ad-48c3-9b59-e14465933b56",
+      "truth": "keshe",
+      "signerId": "db573f94204e56e0cf3fc2ea000e5bdc",
+      "quality": {
+        "validFrames": 19,
+        "totalFrames": 19,
+        "poseFrames": 19,
+        "duration": 1200,
+        "left": 19,
+        "right": 17
+      },
+      "reason": "ambiguous",
+      "wordId": null,
+      "distance": 0.3352173508390418,
+      "margin": 0.0675103581250154,
+      "top": [
+        {
+          "wordId": "salem",
+          "distance": 0.3352173508390418,
+          "references": 8
+        },
+        {
+          "wordId": "ake",
+          "distance": 0.35948640691065514,
+          "references": 3
+        },
+        {
+          "wordId": "ana",
+          "distance": 0.37490134183834267,
+          "references": 12
+        }
+      ],
+      "ms": 29
+    },
+    {
+      "id": "53d1afd1-935a-4f3e-b60a-66674d351d56",
+      "truth": "ia",
+      "signerId": "95af8e702c909eee7145c6dc1a3d756b",
+      "quality": {
+        "validFrames": 18,
+        "totalFrames": 18,
+        "poseFrames": 18,
+        "duration": 1133,
+        "left": 14,
+        "right": 13
+      },
+      "reason": "ambiguous",
+      "wordId": null,
+      "distance": 0.5241664552723986,
+      "margin": 0.012732688265178316,
+      "top": [
+        {
+          "wordId": "ana",
+          "distance": 0.5241664552723986,
+          "references": 12
+        },
+        {
+          "wordId": "ake",
+          "distance": 0.5309265778802457,
+          "references": 4
+        },
+        {
+          "wordId": "salem",
+          "distance": 0.5521728688638949,
+          "references": 8
+        }
+      ],
+      "ms": 41
+    },
+    {
+      "id": "577fd62a-6151-4dd5-aa56-a42f5cae6954",
+      "truth": "qala",
+      "signerId": "db573f94204e56e0cf3fc2ea000e5bdc",
+      "quality": {
+        "validFrames": 21,
+        "totalFrames": 25,
+        "poseFrames": 25,
+        "duration": 1600,
+        "left": 13,
+        "right": 19
+      },
+      "reason": "distance",
+      "wordId": null,
+      "distance": 0.6948847667910649,
+      "margin": 0.09134156568103088,
+      "top": [
+        {
+          "wordId": "qala",
+          "distance": 0.6948847667910649,
+          "references": 2
+        },
+        {
+          "wordId": "at",
+          "distance": 0.7647370458976419,
+          "references": 3
+        },
+        {
+          "wordId": "ana",
+          "distance": 0.8631112563771057,
+          "references": 12
+        }
+      ],
+      "ms": 17
+    },
+    {
+      "id": "58862482-a788-4e35-9c74-b65fda962a6f",
+      "truth": "erten",
+      "signerId": "db573f94204e56e0cf3fc2ea000e5bdc",
+      "quality": {
+        "validFrames": 19,
+        "totalFrames": 19,
+        "poseFrames": 19,
+        "duration": 1200,
+        "left": 19,
+        "right": 16
+      },
+      "reason": "ambiguous",
+      "wordId": null,
+      "distance": 0.4691035701902694,
+      "margin": 0.07975047969830121,
+      "top": [
+        {
+          "wordId": "salem",
+          "distance": 0.4691035701902694,
+          "references": 8
+        },
+        {
+          "wordId": "ake",
+          "distance": 0.5097569298775362,
+          "references": 3
+        },
+        {
+          "wordId": "ana",
+          "distance": 0.5301260628783142,
+          "references": 12
+        }
+      ],
+      "ms": 23
+    },
+    {
+      "id": "5bd9ab86-fe3b-4cf8-8b7b-5098424ff789",
+      "truth": "keshe",
+      "signerId": "db573f94204e56e0cf3fc2ea000e5bdc",
+      "quality": {
+        "validFrames": 21,
+        "totalFrames": 21,
+        "poseFrames": 21,
+        "duration": 1333,
+        "left": 21,
+        "right": 0
+      },
+      "reason": "match",
+      "wordId": "ana",
+      "distance": 0.44333405153954203,
+      "margin": 0.17051456667358791,
+      "top": [
+        {
+          "wordId": "ana",
+          "distance": 0.44333405153954203,
+          "references": 12
+        },
+        {
+          "wordId": "ake",
+          "distance": 0.5344687606648844,
+          "references": 3
+        },
+        {
+          "wordId": "salem",
+          "distance": 0.5467609778002898,
+          "references": 8
+        }
+      ],
+      "ms": 13
+    },
+    {
+      "id": "5d252814-e7f4-419f-ab70-07c5b99b9f8d",
+      "truth": "ana",
+      "signerId": "95af8e702c909eee7145c6dc1a3d756b",
+      "quality": {
+        "validFrames": 20,
+        "totalFrames": 20,
+        "poseFrames": 20,
+        "duration": 1267,
+        "left": 20,
+        "right": 12
+      },
+      "reason": "ambiguous",
+      "wordId": null,
+      "distance": 0.582905384702425,
+      "margin": 0.0059214849853299785,
+      "top": [
+        {
+          "wordId": "salem",
+          "distance": 0.582905384702425,
+          "references": 8
+        },
+        {
+          "wordId": "ana",
+          "distance": 0.5863776109212288,
+          "references": 12
+        },
+        {
+          "wordId": "keshe",
+          "distance": 0.6422088837657434,
+          "references": 3
+        }
+      ],
+      "ms": 28
+    },
+    {
+      "id": "5d847e11-2256-4b7b-aa40-c2c6ec737414",
+      "truth": "at",
+      "signerId": "46dd04a1caa75ed3082b573cb5a3ad26",
+      "quality": {
+        "validFrames": 29,
+        "totalFrames": 29,
+        "poseFrames": 29,
+        "duration": 1867,
+        "left": 26,
+        "right": 29
+      },
+      "reason": "match",
+      "wordId": "at",
+      "distance": 0.6214177170479694,
+      "margin": 0.1679310180200805,
+      "top": [
+        {
+          "wordId": "at",
+          "distance": 0.6214177170479694,
+          "references": 3
+        },
+        {
+          "wordId": "keshe",
+          "distance": 0.7468343737189884,
+          "references": 3
+        },
+        {
+          "wordId": "qala",
+          "distance": 0.7696106399294472,
+          "references": 3
+        }
+      ],
+      "ms": 45
+    },
+    {
+      "id": "5d9c0613-a213-4da8-862b-398a9e7ef2b2",
+      "truth": "at",
+      "signerId": "185bd3a81d9d618518d10abebf0d17a8",
+      "quality": {
+        "validFrames": 24,
+        "totalFrames": 24,
+        "poseFrames": 24,
+        "duration": 1533,
+        "left": 24,
+        "right": 14
+      },
+      "reason": "match",
+      "wordId": "at",
+      "distance": 0.40980567802131307,
+      "margin": 0.39947635868751474,
+      "top": [
+        {
+          "wordId": "at",
+          "distance": 0.40980567802131307,
+          "references": 3
+        },
+        {
+          "wordId": "qala",
+          "distance": 0.6824138965214673,
+          "references": 2
+        },
+        {
+          "wordId": "ana",
+          "distance": 0.7124709775536221,
+          "references": 12
+        }
+      ],
+      "ms": 26
+    },
+    {
+      "id": "60c85929-fd68-4e03-a8d7-e5f62f813849",
+      "truth": "salem",
+      "signerId": "0211b488644476dd0fec656ccb9b74fc",
+      "quality": {
+        "validFrames": 17,
+        "totalFrames": 19,
+        "poseFrames": 19,
+        "duration": 1200,
+        "left": 17,
+        "right": 0
+      },
+      "reason": "match",
+      "wordId": "salem",
+      "distance": 0.22443875753172376,
+      "margin": 0.2553122021103735,
+      "top": [
+        {
+          "wordId": "salem",
+          "distance": 0.22443875753172376,
+          "references": 8
+        },
+        {
+          "wordId": "ana",
+          "distance": 0.30138637717411454,
+          "references": 12
+        },
+        {
+          "wordId": "keshe",
+          "distance": 0.4843046925653559,
+          "references": 2
+        }
+      ],
+      "ms": 20
+    },
+    {
+      "id": "615cc768-933a-44b7-8bc2-2e272905c6f0",
+      "truth": "qala",
+      "signerId": "db573f94204e56e0cf3fc2ea000e5bdc",
+      "quality": {
+        "validFrames": 30,
+        "totalFrames": 36,
+        "poseFrames": 36,
+        "duration": 2333,
+        "left": 25,
+        "right": 24
+      },
+      "reason": "match",
+      "wordId": "qala",
+      "distance": 0.6093002219240067,
+      "margin": 0.12592130147495123,
+      "top": [
+        {
+          "wordId": "qala",
+          "distance": 0.6093002219240067,
+          "references": 2
+        },
+        {
+          "wordId": "at",
+          "distance": 0.6970770743551598,
+          "references": 3
+        },
+        {
+          "wordId": "salem",
+          "distance": 0.7736423506942753,
+          "references": 8
+        }
+      ],
+      "ms": 41
+    },
+    {
+      "id": "6166869e-1076-48e9-9684-22cf21e228a6",
+      "truth": "bugin",
+      "signerId": "0211b488644476dd0fec656ccb9b74fc",
+      "quality": {
+        "validFrames": 18,
+        "totalFrames": 22,
+        "poseFrames": 22,
+        "duration": 1400,
+        "left": 11,
+        "right": 15
+      },
+      "reason": "distance",
+      "wordId": null,
+      "distance": 0.749336605367503,
+      "margin": 0.12265081256536117,
+      "top": [
+        {
+          "wordId": "bugin",
+          "distance": 0.749336605367503,
+          "references": 3
+        },
+        {
+          "wordId": "ia",
+          "distance": 0.854091638881614,
+          "references": 6
+        },
+        {
+          "wordId": "qala",
+          "distance": 0.9129274959328366,
+          "references": 2
+        }
+      ],
+      "ms": 46
+    },
+    {
+      "id": "6206481a-acdb-4d35-90a1-1ed85220af3d",
+      "truth": "at",
+      "signerId": "db573f94204e56e0cf3fc2ea000e5bdc",
+      "quality": {
+        "validFrames": 31,
+        "totalFrames": 31,
+        "poseFrames": 31,
+        "duration": 2000,
+        "left": 31,
+        "right": 29
+      },
+      "reason": "match",
+      "wordId": "at",
+      "distance": 0.2912607439800804,
+      "margin": 0.5277506575780827,
+      "top": [
+        {
+          "wordId": "at",
+          "distance": 0.2912607439800804,
+          "references": 3
+        },
+        {
+          "wordId": "qala",
+          "distance": 0.6167520371470672,
+          "references": 2
+        },
+        {
+          "wordId": "ana",
+          "distance": 0.7098844024792093,
+          "references": 12
+        }
+      ],
+      "ms": 23
+    },
+    {
+      "id": "6301b8d7-b6b2-4bfd-adae-ebb68646cff8",
+      "truth": "bugin",
+      "signerId": "0211b488644476dd0fec656ccb9b74fc",
+      "quality": {
+        "validFrames": 18,
+        "totalFrames": 21,
+        "poseFrames": 21,
+        "duration": 1333,
+        "left": 18,
+        "right": 14
+      },
+      "reason": "distance",
+      "wordId": null,
+      "distance": 0.685477215831099,
+      "margin": 0.09295365946382798,
+      "top": [
+        {
+          "wordId": "bugin",
+          "distance": 0.685477215831099,
+          "references": 3
+        },
+        {
+          "wordId": "ia",
+          "distance": 0.7557245812004496,
+          "references": 6
+        },
+        {
+          "wordId": "salem",
+          "distance": 0.8073466107490085,
+          "references": 8
+        }
+      ],
+      "ms": 22
+    },
+    {
+      "id": "63acc748-8898-40b5-acfe-c2da481a1215",
+      "truth": "ana",
+      "signerId": "f2dc6eab563f93d86629c1cfe479f09d",
+      "quality": {
+        "validFrames": 14,
+        "totalFrames": 19,
+        "poseFrames": 19,
+        "duration": 1200,
+        "left": 1,
+        "right": 14
+      },
+      "reason": "match",
+      "wordId": "ana",
+      "distance": 0.24644239681839505,
+      "margin": 0.2969429960457964,
+      "top": [
+        {
+          "wordId": "ana",
+          "distance": 0.24644239681839505,
+          "references": 12
+        },
+        {
+          "wordId": "salem",
+          "distance": 0.35052975140327036,
+          "references": 9
+        },
+        {
+          "wordId": "ia",
+          "distance": 0.5426759739626792,
+          "references": 7
+        }
+      ],
+      "ms": 22
+    },
+    {
+      "id": "63fd024e-e679-436e-9dda-441e080c6a64",
+      "truth": "erten",
+      "signerId": "db573f94204e56e0cf3fc2ea000e5bdc",
+      "quality": {
+        "validFrames": 25,
+        "totalFrames": 25,
+        "poseFrames": 25,
+        "duration": 1600,
+        "left": 25,
+        "right": 22
+      },
+      "reason": "ambiguous",
+      "wordId": null,
+      "distance": 0.5932911442934526,
+      "margin": 0.07589686218539236,
+      "top": [
+        {
+          "wordId": "erten",
+          "distance": 0.5932911442934526,
+          "references": 2
+        },
+        {
+          "wordId": "keshe",
+          "distance": 0.6420183202672751,
+          "references": 2
+        },
+        {
+          "wordId": "salem",
+          "distance": 0.6549706643520172,
+          "references": 8
+        }
+      ],
+      "ms": 46
+    },
+    {
+      "id": "69d6dcdb-f1f6-4efc-b0bf-7f75d6ebdfd4",
+      "truth": "at",
+      "signerId": "0211b488644476dd0fec656ccb9b74fc",
+      "quality": {
+        "validFrames": 21,
+        "totalFrames": 24,
+        "poseFrames": 24,
+        "duration": 1533,
+        "left": 21,
+        "right": 21
+      },
+      "reason": "match",
+      "wordId": "at",
+      "distance": 0.2413292483260281,
+      "margin": 0.6044709010482985,
+      "top": [
+        {
+          "wordId": "at",
+          "distance": 0.2413292483260281,
+          "references": 3
+        },
+        {
+          "wordId": "qala",
+          "distance": 0.6101428414891341,
+          "references": 2
+        },
+        {
+          "wordId": "ana",
+          "distance": 0.6585060396170074,
+          "references": 12
+        }
+      ],
+      "ms": 58
+    },
+    {
+      "id": "6a5bb05f-f1c9-444d-9888-090b368bea8b",
+      "truth": "qala",
+      "signerId": "0211b488644476dd0fec656ccb9b74fc",
+      "quality": {
+        "validFrames": 23,
+        "totalFrames": 25,
+        "poseFrames": 25,
+        "duration": 1600,
+        "left": 17,
+        "right": 22
+      },
+      "reason": "match",
+      "wordId": "qala",
+      "distance": 0.5648380013707464,
+      "margin": 0.2082581712671772,
+      "top": [
+        {
+          "wordId": "qala",
+          "distance": 0.5648380013707464,
+          "references": 2
+        },
+        {
+          "wordId": "at",
+          "distance": 0.7134118482470044,
+          "references": 3
+        },
+        {
+          "wordId": "ake",
+          "distance": 0.7893411272756032,
+          "references": 3
+        }
+      ],
+      "ms": 33
+    },
+    {
+      "id": "6c27a27e-63d6-416e-bef8-c2f0c6977f6e",
+      "truth": "at",
+      "signerId": "46dd04a1caa75ed3082b573cb5a3ad26",
+      "quality": {
+        "validFrames": 22,
+        "totalFrames": 22,
+        "poseFrames": 22,
+        "duration": 1400,
+        "left": 22,
+        "right": 22
+      },
+      "reason": "match",
+      "wordId": "at",
+      "distance": 0.3167383504935307,
+      "margin": 0.5054822183820668,
+      "top": [
+        {
+          "wordId": "at",
+          "distance": 0.3167383504935307,
+          "references": 3
+        },
+        {
+          "wordId": "qala",
+          "distance": 0.6404994163349302,
+          "references": 3
+        },
+        {
+          "wordId": "keshe",
+          "distance": 0.7154528881705622,
+          "references": 3
+        }
+      ],
+      "ms": 28
+    },
+    {
+      "id": "6d2015ce-b683-47b0-a711-9a56fef304be",
+      "truth": "bugin",
+      "signerId": "0211b488644476dd0fec656ccb9b74fc",
+      "quality": {
+        "validFrames": 20,
+        "totalFrames": 21,
+        "poseFrames": 21,
+        "duration": 1333,
+        "left": 19,
+        "right": 20
+      },
+      "reason": "distance",
+      "wordId": null,
+      "distance": 0.8627550249508011,
+      "margin": 0.020307264261807283,
+      "top": [
+        {
+          "wordId": "ia",
+          "distance": 0.8627550249508011,
+          "references": 6
+        },
+        {
+          "wordId": "bugin",
+          "distance": 0.8806383812785141,
+          "references": 3
+        },
+        {
+          "wordId": "ana",
+          "distance": 1.009964828697993,
+          "references": 12
+        }
+      ],
+      "ms": 22
+    },
+    {
+      "id": "6e0221ea-83eb-4fe7-a310-ff05fe42c41a",
+      "truth": "bugin",
+      "signerId": "db573f94204e56e0cf3fc2ea000e5bdc",
+      "quality": {
+        "validFrames": 22,
+        "totalFrames": 26,
+        "poseFrames": 26,
+        "duration": 1667,
+        "left": 15,
+        "right": 20
+      },
+      "reason": "distance",
+      "wordId": null,
+      "distance": 0.7264968036335275,
+      "margin": 0.09708858949025798,
+      "top": [
+        {
+          "wordId": "bugin",
+          "distance": 0.7264968036335275,
+          "references": 3
+        },
+        {
+          "wordId": "ia",
+          "distance": 0.8046158185368164,
+          "references": 6
+        },
+        {
+          "wordId": "salem",
+          "distance": 0.8053836355795592,
+          "references": 8
+        }
+      ],
+      "ms": 20
+    },
+    {
+      "id": "6f772fb3-6ed2-437e-913f-f31601ad7985",
+      "truth": "at",
+      "signerId": "46dd04a1caa75ed3082b573cb5a3ad26",
+      "quality": {
+        "validFrames": 27,
+        "totalFrames": 27,
+        "poseFrames": 27,
+        "duration": 1733,
+        "left": 24,
+        "right": 27
+      },
+      "reason": "match",
+      "wordId": "at",
+      "distance": 0.38918224973688176,
+      "margin": 0.40189744216599993,
+      "top": [
+        {
+          "wordId": "at",
+          "distance": 0.38918224973688176,
+          "references": 3
+        },
+        {
+          "wordId": "qala",
+          "distance": 0.650694842614094,
+          "references": 3
+        },
+        {
+          "wordId": "ake",
+          "distance": 0.7606979632005503,
+          "references": 3
+        }
+      ],
+      "ms": 40
+    },
+    {
+      "id": "6f7dff67-d723-4748-b6d8-5b0bcdd7e309",
+      "truth": "qala",
+      "signerId": "0211b488644476dd0fec656ccb9b74fc",
+      "quality": {
+        "validFrames": 29,
+        "totalFrames": 29,
+        "poseFrames": 29,
+        "duration": 1867,
+        "left": 28,
+        "right": 15
+      },
+      "reason": "distance",
+      "wordId": null,
+      "distance": 0.7101505670592563,
+      "margin": 0.1400553119934333,
+      "top": [
+        {
+          "wordId": "qala",
+          "distance": 0.7101505670592563,
+          "references": 2
+        },
+        {
+          "wordId": "at",
+          "distance": 0.8258095863182231,
+          "references": 3
+        },
+        {
+          "wordId": "keshe",
+          "distance": 0.8729634633915848,
+          "references": 2
+        }
+      ],
+      "ms": 30
+    },
+    {
+      "id": "70c5ffe5-5ee7-4400-aa30-dbc15c281dbb",
+      "truth": "salem",
+      "signerId": "fc6e5caa3dc328e7558b072e6607e399",
+      "quality": {
+        "validFrames": 28,
+        "totalFrames": 28,
+        "poseFrames": 28,
+        "duration": 1800,
+        "left": 28,
+        "right": 23
+      },
+      "reason": "match",
+      "wordId": "salem",
+      "distance": 0.3576528876498165,
+      "margin": 0.2807778856085895,
+      "top": [
+        {
+          "wordId": "salem",
+          "distance": 0.3576528876498165,
+          "references": 8
+        },
+        {
+          "wordId": "ake",
+          "distance": 0.497277378563998,
+          "references": 4
+        },
+        {
+          "wordId": "keshe",
+          "distance": 0.5452065664158361,
+          "references": 3
+        }
+      ],
+      "ms": 64
+    },
+    {
+      "id": "728c296d-1cc6-4475-865b-8a3396221970",
+      "truth": "at",
+      "signerId": "0211b488644476dd0fec656ccb9b74fc",
+      "quality": {
+        "validFrames": 19,
+        "totalFrames": 19,
+        "poseFrames": 19,
+        "duration": 1200,
+        "left": 17,
+        "right": 18
+      },
+      "reason": "match",
+      "wordId": "at",
+      "distance": 0.3966977308269374,
+      "margin": 0.41251826194025926,
+      "top": [
+        {
+          "wordId": "at",
+          "distance": 0.3966977308269374,
+          "references": 3
+        },
+        {
+          "wordId": "qala",
+          "distance": 0.6752511697420582,
+          "references": 2
+        },
+        {
+          "wordId": "ana",
+          "distance": 0.7107695057577923,
+          "references": 12
+        }
+      ],
+      "ms": 34
+    },
+    {
+      "id": "740688dc-78b7-4ecf-9746-e60e7bf47027",
+      "truth": "erten",
+      "signerId": "db573f94204e56e0cf3fc2ea000e5bdc",
+      "quality": {
+        "validFrames": 17,
+        "totalFrames": 17,
+        "poseFrames": 17,
+        "duration": 1067,
+        "left": 17,
+        "right": 15
+      },
+      "reason": "ambiguous",
+      "wordId": null,
+      "distance": 0.36154427922815396,
+      "margin": 0.05278243283660003,
+      "top": [
+        {
+          "wordId": "salem",
+          "distance": 0.36154427922815396,
+          "references": 8
+        },
+        {
+          "wordId": "ake",
+          "distance": 0.38169085093180677,
+          "references": 3
+        },
+        {
+          "wordId": "ana",
+          "distance": 0.3967195468040622,
+          "references": 12
+        }
+      ],
+      "ms": 32
+    },
+    {
+      "id": "74f4df78-863a-49af-9627-baee72b0feec",
+      "truth": "ake",
+      "signerId": "185bd3a81d9d618518d10abebf0d17a8",
+      "quality": {
+        "validFrames": 23,
+        "totalFrames": 26,
+        "poseFrames": 26,
+        "duration": 1667,
+        "left": 0,
+        "right": 23
+      },
+      "reason": "match",
+      "wordId": "ake",
+      "distance": 0.22175922451143956,
+      "margin": 0.424787792763283,
+      "top": [
+        {
+          "wordId": "ake",
+          "distance": 0.22175922451143956,
+          "references": 3
+        },
+        {
+          "wordId": "keshe",
+          "distance": 0.38552593585723227,
+          "references": 2
+        },
+        {
+          "wordId": "ana",
+          "distance": 0.5249235777835418,
+          "references": 12
+        }
+      ],
+      "ms": 20
+    },
+    {
+      "id": "77637f9d-c047-4726-84da-e4061caaaba9",
+      "truth": "at",
+      "signerId": "0211b488644476dd0fec656ccb9b74fc",
+      "quality": {
+        "validFrames": 25,
+        "totalFrames": 25,
+        "poseFrames": 25,
+        "duration": 1600,
+        "left": 25,
+        "right": 21
+      },
+      "reason": "match",
+      "wordId": "at",
+      "distance": 0.3800552649671959,
+      "margin": 0.4162602864071773,
+      "top": [
+        {
+          "wordId": "at",
+          "distance": 0.3800552649671959,
+          "references": 3
+        },
+        {
+          "wordId": "qala",
+          "distance": 0.6510697424165606,
+          "references": 2
+        },
+        {
+          "wordId": "ana",
+          "distance": 0.6733400533530602,
+          "references": 12
+        }
+      ],
+      "ms": 46
+    },
+    {
+      "id": "7889864a-3908-4ffa-974d-a59de8250b36",
+      "truth": "ana",
+      "signerId": "185bd3a81d9d618518d10abebf0d17a8",
+      "quality": {
+        "validFrames": 23,
+        "totalFrames": 24,
+        "poseFrames": 24,
+        "duration": 1533,
+        "left": 1,
+        "right": 22
+      },
+      "reason": "match",
+      "wordId": "ana",
+      "distance": 0.2093632561387953,
+      "margin": 0.3906903773437497,
+      "top": [
+        {
+          "wordId": "ana",
+          "distance": 0.2093632561387953,
+          "references": 12
+        },
+        {
+          "wordId": "salem",
+          "distance": 0.34360733583377234,
+          "references": 8
+        },
+        {
+          "wordId": "keshe",
+          "distance": 0.5560171320589626,
+          "references": 2
+        }
+      ],
+      "ms": 16
+    },
+    {
+      "id": "78a4ca40-8a78-437e-8024-13935bd3abdb",
+      "truth": "ake",
+      "signerId": "db573f94204e56e0cf3fc2ea000e5bdc",
+      "quality": {
+        "validFrames": 26,
+        "totalFrames": 26,
+        "poseFrames": 26,
+        "duration": 1667,
+        "left": 26,
+        "right": 24
+      },
+      "reason": "match",
+      "wordId": "ake",
+      "distance": 0.3816431388587474,
+      "margin": 0.208521200525381,
+      "top": [
+        {
+          "wordId": "ake",
+          "distance": 0.3816431388587474,
+          "references": 3
+        },
+        {
+          "wordId": "ana",
+          "distance": 0.48218997035938405,
+          "references": 12
+        },
+        {
+          "wordId": "salem",
+          "distance": 0.48740685589407867,
+          "references": 8
+        }
+      ],
+      "ms": 20
+    },
+    {
+      "id": "7e8516ac-111d-4237-995c-a3d832905d78",
+      "truth": "ake",
+      "signerId": "46dd04a1caa75ed3082b573cb5a3ad26",
+      "quality": {
+        "validFrames": 18,
+        "totalFrames": 19,
+        "poseFrames": 19,
+        "duration": 1200,
+        "left": 13,
+        "right": 16
+      },
+      "reason": "match",
+      "wordId": "ake",
+      "distance": 0.40396343064371787,
+      "margin": 0.30224706988582284,
+      "top": [
+        {
+          "wordId": "ake",
+          "distance": 0.40396343064371787,
+          "references": 3
+        },
+        {
+          "wordId": "keshe",
+          "distance": 0.5789490996155546,
+          "references": 3
+        },
+        {
+          "wordId": "ana",
+          "distance": 0.6270443742252522,
+          "references": 12
+        }
+      ],
+      "ms": 24
+    },
+    {
+      "id": "7fae068c-afc9-4d4e-826e-eaf73dbbe7ae",
+      "truth": "keshe",
+      "signerId": "0211b488644476dd0fec656ccb9b74fc",
+      "quality": {
+        "validFrames": 22,
+        "totalFrames": 24,
+        "poseFrames": 24,
+        "duration": 1533,
+        "left": 22,
+        "right": 0
+      },
+      "reason": "match",
+      "wordId": "keshe",
+      "distance": 0.29272286169876927,
+      "margin": 0.37948243365523143,
+      "top": [
+        {
+          "wordId": "keshe",
+          "distance": 0.29272286169876927,
+          "references": 2
+        },
+        {
+          "wordId": "ake",
+          "distance": 0.4717398468234954,
+          "references": 3
+        },
+        {
+          "wordId": "erten",
+          "distance": 0.4911338105892073,
+          "references": 2
+        }
+      ],
+      "ms": 14
+    },
+    {
+      "id": "8862bbaa-4c38-4c53-908a-7e8afd1b0df7",
+      "truth": "ake",
+      "signerId": "185bd3a81d9d618518d10abebf0d17a8",
+      "quality": {
+        "validFrames": 18,
+        "totalFrames": 19,
+        "poseFrames": 19,
+        "duration": 1200,
+        "left": 0,
+        "right": 18
+      },
+      "reason": "match",
+      "wordId": "ake",
+      "distance": 0.2258280771475933,
+      "margin": 0.4270994680228098,
+      "top": [
+        {
+          "wordId": "ake",
+          "distance": 0.2258280771475933,
+          "references": 3
+        },
+        {
+          "wordId": "keshe",
+          "distance": 0.3941837448958496,
+          "references": 2
+        },
+        {
+          "wordId": "ana",
+          "distance": 0.49166541327020497,
+          "references": 12
+        }
+      ],
+      "ms": 16
+    },
+    {
+      "id": "88cc3b6f-8839-40b0-bc82-d59b47533c9e",
+      "truth": "ake",
+      "signerId": "0211b488644476dd0fec656ccb9b74fc",
+      "quality": {
+        "validFrames": 30,
+        "totalFrames": 30,
+        "poseFrames": 30,
+        "duration": 1933,
+        "left": 26,
+        "right": 30
+      },
+      "reason": "match",
+      "wordId": "ake",
+      "distance": 0.35571475936147423,
+      "margin": 0.3087849455143547,
+      "top": [
+        {
+          "wordId": "ake",
+          "distance": 0.35571475936147423,
+          "references": 3
+        },
+        {
+          "wordId": "salem",
+          "distance": 0.5146224131738171,
+          "references": 8
+        },
+        {
+          "wordId": "ana",
+          "distance": 0.5473243929027719,
+          "references": 12
+        }
+      ],
+      "ms": 29
+    },
+    {
+      "id": "8aca4734-9f91-4367-82c9-979110a8b908",
+      "truth": "qala",
+      "signerId": "db573f94204e56e0cf3fc2ea000e5bdc",
+      "quality": {
+        "validFrames": 22,
+        "totalFrames": 24,
+        "poseFrames": 24,
+        "duration": 1533,
+        "left": 22,
+        "right": 20
+      },
+      "reason": "match",
+      "wordId": "qala",
+      "distance": 0.5454601424907759,
+      "margin": 0.1373983325832387,
+      "top": [
+        {
+          "wordId": "qala",
+          "distance": 0.5454601424907759,
+          "references": 2
+        },
+        {
+          "wordId": "at",
+          "distance": 0.6323430189096073,
+          "references": 3
+        },
+        {
+          "wordId": "ake",
+          "distance": 0.769239489214952,
+          "references": 3
+        }
+      ],
+      "ms": 27
+    },
+    {
+      "id": "8b68e645-74fc-4110-94d6-e50f09841384",
+      "truth": "salem",
+      "signerId": "db573f94204e56e0cf3fc2ea000e5bdc",
+      "quality": {
+        "validFrames": 25,
+        "totalFrames": 25,
+        "poseFrames": 25,
+        "duration": 1600,
+        "left": 25,
+        "right": 19
+      },
+      "reason": "match",
+      "wordId": "salem",
+      "distance": 0.42774847815964095,
+      "margin": 0.18074291293515934,
+      "top": [
+        {
+          "wordId": "salem",
+          "distance": 0.42774847815964095,
+          "references": 8
+        },
+        {
+          "wordId": "ana",
+          "distance": 0.5221175195348496,
+          "references": 12
+        },
+        {
+          "wordId": "ake",
+          "distance": 0.5953103371707684,
+          "references": 3
+        }
+      ],
+      "ms": 25
+    },
+    {
+      "id": "8be18724-8b23-4fef-bdc7-cf5997a6bf61",
+      "truth": "ana",
+      "signerId": "0211b488644476dd0fec656ccb9b74fc",
+      "quality": {
+        "validFrames": 17,
+        "totalFrames": 20,
+        "poseFrames": 20,
+        "duration": 1267,
+        "left": 17,
+        "right": 0
+      },
+      "reason": "match",
+      "wordId": "ana",
+      "distance": 0.15562633291802414,
+      "margin": 0.608178970398885,
+      "top": [
+        {
+          "wordId": "ana",
+          "distance": 0.15562633291802414,
+          "references": 12
+        },
+        {
+          "wordId": "salem",
+          "distance": 0.3971872900146687,
+          "references": 8
+        },
+        {
+          "wordId": "keshe",
+          "distance": 0.506904253072646,
+          "references": 2
+        }
+      ],
+      "ms": 15
+    },
+    {
+      "id": "8f8056fe-ceb5-4324-a5ca-6d8e95184692",
+      "truth": "ia",
+      "signerId": "0211b488644476dd0fec656ccb9b74fc",
+      "quality": {
+        "validFrames": 13,
+        "totalFrames": 20,
+        "poseFrames": 20,
+        "duration": 1267,
+        "left": 13,
+        "right": 0
+      },
+      "reason": "ambiguous",
+      "wordId": null,
+      "distance": 0.5288386100619744,
+      "margin": 0.054979381932391796,
+      "top": [
+        {
+          "wordId": "ana",
+          "distance": 0.5288386100619744,
+          "references": 12
+        },
+        {
+          "wordId": "ia",
+          "distance": 0.5596053672811406,
+          "references": 6
+        },
+        {
+          "wordId": "keshe",
+          "distance": 0.5818496944765937,
+          "references": 2
+        }
+      ],
+      "ms": 19
+    },
+    {
+      "id": "8f8a734b-5969-40a9-8937-6dc63a428b3f",
+      "truth": "bugin",
+      "signerId": "db573f94204e56e0cf3fc2ea000e5bdc",
+      "quality": {
+        "validFrames": 4,
+        "totalFrames": 21,
+        "poseFrames": 21,
+        "duration": 1333,
+        "left": 4,
+        "right": 0
+      },
+      "reason": "frames",
+      "wordId": null,
+      "top": [],
+      "ms": 0
+    },
+    {
+      "id": "91236ed2-0aee-4e79-86f4-c8410060882f",
+      "truth": "ake",
+      "signerId": "46dd04a1caa75ed3082b573cb5a3ad26",
+      "quality": {
+        "validFrames": 20,
+        "totalFrames": 20,
+        "poseFrames": 20,
+        "duration": 1267,
+        "left": 18,
+        "right": 20
+      },
+      "reason": "match",
+      "wordId": "ake",
+      "distance": 0.30141933552055494,
+      "margin": 0.34108629672617097,
+      "top": [
+        {
+          "wordId": "ake",
+          "distance": 0.30141933552055494,
+          "references": 3
+        },
+        {
+          "wordId": "ana",
+          "distance": 0.45744887991089805,
+          "references": 12
+        },
+        {
+          "wordId": "salem",
+          "distance": 0.4630351748129327,
+          "references": 8
+        }
+      ],
+      "ms": 42
+    },
+    {
+      "id": "9357b146-2273-48a9-8f27-65e8bd13de76",
+      "truth": "bugin",
+      "signerId": "185bd3a81d9d618518d10abebf0d17a8",
+      "quality": {
+        "validFrames": 19,
+        "totalFrames": 20,
+        "poseFrames": 20,
+        "duration": 1267,
+        "left": 16,
+        "right": 18
+      },
+      "reason": "distance",
+      "wordId": null,
+      "distance": 0.7415530345451864,
+      "margin": 0.09509479458545726,
+      "top": [
+        {
+          "wordId": "bugin",
+          "distance": 0.7415530345451864,
+          "references": 3
+        },
+        {
+          "wordId": "ia",
+          "distance": 0.8194814551933938,
+          "references": 6
+        },
+        {
+          "wordId": "ana",
+          "distance": 0.9283135876315225,
+          "references": 12
+        }
+      ],
+      "ms": 29
+    },
+    {
+      "id": "97d3b112-eaba-47c4-be78-6b623df03ec7",
+      "truth": "qala",
+      "signerId": "db573f94204e56e0cf3fc2ea000e5bdc",
+      "quality": {
+        "validFrames": 21,
+        "totalFrames": 21,
+        "poseFrames": 21,
+        "duration": 1333,
+        "left": 14,
+        "right": 16
+      },
+      "reason": "distance",
+      "wordId": null,
+      "distance": 0.7141717071607303,
+      "margin": 0.020282419184121873,
+      "top": [
+        {
+          "wordId": "qala",
+          "distance": 0.7141717071607303,
+          "references": 2
+        },
+        {
+          "wordId": "at",
+          "distance": 0.7289567127763396,
+          "references": 3
+        },
+        {
+          "wordId": "ake",
+          "distance": 0.8001503211434733,
+          "references": 3
+        }
+      ],
+      "ms": 28
+    },
+    {
+      "id": "9c40828a-75a4-44e9-bfb6-074ed4f5f6a1",
+      "truth": "qala",
+      "signerId": "0211b488644476dd0fec656ccb9b74fc",
+      "quality": {
+        "validFrames": 28,
+        "totalFrames": 29,
+        "poseFrames": 29,
+        "duration": 1867,
+        "left": 27,
+        "right": 13
+      },
+      "reason": "distance",
+      "wordId": null,
+      "distance": 0.8193816876430622,
+      "margin": 0.004535191336828837,
+      "top": [
+        {
+          "wordId": "ana",
+          "distance": 0.8193816876430622,
+          "references": 12
+        },
+        {
+          "wordId": "keshe",
+          "distance": 0.8231146701644085,
+          "references": 2
+        },
+        {
+          "wordId": "qala",
+          "distance": 0.8265273440276859,
+          "references": 2
+        }
+      ],
+      "ms": 22
+    },
+    {
+      "id": "9cd143f8-ab4a-423a-b063-004646a22952",
+      "truth": "erten",
+      "signerId": "0211b488644476dd0fec656ccb9b74fc",
+      "quality": {
+        "validFrames": 18,
+        "totalFrames": 20,
+        "poseFrames": 20,
+        "duration": 1267,
+        "left": 17,
+        "right": 2
+      },
+      "reason": "ambiguous",
+      "wordId": null,
+      "distance": 0.4895804741453006,
+      "margin": 0.0307410799378156,
+      "top": [
+        {
+          "wordId": "keshe",
+          "distance": 0.4895804741453006,
+          "references": 2
+        },
+        {
+          "wordId": "ana",
+          "distance": 0.505108040804918,
+          "references": 12
+        },
+        {
+          "wordId": "salem",
+          "distance": 0.5278459164518603,
+          "references": 8
+        }
+      ],
+      "ms": 15
+    },
+    {
+      "id": "9df88618-6cb3-41c5-ad94-86310dd1090b",
+      "truth": "ana",
+      "signerId": "fc6e5caa3dc328e7558b072e6607e399",
+      "quality": {
+        "validFrames": 19,
+        "totalFrames": 19,
+        "poseFrames": 19,
+        "duration": 1200,
+        "left": 19,
+        "right": 17
+      },
+      "reason": "match",
+      "wordId": "salem",
+      "distance": 0.3780688943741704,
+      "margin": 0.22960245698925227,
+      "top": [
+        {
+          "wordId": "salem",
+          "distance": 0.3780688943741704,
+          "references": 8
+        },
+        {
+          "wordId": "ake",
+          "distance": 0.4907451974686477,
+          "references": 4
+        },
+        {
+          "wordId": "ana",
+          "distance": 0.49992186891799245,
+          "references": 12
+        }
+      ],
+      "ms": 37
+    },
+    {
+      "id": "9e8e1cfc-2f11-4658-9482-2daef12bf87d",
+      "truth": "ana",
+      "signerId": "185bd3a81d9d618518d10abebf0d17a8",
+      "quality": {
+        "validFrames": 24,
+        "totalFrames": 25,
+        "poseFrames": 25,
+        "duration": 1600,
+        "left": 1,
+        "right": 23
+      },
+      "reason": "match",
+      "wordId": "ana",
+      "distance": 0.18597202667842158,
+      "margin": 0.5314890118090069,
+      "top": [
+        {
+          "wordId": "ana",
+          "distance": 0.18597202667842158,
+          "references": 12
+        },
+        {
+          "wordId": "salem",
+          "distance": 0.3969427214428709,
+          "references": 8
+        },
+        {
+          "wordId": "keshe",
+          "distance": 0.5442029649277231,
+          "references": 2
+        }
+      ],
+      "ms": 15
+    },
+    {
+      "id": "9f25300d-aa50-4185-934c-deda7fea7bbd",
+      "truth": "keshe",
+      "signerId": "db573f94204e56e0cf3fc2ea000e5bdc",
+      "quality": {
+        "validFrames": 21,
+        "totalFrames": 21,
+        "poseFrames": 21,
+        "duration": 1333,
+        "left": 21,
+        "right": 19
+      },
+      "reason": "match",
+      "wordId": "salem",
+      "distance": 0.3831003215281351,
+      "margin": 0.15539622248335905,
+      "top": [
+        {
+          "wordId": "salem",
+          "distance": 0.3831003215281351,
+          "references": 8
+        },
+        {
+          "wordId": "ake",
+          "distance": 0.4535858490410162,
+          "references": 3
+        },
+        {
+          "wordId": "ana",
+          "distance": 0.4899267443382084,
+          "references": 12
+        }
+      ],
+      "ms": 28
+    },
+    {
+      "id": "a1a428c3-5ddd-4baa-9de5-723eb9fe3f00",
+      "truth": "ana",
+      "signerId": "db573f94204e56e0cf3fc2ea000e5bdc",
+      "quality": {
+        "validFrames": 24,
+        "totalFrames": 24,
+        "poseFrames": 24,
+        "duration": 1533,
+        "left": 24,
+        "right": 22
+      },
+      "reason": "match",
+      "wordId": "ana",
+      "distance": 0.5246679481637895,
+      "margin": 0.1892156629464098,
+      "top": [
+        {
+          "wordId": "ana",
+          "distance": 0.5246679481637895,
+          "references": 12
+        },
+        {
+          "wordId": "salem",
+          "distance": 0.6471115982216004,
+          "references": 8
+        },
+        {
+          "wordId": "keshe",
+          "distance": 0.6934303264855657,
+          "references": 2
+        }
+      ],
+      "ms": 41
+    },
+    {
+      "id": "a28317c6-d950-44ee-9c72-952f3535445a",
+      "truth": "salem",
+      "signerId": "95af8e702c909eee7145c6dc1a3d756b",
+      "quality": {
+        "validFrames": 24,
+        "totalFrames": 24,
+        "poseFrames": 24,
+        "duration": 1533,
+        "left": 24,
+        "right": 19
+      },
+      "reason": "match",
+      "wordId": "salem",
+      "distance": 0.3107312615697263,
+      "margin": 0.269066225988561,
+      "top": [
+        {
+          "wordId": "salem",
+          "distance": 0.3107312615697263,
+          "references": 8
+        },
+        {
+          "wordId": "ana",
+          "distance": 0.42511547915538433,
+          "references": 12
+        },
+        {
+          "wordId": "ake",
+          "distance": 0.4629215917980122,
+          "references": 4
+        }
+      ],
+      "ms": 55
+    },
+    {
+      "id": "a69e018c-4b6d-42fd-aba6-c538a5b2bc32",
+      "truth": "salem",
+      "signerId": "185bd3a81d9d618518d10abebf0d17a8",
+      "quality": {
+        "validFrames": 26,
+        "totalFrames": 26,
+        "poseFrames": 26,
+        "duration": 1667,
+        "left": 0,
+        "right": 26
+      },
+      "reason": "match",
+      "wordId": "salem",
+      "distance": 0.2188737663665843,
+      "margin": 0.27173071090228973,
+      "top": [
+        {
+          "wordId": "salem",
+          "distance": 0.2188737663665843,
+          "references": 8
+        },
+        {
+          "wordId": "ana",
+          "distance": 0.30053960759179904,
+          "references": 12
+        },
+        {
+          "wordId": "keshe",
+          "distance": 0.557919472872532,
+          "references": 2
+        }
+      ],
+      "ms": 31
+    },
+    {
+      "id": "ae1ef9f7-7451-412c-a898-093e5ba566c8",
+      "truth": "keshe",
+      "signerId": "185bd3a81d9d618518d10abebf0d17a8",
+      "quality": {
+        "validFrames": 19,
+        "totalFrames": 19,
+        "poseFrames": 19,
+        "duration": 1200,
+        "left": 0,
+        "right": 19
+      },
+      "reason": "match",
+      "wordId": "keshe",
+      "distance": 0.2668409999967616,
+      "margin": 0.41574289575295253,
+      "top": [
+        {
+          "wordId": "keshe",
+          "distance": 0.2668409999967616,
+          "references": 2
+        },
+        {
+          "wordId": "salem",
+          "distance": 0.45671845161497676,
+          "references": 8
+        },
+        {
+          "wordId": "ana",
+          "distance": 0.4677557693478903,
+          "references": 12
+        }
+      ],
+      "ms": 17
+    },
+    {
+      "id": "b40f30e4-d087-440f-a1f6-4d1029fc651d",
+      "truth": "salem",
+      "signerId": "b07a773bcb10b4f14f33d2b0e8ec58ba",
+      "quality": {
+        "validFrames": 30,
+        "totalFrames": 33,
+        "poseFrames": 33,
+        "duration": 2133,
+        "left": 30,
+        "right": 0
+      },
+      "reason": "match",
+      "wordId": "salem",
+      "distance": 0.34163112612569646,
+      "margin": 0.1426356335995712,
+      "top": [
+        {
+          "wordId": "salem",
+          "distance": 0.34163112612569646,
+          "references": 8
+        },
+        {
+          "wordId": "erten",
+          "distance": 0.39846667241374356,
+          "references": 3
+        },
+        {
+          "wordId": "ana",
+          "distance": 0.49077388937099925,
+          "references": 13
+        }
+      ],
+      "ms": 25
+    },
+    {
+      "id": "b43069a6-a4c3-4ff3-bf2b-5e971b92087f",
+      "truth": "keshe",
+      "signerId": "185bd3a81d9d618518d10abebf0d17a8",
+      "quality": {
+        "validFrames": 21,
+        "totalFrames": 22,
+        "poseFrames": 22,
+        "duration": 1400,
+        "left": 0,
+        "right": 21
+      },
+      "reason": "match",
+      "wordId": "keshe",
+      "distance": 0.21868740485958119,
+      "margin": 0.5214551592329184,
+      "top": [
+        {
+          "wordId": "keshe",
+          "distance": 0.21868740485958119,
+          "references": 2
+        },
+        {
+          "wordId": "ana",
+          "distance": 0.45698414491113737,
+          "references": 12
+        },
+        {
+          "wordId": "salem",
+          "distance": 0.45868405241434446,
+          "references": 8
+        }
+      ],
+      "ms": 26
+    },
+    {
+      "id": "bc7549b9-b05b-49f1-b49b-28d148065ed0",
+      "truth": "qala",
+      "signerId": "185bd3a81d9d618518d10abebf0d17a8",
+      "quality": {
+        "validFrames": 34,
+        "totalFrames": 34,
+        "poseFrames": 34,
+        "duration": 2200,
+        "left": 22,
+        "right": 34
+      },
+      "reason": "distance",
+      "wordId": null,
+      "distance": 0.7339778065316023,
+      "margin": 0.1081617708132672,
+      "top": [
+        {
+          "wordId": "qala",
+          "distance": 0.7339778065316023,
+          "references": 2
+        },
+        {
+          "wordId": "at",
+          "distance": 0.8229943307105332,
+          "references": 3
+        },
+        {
+          "wordId": "keshe",
+          "distance": 0.8404349491193266,
+          "references": 2
+        }
+      ],
+      "ms": 44
+    },
+    {
+      "id": "bdbdddf8-56cb-4bf2-9c28-e65a3993c18d",
+      "truth": "ana",
+      "signerId": "a95892dae1d320bd8b08cbca6a127cd8",
+      "quality": {
+        "validFrames": 21,
+        "totalFrames": 23,
+        "poseFrames": 23,
+        "duration": 1467,
+        "left": 0,
+        "right": 21
+      },
+      "reason": "match",
+      "wordId": "ana",
+      "distance": 0.1678410607165527,
+      "margin": 0.5679487382070258,
+      "top": [
+        {
+          "wordId": "ana",
+          "distance": 0.1678410607165527,
+          "references": 12
+        },
+        {
+          "wordId": "salem",
+          "distance": 0.3884748768468521,
+          "references": 9
+        },
+        {
+          "wordId": "keshe",
+          "distance": 0.4476387804932912,
+          "references": 3
+        }
+      ],
+      "ms": 37
+    },
+    {
+      "id": "c07d488b-e82a-44e4-888d-360cd4845931",
+      "truth": "ake",
+      "signerId": "0211b488644476dd0fec656ccb9b74fc",
+      "quality": {
+        "validFrames": 18,
+        "totalFrames": 19,
+        "poseFrames": 19,
+        "duration": 1200,
+        "left": 17,
+        "right": 1
+      },
+      "reason": "match",
+      "wordId": "ake",
+      "distance": 0.24732437977279928,
+      "margin": 0.3985697180309157,
+      "top": [
+        {
+          "wordId": "ake",
+          "distance": 0.24732437977279928,
+          "references": 3
+        },
+        {
+          "wordId": "keshe",
+          "distance": 0.41122701531266204,
+          "references": 2
+        },
+        {
+          "wordId": "ana",
+          "distance": 0.5381811290329549,
+          "references": 12
+        }
+      ],
+      "ms": 26
+    },
+    {
+      "id": "c09a4339-ab15-4ede-aedb-562fdea21bfc",
+      "truth": "bugin",
+      "signerId": "0211b488644476dd0fec656ccb9b74fc",
+      "quality": {
+        "validFrames": 24,
+        "totalFrames": 26,
+        "poseFrames": 26,
+        "duration": 1667,
+        "left": 20,
+        "right": 20
+      },
+      "reason": "distance",
+      "wordId": null,
+      "distance": 0.7110983413945948,
+      "margin": 0.047859998458387766,
+      "top": [
+        {
+          "wordId": "bugin",
+          "distance": 0.7110983413945948,
+          "references": 3
+        },
+        {
+          "wordId": "ia",
+          "distance": 0.746842208334125,
+          "references": 6
+        },
+        {
+          "wordId": "at",
+          "distance": 0.7790514679276488,
+          "references": 3
+        }
+      ],
+      "ms": 35
+    },
+    {
+      "id": "c16285cb-d4d8-436b-9df3-8d3a875c2916",
+      "truth": "erten",
+      "signerId": "185bd3a81d9d618518d10abebf0d17a8",
+      "quality": {
+        "validFrames": 27,
+        "totalFrames": 29,
+        "poseFrames": 29,
+        "duration": 1867,
+        "left": 0,
+        "right": 27
+      },
+      "reason": "match",
+      "wordId": "keshe",
+      "distance": 0.32265617415317427,
+      "margin": 0.09069354305803853,
+      "top": [
+        {
+          "wordId": "keshe",
+          "distance": 0.32265617415317427,
+          "references": 2
+        },
+        {
+          "wordId": "salem",
+          "distance": 0.3548376586242239,
+          "references": 8
+        },
+        {
+          "wordId": "erten",
+          "distance": 0.3950913207498228,
+          "references": 2
+        }
+      ],
+      "ms": 26
+    },
+    {
+      "id": "c1ba0d36-a7b4-4d81-8f05-1dae8ecf9010",
+      "truth": "salem",
+      "signerId": "d2b4042ec6d8505a41b809e64d5adb7c",
+      "quality": {
+        "validFrames": 20,
+        "totalFrames": 20,
+        "poseFrames": 20,
+        "duration": 1267,
+        "left": 20,
+        "right": 18
+      },
+      "reason": "match",
+      "wordId": "salem",
+      "distance": 0.5667351123691995,
+      "margin": 0.08515721721529346,
+      "top": [
+        {
+          "wordId": "salem",
+          "distance": 0.5667351123691995,
+          "references": 8
+        },
+        {
+          "wordId": "ake",
+          "distance": 0.6194890783792426,
+          "references": 4
+        },
+        {
+          "wordId": "ana",
+          "distance": 0.6254094600268434,
+          "references": 13
+        }
+      ],
+      "ms": 59
+    },
+    {
+      "id": "c21a2fb1-f9cf-478c-be12-c7cbe39e2ea4",
+      "truth": "bugin",
+      "signerId": "db573f94204e56e0cf3fc2ea000e5bdc",
+      "quality": {
+        "validFrames": 23,
+        "totalFrames": 23,
+        "poseFrames": 23,
+        "duration": 1467,
+        "left": 18,
+        "right": 20
+      },
+      "reason": "match",
+      "wordId": "bugin",
+      "distance": 0.6136607713837692,
+      "margin": 0.16151589546306605,
+      "top": [
+        {
+          "wordId": "bugin",
+          "distance": 0.6136607713837692,
+          "references": 3
+        },
+        {
+          "wordId": "ia",
+          "distance": 0.7318692961063025,
+          "references": 6
+        },
+        {
+          "wordId": "ana",
+          "distance": 0.8046543806656983,
+          "references": 12
+        }
+      ],
+      "ms": 61
+    },
+    {
+      "id": "c2f3f365-0329-43e6-b531-daefc4cca0f5",
+      "truth": "erten",
+      "signerId": "db573f94204e56e0cf3fc2ea000e5bdc",
+      "quality": {
+        "validFrames": 26,
+        "totalFrames": 26,
+        "poseFrames": 26,
+        "duration": 1667,
+        "left": 26,
+        "right": 18
+      },
+      "reason": "ambiguous",
+      "wordId": null,
+      "distance": 0.4235743489990028,
+      "margin": 0.02048120827795824,
+      "top": [
+        {
+          "wordId": "ana",
+          "distance": 0.4235743489990028,
+          "references": 12
+        },
+        {
+          "wordId": "salem",
+          "distance": 0.432431059596456,
+          "references": 8
+        },
+        {
+          "wordId": "ake",
+          "distance": 0.4910832904208479,
+          "references": 3
+        }
+      ],
+      "ms": 45
+    },
+    {
+      "id": "c896fe51-33c3-4b74-a3b1-ed6358bbeef4",
+      "truth": "qala",
+      "signerId": "db573f94204e56e0cf3fc2ea000e5bdc",
+      "quality": {
+        "validFrames": 13,
+        "totalFrames": 21,
+        "poseFrames": 21,
+        "duration": 1333,
+        "left": 0,
+        "right": 13
+      },
+      "reason": "ambiguous",
+      "wordId": null,
+      "distance": 0.5922743112823043,
+      "margin": 0.045277636891030495,
+      "top": [
+        {
+          "wordId": "ake",
+          "distance": 0.5922743112823043,
+          "references": 3
+        },
+        {
+          "wordId": "ana",
+          "distance": 0.6203628763378026,
+          "references": 12
+        },
+        {
+          "wordId": "keshe",
+          "distance": 0.6564942950901651,
+          "references": 2
+        }
+      ],
+      "ms": 22
+    },
+    {
+      "id": "cc2cac28-c91d-4bea-857e-ab7cc44ade42",
+      "truth": "bugin",
+      "signerId": "185bd3a81d9d618518d10abebf0d17a8",
+      "quality": {
+        "validFrames": 16,
+        "totalFrames": 16,
+        "poseFrames": 16,
+        "duration": 1000,
+        "left": 16,
+        "right": 14
+      },
+      "reason": "match",
+      "wordId": "bugin",
+      "distance": 0.6311120595980992,
+      "margin": 0.09284703799661466,
+      "top": [
+        {
+          "wordId": "bugin",
+          "distance": 0.6311120595980992,
+          "references": 3
+        },
+        {
+          "wordId": "ia",
+          "distance": 0.695706331823391,
+          "references": 6
+        },
+        {
+          "wordId": "ana",
+          "distance": 0.7468796146816223,
+          "references": 12
+        }
+      ],
+      "ms": 82
+    },
+    {
+      "id": "cc720e36-8afc-4297-9754-5987bbfaf356",
+      "truth": "salem",
+      "signerId": "46dd04a1caa75ed3082b573cb5a3ad26",
+      "quality": {
+        "validFrames": 19,
+        "totalFrames": 19,
+        "poseFrames": 19,
+        "duration": 1200,
+        "left": 17,
+        "right": 2
+      },
+      "reason": "match",
+      "wordId": "salem",
+      "distance": 0.25561308573835706,
+      "margin": 0.25917951360307234,
+      "top": [
+        {
+          "wordId": "salem",
+          "distance": 0.25561308573835706,
+          "references": 8
+        },
+        {
+          "wordId": "ana",
+          "distance": 0.34504051984518275,
+          "references": 12
+        },
+        {
+          "wordId": "erten",
+          "distance": 0.48614547023587285,
+          "references": 3
+        }
+      ],
+      "ms": 45
+    },
+    {
+      "id": "cd83e844-da05-4182-acb4-2a55d6a8acf9",
+      "truth": "erten",
+      "signerId": "0211b488644476dd0fec656ccb9b74fc",
+      "quality": {
+        "validFrames": 24,
+        "totalFrames": 26,
+        "poseFrames": 26,
+        "duration": 1667,
+        "left": 22,
+        "right": 2
+      },
+      "reason": "match",
+      "wordId": "keshe",
+      "distance": 0.4042413719081219,
+      "margin": 0.08075122000613477,
+      "top": [
+        {
+          "wordId": "keshe",
+          "distance": 0.4042413719081219,
+          "references": 2
+        },
+        {
+          "wordId": "erten",
+          "distance": 0.43975187207843747,
+          "references": 2
+        },
+        {
+          "wordId": "salem",
+          "distance": 0.4597793556306786,
+          "references": 8
+        }
+      ],
+      "ms": 43
+    },
+    {
+      "id": "d02125f9-79e8-4d0b-891d-d29035770d3d",
+      "truth": "qala",
+      "signerId": "db573f94204e56e0cf3fc2ea000e5bdc",
+      "quality": {
+        "validFrames": 27,
+        "totalFrames": 29,
+        "poseFrames": 29,
+        "duration": 1867,
+        "left": 21,
+        "right": 19
+      },
+      "reason": "distance",
+      "wordId": null,
+      "distance": 0.6851533716115689,
+      "margin": 0.07863519755439792,
+      "top": [
+        {
+          "wordId": "at",
+          "distance": 0.6851533716115689,
+          "references": 3
+        },
+        {
+          "wordId": "qala",
+          "distance": 0.7436287665786112,
+          "references": 2
+        },
+        {
+          "wordId": "keshe",
+          "distance": 0.7981474827773092,
+          "references": 2
+        }
+      ],
+      "ms": 49
+    },
+    {
+      "id": "d3865ed0-3975-449c-89bd-8977e0e33742",
+      "truth": "ia",
+      "signerId": "0211b488644476dd0fec656ccb9b74fc",
+      "quality": {
+        "validFrames": 13,
+        "totalFrames": 17,
+        "poseFrames": 17,
+        "duration": 1067,
+        "left": 13,
+        "right": 0
+      },
+      "reason": "distance",
+      "wordId": null,
+      "distance": 0.7010674645544204,
+      "margin": 0.06953123874570266,
+      "top": [
+        {
+          "wordId": "ia",
+          "distance": 0.7010674645544204,
+          "references": 6
+        },
+        {
+          "wordId": "bugin",
+          "distance": 0.7534562080400875,
+          "references": 3
+        },
+        {
+          "wordId": "ana",
+          "distance": 0.8097850704218217,
+          "references": 12
+        }
+      ],
+      "ms": 25
+    },
+    {
+      "id": "d3c362e9-5d35-48ea-b3c1-8312408d5ff0",
+      "truth": "at",
+      "signerId": "185bd3a81d9d618518d10abebf0d17a8",
+      "quality": {
+        "validFrames": 23,
+        "totalFrames": 24,
+        "poseFrames": 24,
+        "duration": 1533,
+        "left": 23,
+        "right": 21
+      },
+      "reason": "match",
+      "wordId": "at",
+      "distance": 0.26234625254438637,
+      "margin": 0.5817310930896201,
+      "top": [
+        {
+          "wordId": "at",
+          "distance": 0.26234625254438637,
+          "references": 3
+        },
+        {
+          "wordId": "qala",
+          "distance": 0.627219112418026,
+          "references": 2
+        },
+        {
+          "wordId": "ake",
+          "distance": 0.708909119192864,
+          "references": 3
+        }
+      ],
+      "ms": 69
+    },
+    {
+      "id": "d47688bb-be1c-479e-bf87-11d568b0cfa4",
+      "truth": "ana",
+      "signerId": "46dd04a1caa75ed3082b573cb5a3ad26",
+      "quality": {
+        "validFrames": 13,
+        "totalFrames": 14,
+        "poseFrames": 14,
+        "duration": 867,
+        "left": 13,
+        "right": 0
+      },
+      "reason": "match",
+      "wordId": "ana",
+      "distance": 0.1530255481557244,
+      "margin": 0.5700442811573285,
+      "top": [
+        {
+          "wordId": "ana",
+          "distance": 0.1530255481557244,
+          "references": 12
+        },
+        {
+          "wordId": "salem",
+          "distance": 0.3559100192169305,
+          "references": 8
+        },
+        {
+          "wordId": "keshe",
+          "distance": 0.4650851392300216,
+          "references": 3
+        }
+      ],
+      "ms": 44
+    },
+    {
+      "id": "d615d018-265d-47bb-be33-76859bc42f33",
+      "truth": "at",
+      "signerId": "db573f94204e56e0cf3fc2ea000e5bdc",
+      "quality": {
+        "validFrames": 24,
+        "totalFrames": 26,
+        "poseFrames": 26,
+        "duration": 1667,
+        "left": 24,
+        "right": 2
+      },
+      "reason": "ambiguous",
+      "wordId": null,
+      "distance": 0.4708058100186476,
+      "margin": 0.0628871028190755,
+      "top": [
+        {
+          "wordId": "at",
+          "distance": 0.4708058100186476,
+          "references": 3
+        },
+        {
+          "wordId": "keshe",
+          "distance": 0.5024003099679366,
+          "references": 2
+        },
+        {
+          "wordId": "ana",
+          "distance": 0.5702703784855878,
+          "references": 12
+        }
+      ],
+      "ms": 47
+    },
+    {
+      "id": "d7103ec6-475f-4c4b-8579-87f455dcdc22",
+      "truth": "ia",
+      "signerId": "46dd04a1caa75ed3082b573cb5a3ad26",
+      "quality": {
+        "validFrames": 14,
+        "totalFrames": 15,
+        "poseFrames": 15,
+        "duration": 933,
+        "left": 3,
+        "right": 13
+      },
+      "reason": "match",
+      "wordId": "ia",
+      "distance": 0.5656500011584014,
+      "margin": 0.2962485744180859,
+      "top": [
+        {
+          "wordId": "ia",
+          "distance": 0.5656500011584014,
+          "references": 6
+        },
+        {
+          "wordId": "ana",
+          "distance": 0.8037639152072478,
+          "references": 12
+        },
+        {
+          "wordId": "at",
+          "distance": 0.833406535774861,
+          "references": 3
+        }
+      ],
+      "ms": 47
+    },
+    {
+      "id": "dd845913-e430-4e57-8630-38752ea99be1",
+      "truth": "bugin",
+      "signerId": "db573f94204e56e0cf3fc2ea000e5bdc",
+      "quality": {
+        "validFrames": 21,
+        "totalFrames": 23,
+        "poseFrames": 23,
+        "duration": 1467,
+        "left": 21,
+        "right": 21
+      },
+      "reason": "match",
+      "wordId": "bugin",
+      "distance": 0.5979126020804313,
+      "margin": 0.19364674565835568,
+      "top": [
+        {
+          "wordId": "bugin",
+          "distance": 0.5979126020804313,
+          "references": 3
+        },
+        {
+          "wordId": "ia",
+          "distance": 0.741502063594452,
+          "references": 6
+        },
+        {
+          "wordId": "ana",
+          "distance": 0.7693192897508179,
+          "references": 12
+        }
+      ],
+      "ms": 52
+    },
+    {
+      "id": "e233883f-28f7-43c7-a874-63d83a902abd",
+      "truth": "at",
+      "signerId": "db573f94204e56e0cf3fc2ea000e5bdc",
+      "quality": {
+        "validFrames": 27,
+        "totalFrames": 27,
+        "poseFrames": 27,
+        "duration": 1733,
+        "left": 27,
+        "right": 27
+      },
+      "reason": "match",
+      "wordId": "at",
+      "distance": 0.22530723455859392,
+      "margin": 0.6321896362263291,
+      "top": [
+        {
+          "wordId": "at",
+          "distance": 0.22530723455859392,
+          "references": 3
+        },
+        {
+          "wordId": "qala",
+          "distance": 0.6125635837092259,
+          "references": 2
+        },
+        {
+          "wordId": "ana",
+          "distance": 0.6933677396138627,
+          "references": 12
+        }
+      ],
+      "ms": 59
+    },
+    {
+      "id": "e23b23cd-c193-425a-97ce-5d05bfd62c0e",
+      "truth": "keshe",
+      "signerId": "db573f94204e56e0cf3fc2ea000e5bdc",
+      "quality": {
+        "validFrames": 25,
+        "totalFrames": 25,
+        "poseFrames": 25,
+        "duration": 1600,
+        "left": 25,
+        "right": 17
+      },
+      "reason": "match",
+      "wordId": "ana",
+      "distance": 0.36103345717608837,
+      "margin": 0.10940725005475588,
+      "top": [
+        {
+          "wordId": "ana",
+          "distance": 0.36103345717608837,
+          "references": 12
+        },
+        {
+          "wordId": "salem",
+          "distance": 0.4053855785355154,
+          "references": 8
+        },
+        {
+          "wordId": "ake",
+          "distance": 0.4290819998943043,
+          "references": 3
+        }
+      ],
+      "ms": 54
+    },
+    {
+      "id": "e2ff84c9-676e-42a5-9537-f0de9f703865",
+      "truth": "ia",
+      "signerId": "0211b488644476dd0fec656ccb9b74fc",
+      "quality": {
+        "validFrames": 14,
+        "totalFrames": 15,
+        "poseFrames": 15,
+        "duration": 933,
+        "left": 13,
+        "right": 1
+      },
+      "reason": "match",
+      "wordId": "ia",
+      "distance": 0.4357392718862135,
+      "margin": 0.26925713385000777,
+      "top": [
+        {
+          "wordId": "ia",
+          "distance": 0.4357392718862135,
+          "references": 6
+        },
+        {
+          "wordId": "ana",
+          "distance": 0.5962963062259627,
+          "references": 12
+        },
+        {
+          "wordId": "salem",
+          "distance": 0.7027906027581503,
+          "references": 8
+        }
+      ],
+      "ms": 48
+    },
+    {
+      "id": "e8e1d732-4b46-4c4e-a04c-d1e81a36d031",
+      "truth": "ake",
+      "signerId": "0211b488644476dd0fec656ccb9b74fc",
+      "quality": {
+        "validFrames": 23,
+        "totalFrames": 24,
+        "poseFrames": 24,
+        "duration": 1533,
+        "left": 23,
+        "right": 1
+      },
+      "reason": "match",
+      "wordId": "ake",
+      "distance": 0.3820414496105647,
+      "margin": 0.4220864923797082,
+      "top": [
+        {
+          "wordId": "ake",
+          "distance": 0.3820414496105647,
+          "references": 3
+        },
+        {
+          "wordId": "keshe",
+          "distance": 0.6610702891920957,
+          "references": 2
+        },
+        {
+          "wordId": "at",
+          "distance": 0.7811211679035537,
+          "references": 3
+        }
+      ],
+      "ms": 38
+    },
+    {
+      "id": "ecde025e-fb92-48b2-bb39-2f3ea4687d87",
+      "truth": "at",
+      "signerId": "0211b488644476dd0fec656ccb9b74fc",
+      "quality": {
+        "validFrames": 27,
+        "totalFrames": 27,
+        "poseFrames": 27,
+        "duration": 1733,
+        "left": 19,
+        "right": 26
+      },
+      "reason": "match",
+      "wordId": "at",
+      "distance": 0.5800130099042963,
+      "margin": 0.26810083663122447,
+      "top": [
+        {
+          "wordId": "at",
+          "distance": 0.5800130099042963,
+          "references": 3
+        },
+        {
+          "wordId": "qala",
+          "distance": 0.7924766674614304,
+          "references": 2
+        },
+        {
+          "wordId": "ia",
+          "distance": 0.8193528304410391,
+          "references": 6
+        }
+      ],
+      "ms": 53
+    },
+    {
+      "id": "efc168b7-51c0-4b6e-9e5f-7ab2d75b5ee8",
+      "truth": "erten",
+      "signerId": "0211b488644476dd0fec656ccb9b74fc",
+      "quality": {
+        "validFrames": 15,
+        "totalFrames": 18,
+        "poseFrames": 18,
+        "duration": 1133,
+        "left": 14,
+        "right": 1
+      },
+      "reason": "match",
+      "wordId": "keshe",
+      "distance": 0.3634973330944718,
+      "margin": 0.16681738347417452,
+      "top": [
+        {
+          "wordId": "keshe",
+          "distance": 0.3634973330944718,
+          "references": 2
+        },
+        {
+          "wordId": "erten",
+          "distance": 0.4362757046110368,
+          "references": 2
+        },
+        {
+          "wordId": "salem",
+          "distance": 0.4571456430075424,
+          "references": 8
+        }
+      ],
+      "ms": 30
+    },
+    {
+      "id": "f17a6060-6ced-4bd1-9886-8578cfbb864f",
+      "truth": "salem",
+      "signerId": "db573f94204e56e0cf3fc2ea000e5bdc",
+      "quality": {
+        "validFrames": 32,
+        "totalFrames": 32,
+        "poseFrames": 32,
+        "duration": 2067,
+        "left": 32,
+        "right": 26
+      },
+      "reason": "match",
+      "wordId": "salem",
+      "distance": 0.29717662555324154,
+      "margin": 0.26516834682675566,
+      "top": [
+        {
+          "wordId": "salem",
+          "distance": 0.29717662555324154,
+          "references": 8
+        },
+        {
+          "wordId": "ana",
+          "distance": 0.404414567976128,
+          "references": 12
+        },
+        {
+          "wordId": "ake",
+          "distance": 0.47646312630863596,
+          "references": 3
+        }
+      ],
+      "ms": 58
+    },
+    {
+      "id": "f26fac58-33da-40e9-9641-da31c6639aca",
+      "truth": "ake",
+      "signerId": "185bd3a81d9d618518d10abebf0d17a8",
+      "quality": {
+        "validFrames": 31,
+        "totalFrames": 31,
+        "poseFrames": 31,
+        "duration": 2000,
+        "left": 31,
+        "right": 21
+      },
+      "reason": "ambiguous",
+      "wordId": null,
+      "distance": 0.6170483086511889,
+      "margin": 0.05097899844467041,
+      "top": [
+        {
+          "wordId": "salem",
+          "distance": 0.6170483086511889,
+          "references": 8
+        },
+        {
+          "wordId": "ake",
+          "distance": 0.6501945769797739,
+          "references": 3
+        },
+        {
+          "wordId": "ana",
+          "distance": 0.6511753359036799,
+          "references": 12
+        }
+      ],
+      "ms": 60
+    },
+    {
+      "id": "f490f57a-f715-4b80-b125-3af98bf1f4e9",
+      "truth": "erten",
+      "signerId": "db573f94204e56e0cf3fc2ea000e5bdc",
+      "quality": {
+        "validFrames": 21,
+        "totalFrames": 21,
+        "poseFrames": 21,
+        "duration": 1333,
+        "left": 21,
+        "right": 18
+      },
+      "reason": "ambiguous",
+      "wordId": null,
+      "distance": 0.36315918311337103,
+      "margin": 0.06316441092238963,
+      "top": [
+        {
+          "wordId": "salem",
+          "distance": 0.36315918311337103,
+          "references": 8
+        },
+        {
+          "wordId": "ana",
+          "distance": 0.3876445209248832,
+          "references": 12
+        },
+        {
+          "wordId": "ake",
+          "distance": 0.42611871606943363,
+          "references": 3
+        }
+      ],
+      "ms": 49
+    },
+    {
+      "id": "f549af3c-3510-4787-839c-c6d0afecd44b",
+      "truth": "bugin",
+      "signerId": "db573f94204e56e0cf3fc2ea000e5bdc",
+      "quality": {
+        "validFrames": 27,
+        "totalFrames": 29,
+        "poseFrames": 29,
+        "duration": 1867,
+        "left": 25,
+        "right": 23
+      },
+      "reason": "distance",
+      "wordId": null,
+      "distance": 0.7897069150713883,
+      "margin": 0.05031573795475068,
+      "top": [
+        {
+          "wordId": "bugin",
+          "distance": 0.7897069150713883,
+          "references": 3
+        },
+        {
+          "wordId": "ia",
+          "distance": 0.8315468062729268,
+          "references": 6
+        },
+        {
+          "wordId": "salem",
+          "distance": 0.8561727334251925,
+          "references": 8
+        }
+      ],
+      "ms": 49
+    },
+    {
+      "id": "f580a638-00b8-4db5-b43d-b16e2182afff",
+      "truth": "ana",
+      "signerId": "e4bd328bca8e6f51bd6f4f019692b666",
+      "quality": {
+        "validFrames": 18,
+        "totalFrames": 18,
+        "poseFrames": 18,
+        "duration": 1133,
+        "left": 18,
+        "right": 8
+      },
+      "reason": "match",
+      "wordId": "salem",
+      "distance": 0.3985276025467931,
+      "margin": 0.10584412681376605,
+      "top": [
+        {
+          "wordId": "salem",
+          "distance": 0.3985276025467931,
+          "references": 9
+        },
+        {
+          "wordId": "ake",
+          "distance": 0.4457026056616732,
+          "references": 4
+        },
+        {
+          "wordId": "ana",
+          "distance": 0.5296236792167901,
+          "references": 12
+        }
+      ],
+      "ms": 65
+    },
+    {
+      "id": "f7f27201-37fc-4a9f-9fc8-4cfeb71716e8",
+      "truth": "qala",
+      "signerId": "0211b488644476dd0fec656ccb9b74fc",
+      "quality": {
+        "validFrames": 25,
+        "totalFrames": 25,
+        "poseFrames": 25,
+        "duration": 1600,
+        "left": 24,
+        "right": 21
+      },
+      "reason": "distance",
+      "wordId": null,
+      "distance": 0.7148151044446247,
+      "margin": 0.051114658504659,
+      "top": [
+        {
+          "wordId": "at",
+          "distance": 0.7148151044446247,
+          "references": 3
+        },
+        {
+          "wordId": "ana",
+          "distance": 0.7533208420293996,
+          "references": 12
+        },
+        {
+          "wordId": "keshe",
+          "distance": 0.7774018893203942,
+          "references": 2
+        }
+      ],
+      "ms": 68
+    },
+    {
+      "id": "f9fe8bee-37a1-4ecd-b8f2-4f8a97be08a0",
+      "truth": "ia",
+      "signerId": "185bd3a81d9d618518d10abebf0d17a8",
+      "quality": {
+        "validFrames": 21,
+        "totalFrames": 21,
+        "poseFrames": 21,
+        "duration": 1333,
+        "left": 21,
+        "right": 20
+      },
+      "reason": "match",
+      "wordId": "ia",
+      "distance": 0.6170117630519871,
+      "margin": 0.244654341793455,
+      "top": [
+        {
+          "wordId": "ia",
+          "distance": 0.6170117630519871,
+          "references": 6
+        },
+        {
+          "wordId": "ana",
+          "distance": 0.8168601438935772,
+          "references": 12
+        },
+        {
+          "wordId": "salem",
+          "distance": 0.8694888925960852,
+          "references": 8
+        }
+      ],
+      "ms": 71
+    },
+    {
+      "id": "fb3216dc-20a2-4fdd-8224-107be004baa3",
+      "truth": "bugin",
+      "signerId": "185bd3a81d9d618518d10abebf0d17a8",
+      "quality": {
+        "validFrames": 21,
+        "totalFrames": 25,
+        "poseFrames": 25,
+        "duration": 1600,
+        "left": 21,
+        "right": 21
+      },
+      "reason": "distance",
+      "wordId": null,
+      "distance": 0.7597882761854945,
+      "margin": 0.00807272644503497,
+      "top": [
+        {
+          "wordId": "ia",
+          "distance": 0.7597882761854945,
+          "references": 6
+        },
+        {
+          "wordId": "bugin",
+          "distance": 0.7659717566414841,
+          "references": 3
+        },
+        {
+          "wordId": "salem",
+          "distance": 0.8756543600680917,
+          "references": 8
+        }
+      ],
+      "ms": 72
+    },
+    {
+      "id": "fbcfdd09-b129-4145-b0db-bf7ea380bded",
+      "truth": "ia",
+      "signerId": "b07a773bcb10b4f14f33d2b0e8ec58ba",
+      "quality": {
+        "validFrames": 16,
+        "totalFrames": 20,
+        "poseFrames": 20,
+        "duration": 1267,
+        "left": 16,
+        "right": 0
+      },
+      "reason": "ambiguous",
+      "wordId": null,
+      "distance": 0.4931083825015827,
+      "margin": 0.004341539290763943,
+      "top": [
+        {
+          "wordId": "salem",
+          "distance": 0.4931083825015827,
+          "references": 8
+        },
+        {
+          "wordId": "ana",
+          "distance": 0.4952585670294284,
+          "references": 13
+        },
+        {
+          "wordId": "ia",
+          "distance": 0.5205848788476588,
+          "references": 6
+        }
+      ],
+      "ms": 49
+    },
+    {
+      "id": "fbf5a28b-503e-4a22-9dfa-bb840d444b11",
+      "truth": "qala",
+      "signerId": "0211b488644476dd0fec656ccb9b74fc",
+      "quality": {
+        "validFrames": 24,
+        "totalFrames": 25,
+        "poseFrames": 25,
+        "duration": 1600,
+        "left": 21,
+        "right": 18
+      },
+      "reason": "distance",
+      "wordId": null,
+      "distance": 0.7411228814997366,
+      "margin": 0.07913469438198716,
+      "top": [
+        {
+          "wordId": "qala",
+          "distance": 0.7411228814997366,
+          "references": 2
+        },
+        {
+          "wordId": "at",
+          "distance": 0.8048113844427582,
+          "references": 3
+        },
+        {
+          "wordId": "ana",
+          "distance": 0.8553686001491416,
+          "references": 12
+        }
+      ],
+      "ms": 55
+    },
+    {
+      "id": "fee78c7f-22bf-4aa5-bc74-e4ea5c5340ff",
+      "truth": "ake",
+      "signerId": "46dd04a1caa75ed3082b573cb5a3ad26",
+      "quality": {
+        "validFrames": 16,
+        "totalFrames": 20,
+        "poseFrames": 20,
+        "duration": 1267,
+        "left": 0,
+        "right": 16
+      },
+      "reason": "match",
+      "wordId": "ake",
+      "distance": 0.28332626321866466,
+      "margin": 0.4431827243697539,
+      "top": [
+        {
+          "wordId": "ake",
+          "distance": 0.28332626321866466,
+          "references": 3
+        },
+        {
+          "wordId": "keshe",
+          "distance": 0.5088316681589584,
+          "references": 3
+        },
+        {
+          "wordId": "erten",
+          "distance": 0.6686403114266529,
+          "references": 3
+        }
+      ],
+      "ms": 48
+    }
+  ]
+}

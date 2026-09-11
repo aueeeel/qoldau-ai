@@ -1,0 +1,19 @@
+{
+  "name": "qoldau-gesture-prototype",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node server.cjs",
+    "test": "node --test landmark-recognition.test.cjs app.test.cjs vocabulary.test.cjs static-files.test.cjs",
+    "references:build": "node tools/build_references.cjs",
+    "evaluate": "node tools/evaluate_gestures.cjs heldout",
+    "evaluate:loso": "node tools/evaluate_gestures.cjs loso",
+    "samples:import": "node tools/import_samples.cjs",
+    "examples:build": "node tools/build_examples.cjs",
+    "calibrate": "node tools/calibrate_gestures.cjs --fixed-weights",
+    "examples:webm": "python tools/build_webm_examples.py"
+  },
+  "devDependencies": {
+    "linkedom": "0.18.12"
+  }
+}

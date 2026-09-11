@@ -1,0 +1,529 @@
+{
+  "version": 3,
+  "language": "kk",
+  "description": "50 казахских текстовых меток с видеообразцами и эталонами движения Slovo / РЖЯ. Соответствие региональным жестам Казахстана не проверено.",
+  "sources": [
+    {
+      "id": "fluent50",
+      "title": "FluentSigners-50 — корпус KRSL",
+      "url": "https://krslproject.github.io/FluentSigners-50/",
+      "annotations": "https://raw.githubusercontent.com/krslproject/fluentsigners-50/main/gloss_annotation.csv"
+    },
+    {
+      "id": "eymdau",
+      "title": "е-Ымдау — видеословарь",
+      "url": "https://special-edu.kz/kz/news/6/single/961"
+    }
+  ],
+  "words": [
+    {
+      "id": "salem",
+      "kk": "Сәлем",
+      "ru": "Привет",
+      "category": "Общение",
+      "corpusSentenceId": 1,
+      "gloss": "ПРИВЕТ",
+      "slovoClass": 476,
+      "recognitionSource": "Slovo / RSL",
+      "sourceLabel": "Привет!"
+    },
+    {
+      "id": "ia",
+      "kk": "Иә",
+      "ru": "Да",
+      "category": "Общение",
+      "corpusSentenceId": 75,
+      "gloss": "ДА",
+      "slovoClass": 900,
+      "recognitionSource": "Slovo / RSL",
+      "sourceLabel": "да"
+    },
+    {
+      "id": "at",
+      "kk": "Ат",
+      "ru": "Имя",
+      "category": "Общение",
+      "corpusSentenceId": 55,
+      "gloss": "ИМЯ",
+      "slovoClass": 592,
+      "recognitionSource": "Slovo / RSL",
+      "sourceLabel": "имя"
+    },
+    {
+      "id": "ana",
+      "kk": "Ана",
+      "ru": "Мама",
+      "category": "Семья",
+      "corpusSentenceId": 104,
+      "gloss": "МАМА",
+      "slovoClass": 901,
+      "recognitionSource": "Slovo / RSL",
+      "sourceLabel": "мать"
+    },
+    {
+      "id": "ake",
+      "kk": "Әке",
+      "ru": "Папа",
+      "category": "Семья",
+      "corpusSentenceId": 105,
+      "gloss": "ПАПА",
+      "slovoClass": 521,
+      "recognitionSource": "Slovo / RSL",
+      "sourceLabel": "отец"
+    },
+    {
+      "id": "qala",
+      "kk": "Қала",
+      "ru": "Город",
+      "category": "Мир вокруг",
+      "corpusSentenceId": 70,
+      "gloss": "ГОРОД",
+      "slovoClass": 710,
+      "recognitionSource": "Slovo / RSL",
+      "sourceLabel": "город"
+    },
+    {
+      "id": "bugin",
+      "kk": "Бүгін",
+      "ru": "Сегодня",
+      "category": "Время",
+      "corpusSentenceId": 81,
+      "gloss": "СЕГОДНЯ",
+      "slovoClass": 653,
+      "recognitionSource": "Slovo / RSL",
+      "sourceLabel": "сегодня"
+    },
+    {
+      "id": "erten",
+      "kk": "Ертең",
+      "ru": "Завтра",
+      "category": "Время",
+      "corpusSentenceId": 83,
+      "gloss": "ЗАВТРА",
+      "slovoClass": 582,
+      "recognitionSource": "Slovo / RSL",
+      "sourceLabel": "завтра"
+    },
+    {
+      "id": "keshe",
+      "kk": "Кеше",
+      "ru": "Вчера",
+      "category": "Время",
+      "corpusSentenceId": 82,
+      "gloss": "ВЧЕРА",
+      "slovoClass": 554,
+      "recognitionSource": "Slovo / RSL",
+      "sourceLabel": "вчера"
+    },
+    {
+      "id": "su",
+      "kk": "Су",
+      "ru": "Вода",
+      "category": "Каждый день",
+      "gloss": "ВОДА",
+      "slovoClass": 662,
+      "sourceLabel": "вода",
+      "recognitionSource": "Slovo / RSL"
+    },
+    {
+      "id": "ui",
+      "kk": "Үй",
+      "ru": "Дом",
+      "category": "Каждый день",
+      "gloss": "ДОМ",
+      "slovoClass": 528,
+      "sourceLabel": "дом",
+      "recognitionSource": "Slovo / RSL"
+    },
+    {
+      "id": "kitap",
+      "kk": "Кітап",
+      "ru": "Книга",
+      "category": "Учёба",
+      "gloss": "КНИГА",
+      "slovoClass": 548,
+      "sourceLabel": "книга",
+      "recognitionSource": "Slovo / RSL"
+    },
+    {
+      "id": "mektep",
+      "kk": "Мектеп",
+      "ru": "Школа",
+      "category": "Учёба",
+      "gloss": "ШКОЛА",
+      "slovoClass": 722,
+      "sourceLabel": "школа",
+      "recognitionSource": "Slovo / RSL"
+    },
+    {
+      "id": "it",
+      "kk": "Ит",
+      "ru": "Собака",
+      "category": "Животные",
+      "gloss": "СОБАКА",
+      "slovoClass": 68,
+      "sourceLabel": "собака",
+      "recognitionSource": "Slovo / RSL"
+    },
+    {
+      "id": "mysyq",
+      "kk": "Мысық",
+      "ru": "Кошка",
+      "category": "Животные",
+      "gloss": "КОШКА",
+      "slovoClass": 57,
+      "sourceLabel": "кошка",
+      "recognitionSource": "Slovo / RSL"
+    },
+    {
+      "id": "nan",
+      "kk": "Нан",
+      "ru": "Хлеб",
+      "category": "Еда",
+      "gloss": "ХЛЕБ",
+      "slovoClass": 651,
+      "sourceLabel": "хлеб",
+      "recognitionSource": "Slovo / RSL"
+    },
+    {
+      "id": "dos",
+      "kk": "Дос",
+      "ru": "Друг",
+      "category": "Общение",
+      "gloss": "ДРУГ",
+      "slovoClass": 630,
+      "sourceLabel": "друг",
+      "recognitionSource": "Slovo / RSL"
+    },
+    {
+      "id": "otbasy",
+      "kk": "Отбасы",
+      "ru": "Семья",
+      "category": "Семья",
+      "gloss": "СЕМЬЯ",
+      "slovoClass": 516,
+      "sourceLabel": "семья",
+      "recognitionSource": "Slovo / RSL"
+    },
+    {
+      "id": "tamaq",
+      "kk": "Тамақ",
+      "ru": "Еда",
+      "category": "Еда",
+      "gloss": "ЕДА",
+      "slovoClass": 549,
+      "sourceLabel": "еда",
+      "recognitionSource": "Slovo / RSL"
+    },
+    {
+      "id": "kun",
+      "kk": "Күн",
+      "ru": "Солнце",
+      "category": "Мир вокруг",
+      "gloss": "СОЛНЦЕ",
+      "slovoClass": 732,
+      "sourceLabel": "солнце",
+      "recognitionSource": "Slovo / RSL"
+    },
+    {
+      "id": "bala",
+      "kk": "Бала",
+      "ru": "Ребёнок",
+      "category": "Семья",
+      "gloss": "РЕБЁНОК",
+      "slovoClass": 604,
+      "sourceLabel": "ребёнок",
+      "recognitionSource": "Slovo / RSL"
+    },
+    {
+      "id": "jaqsy",
+      "kk": "Жақсы",
+      "ru": "Хорошо",
+      "category": "Общение",
+      "gloss": "ХОРОШО",
+      "slovoClass": 540,
+      "sourceLabel": "хорошо",
+      "recognitionSource": "Slovo / RSL"
+    },
+    {
+      "id": "jaman",
+      "kk": "Жаман",
+      "ru": "Плохо",
+      "category": "Общение",
+      "gloss": "ПЛОХО",
+      "slovoClass": 766,
+      "sourceLabel": "Плохо",
+      "recognitionSource": "Slovo / RSL"
+    },
+    {
+      "id": "tun",
+      "kk": "Түн",
+      "ru": "Ночь",
+      "category": "Время",
+      "gloss": "НОЧЬ",
+      "slovoClass": 589,
+      "sourceLabel": "ночь",
+      "recognitionSource": "Slovo / RSL"
+    },
+    {
+      "id": "tan",
+      "kk": "Таң",
+      "ru": "Утро",
+      "category": "Время",
+      "gloss": "УТРО",
+      "slovoClass": 597,
+      "sourceLabel": "утро",
+      "recognitionSource": "Slovo / RSL"
+    },
+    {
+      "id": "kesh",
+      "kk": "Кеш",
+      "ru": "Вечер",
+      "category": "Время",
+      "gloss": "ВЕЧЕР",
+      "slovoClass": 715,
+      "sourceLabel": "вечер",
+      "recognitionSource": "Slovo / RSL"
+    },
+    {
+      "id": "aqsha",
+      "kk": "Ақша",
+      "ru": "Деньги",
+      "category": "Каждый день",
+      "gloss": "ДЕНЬГИ",
+      "slovoClass": 744,
+      "sourceLabel": "деньги",
+      "recognitionSource": "Slovo / RSL"
+    },
+    {
+      "id": "uaqyt",
+      "kk": "Уақыт",
+      "ru": "Время",
+      "category": "Время",
+      "gloss": "ВРЕМЯ",
+      "slovoClass": 755,
+      "sourceLabel": "время",
+      "recognitionSource": "Slovo / RSL"
+    },
+    {
+      "id": "balyq",
+      "kk": "Балық",
+      "ru": "Рыба",
+      "category": "Животные",
+      "gloss": "РЫБА",
+      "slovoClass": 84,
+      "sourceLabel": "рыба",
+      "recognitionSource": "Slovo / RSL"
+    },
+    {
+      "id": "qus",
+      "kk": "Құс",
+      "ru": "Птица",
+      "category": "Животные",
+      "gloss": "ПТИЦА",
+      "slovoClass": 87,
+      "sourceLabel": "птица",
+      "recognitionSource": "Slovo / RSL"
+    },
+    {
+      "id": "qyzyl",
+      "kk": "Қызыл",
+      "ru": "Красный",
+      "sourceLabel": "красный",
+      "category": "Цвета",
+      "gloss": "КРАСНЫЙ",
+      "slovoClass": 252,
+      "recognitionSource": "Slovo / RSL"
+    },
+    {
+      "id": "kok",
+      "kk": "Көк",
+      "ru": "Синий",
+      "sourceLabel": "синий",
+      "category": "Цвета",
+      "gloss": "СИНИЙ",
+      "slovoClass": 257,
+      "recognitionSource": "Slovo / RSL"
+    },
+    {
+      "id": "jasyl",
+      "kk": "Жасыл",
+      "ru": "Зелёный",
+      "sourceLabel": "зелёный",
+      "category": "Цвета",
+      "gloss": "ЗЕЛЁНЫЙ",
+      "slovoClass": 258,
+      "recognitionSource": "Slovo / RSL"
+    },
+    {
+      "id": "aq",
+      "kk": "Ақ",
+      "ru": "Белый",
+      "sourceLabel": "белый",
+      "category": "Цвета",
+      "gloss": "БЕЛЫЙ",
+      "slovoClass": 259,
+      "recognitionSource": "Slovo / RSL"
+    },
+    {
+      "id": "qara",
+      "kk": "Қара",
+      "ru": "Чёрный",
+      "sourceLabel": "черный",
+      "category": "Цвета",
+      "gloss": "ЧЕРНЫЙ",
+      "slovoClass": 254,
+      "recognitionSource": "Slovo / RSL"
+    },
+    {
+      "id": "sary",
+      "kk": "Сары",
+      "ru": "Жёлтый",
+      "sourceLabel": "жёлтый",
+      "category": "Цвета",
+      "gloss": "ЖЁЛТЫЙ",
+      "slovoClass": 538,
+      "recognitionSource": "Slovo / RSL"
+    },
+    {
+      "id": "ulken",
+      "kk": "Үлкен",
+      "ru": "Большой",
+      "sourceLabel": "большой",
+      "category": "Признаки",
+      "gloss": "БОЛЬШОЙ",
+      "slovoClass": 583,
+      "recognitionSource": "Slovo / RSL"
+    },
+    {
+      "id": "kishkentai",
+      "kk": "Кішкентай",
+      "ru": "Маленький",
+      "sourceLabel": "маленький",
+      "category": "Признаки",
+      "gloss": "МАЛЕНЬКИЙ",
+      "slovoClass": 497,
+      "recognitionSource": "Slovo / RSL"
+    },
+    {
+      "id": "erkek",
+      "kk": "Еркек",
+      "ru": "Мужчина",
+      "sourceLabel": "мужчина",
+      "category": "Люди",
+      "gloss": "МУЖЧИНА",
+      "slovoClass": 518,
+      "recognitionSource": "Slovo / RSL"
+    },
+    {
+      "id": "aiel",
+      "kk": "Әйел",
+      "ru": "Женщина",
+      "sourceLabel": "женщина",
+      "category": "Люди",
+      "gloss": "ЖЕНЩИНА",
+      "slovoClass": 535,
+      "recognitionSource": "Slovo / RSL"
+    },
+    {
+      "id": "apta",
+      "kk": "Апта",
+      "ru": "Неделя",
+      "sourceLabel": "неделя",
+      "category": "Время",
+      "gloss": "НЕДЕЛЯ",
+      "slovoClass": 505,
+      "recognitionSource": "Slovo / RSL"
+    },
+    {
+      "id": "ai",
+      "kk": "Ай",
+      "ru": "Месяц",
+      "sourceLabel": "месяц",
+      "category": "Время",
+      "gloss": "МЕСЯЦ",
+      "slovoClass": 572,
+      "recognitionSource": "Slovo / RSL"
+    },
+    {
+      "id": "jyl",
+      "kk": "Жыл",
+      "ru": "Год",
+      "sourceLabel": "год",
+      "category": "Время",
+      "gloss": "ГОД",
+      "slovoClass": 751,
+      "recognitionSource": "Slovo / RSL"
+    },
+    {
+      "id": "oqu",
+      "kk": "Оқу",
+      "ru": "Читать",
+      "sourceLabel": "читать",
+      "category": "Действия",
+      "gloss": "ЧИТАТЬ",
+      "slovoClass": 695,
+      "recognitionSource": "Slovo / RSL"
+    },
+    {
+      "id": "jazu",
+      "kk": "Жазу",
+      "ru": "Писать",
+      "sourceLabel": "писать",
+      "category": "Действия",
+      "gloss": "ПИСАТЬ",
+      "slovoClass": 509,
+      "recognitionSource": "Slovo / RSL"
+    },
+    {
+      "id": "ishu",
+      "kk": "Ішу",
+      "ru": "Пить",
+      "sourceLabel": "пить",
+      "category": "Действия",
+      "gloss": "ПИТЬ",
+      "slovoClass": 449,
+      "recognitionSource": "Slovo / RSL"
+    },
+    {
+      "id": "uiyqtau",
+      "kk": "Ұйықтау",
+      "ru": "Спать",
+      "sourceLabel": "спать",
+      "category": "Действия",
+      "gloss": "СПАТЬ",
+      "slovoClass": 893,
+      "recognitionSource": "Slovo / RSL"
+    },
+    {
+      "id": "tyndau",
+      "kk": "Тыңдау",
+      "ru": "Слушать",
+      "sourceLabel": "слушать",
+      "category": "Действия",
+      "gloss": "СЛУШАТЬ",
+      "slovoClass": 639,
+      "recognitionSource": "Slovo / RSL"
+    },
+    {
+      "id": "qarau",
+      "kk": "Қарау",
+      "ru": "Смотреть",
+      "sourceLabel": "смотреть",
+      "category": "Действия",
+      "gloss": "СМОТРЕТЬ",
+      "slovoClass": 571,
+      "recognitionSource": "Slovo / RSL"
+    },
+    {
+      "id": "bilu",
+      "kk": "Білу",
+      "ru": "Знать",
+      "sourceLabel": "знать",
+      "category": "Действия",
+      "gloss": "ЗНАТЬ",
+      "slovoClass": 896,
+      "recognitionSource": "Slovo / RSL"
+    }
+  ]
+}

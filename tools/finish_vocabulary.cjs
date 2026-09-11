@@ -1,0 +1,21 @@
+const fs=require('node:fs'),path=require('node:path'),{execFileSync}=require('node:child_process');
+const root=path.resolve(__dirname,'..');process.chdir(root);
+const rows=JSON.parse(fs.readFileSync('gesture-data/manifest.json','utf8'));
+for(const row of rows){const raw=JSON.parse(fs.readFileSync('gesture-data/raw/'+row.id+'.json','utf8'));if(!Array.isArray(raw.frames))throw Error('Missing raw frames: '+row.id);}
+const next=JSON.parse(fs.readFileSync('gesture-data/vocabulary-next.json','utf8'));if(next.words.length!==50||new Set(next.words.map(w=>w.id)).size!==50)throw Error('Expected 50 distinct words');
+const run=(file,...args)=>execFileSync(process.execPath,[file,...args],{cwd:root,stdio:'inherit',windowsHide:true});
+run('tools/build_references.cjs','--staged');
+run('tools/calibrate_gestures.cjs','--fixed-weights');
+run('tools/build_references.cjs','--staged');
+process.env.QOLDAU_VOCABULARY='gesture-data/vocabulary-next.json';run('tools/build_examples.cjs');
+const bundled=path.join(process.env.USERPROFILE||'', '.cache/codex-runtimes/codex-primary-runtime/dependencies/python/python.exe');
+const python=process.env.QOLDAU_PYTHON||(fs.existsSync(bundled)?bundled:'python');
+execFileSync(python,['tools/build_webm_examples.py'],{cwd:root,stdio:'inherit',windowsHide:true});
+const refs=JSON.parse(fs.readFileSync('gesture-data/references-next.json','utf8'));
+if(new Set(refs.templates.map(t=>t.wordId)).size!==next.words.length)throw Error('Incomplete reference library');
+fs.copyFileSync('gesture-data/references-next.json','gesture-data/references.json');
+fs.copyFileSync('gesture-data/vocabulary-next.json','data/words.json');
+run('tools/evaluate_gestures.cjs','heldout');run('tools/evaluate_gestures.cjs','loso');
+run('--test','landmark-recognition.test.cjs','app.test.cjs','vocabulary.test.cjs','static-files.test.cjs');
+run('tools/write_gesture_report.cjs');run('tools/update_vocabulary_docs.cjs');
+console.log('Vocabulary expansion completed:',next.words.length,'words');
